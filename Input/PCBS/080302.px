@@ -1,0 +1,55 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=2;
+SHOWDECIMALS=2;
+MATRIX="080302";
+SUBJECT-CODE="COURT";
+SUBJECT-AREA="الحكم و الأمن و العدالة";
+SUBJECT-AREA[en]="Governance, Security and Justice";
+DESCRIPTION="عدد القضايا لكل قاضي حسب المنطقة ونوع المحكمة والحالة";
+DESCRIPTION[en]="The cases Per Judge by Region, Court type and case";
+TITLE="عدد القضايا لكل قاضي حسب المنطقة ونوع المحكمة والحالة";
+TITLE[en]="The cases Per Judge by Region, Court type and case";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد القضايا لكل قاضي حسب المنطقة ونوع المحكمة والحالة";
+CONTENTS[en]="The cases Per Judge by Region, Court type and case";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="المنطقة","المحكمة";
+STUB[en]="Region","Court Type";
+HEADING="السنة","الحالة";
+HEADING[en]="Year","Case";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("المحكمة")="المجموع","المحكمة العليا","محكمة الاستئناف","محاكم البداية","محاكم الصلح";
+VALUES[en]("Court Type")="Total","Supreme Court","Appellate courts","Primary courts",
+"magistrates courts";
+VALUES("السنة")="2011","2012","2013";
+VALUES[en]("Year")="2011","2012","2013";
+VALUES("الحالة")="عدد القضايا المدورة لكل قاضي","عدد القضايا الواردة لكل قاضي",
+"عدد القضايا المفصولة لكل قاضي";
+VALUES[en]("Case")="Retained cases per Judge"," Incoming cases per Judge",
+" Out looked cases per judge";
+DATABASE="قاعدة بيانات إحصاءات الجريمة والضحية 1996-2013";
+DATABASE[en]="Data Base of Crime and Victimization Statistics 1996-2013";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات إحصاءات الجريمة والضحية 1996-2013";
+SURVEY[en]="Data Base of Crime and Victimization Statistics 1996-2013";
+DATA=
+548 1030 927 41611 124129 165740 252 911 866 
+65 86 63 1760 1753 3513 89 98.31 105 
+51 210 212 1074 4877 5951 50 240 227 
+177 166 153 10836 10191 21027 190 170 136 
+347 1243 1241 27941 107308 135249 434 2096 2013 
+1369 1672 1128 1799 1486 1039 2270 1817 1206 
+"-" "-" "-" "-" "-" "-" ".." ".." ".." 
+"-" "-" "-" "-" "-" "-" ".." ".." ".." 
+"-" "-" "-" "-" "-" "-" ".." ".." ".." 
+"-" "-" "-" "-" "-" "-" ".." ".." ".." 
+690 1088 918 482 812 725 577 1052 920 
+"-" "-" "-" "-" "-" "-" ".." ".." ".." 
+"-" "-" "-" "-" "-" "-" ".." ".." ".." 
+"-" "-" "-" "-" "-" "-" ".." ".." ".." 
+"-" "-" "-" "-" "-" "-" ".." ".." ".."; 

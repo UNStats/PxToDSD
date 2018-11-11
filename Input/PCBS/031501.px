@@ -1,0 +1,33 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="031501";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="نسبة طلبة الفروع المهنية من مجموع الطلبة المتقدمين لامتحان شهادة الدراسة الثانوية حسب الجنس";
+DESCRIPTION[en]="Percentage of the students enrolling in the Tawjihi Vocational stream exam by sex";
+TITLE="نسبة طلبة الفروع المهنية من مجموع الطلبة المتقدمين لامتحان شهادة الدراسة الثانوية حسب الجنس";
+TITLE[en]="Percentage of the students enrolling in the Tawjihi Vocational stream exam by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة طلبة الفروع المهنية من مجموع الطلبة المتقدمين لامتحان شهادة الدراسة الثانوية حسب الجنس";
+CONTENTS[en]="Percentage of the students enrolling in the Tawjihi Vocational stream exam by sex";
+UNITS="نسبة طلبة الفروع المهنية";
+UNITS[en]="Percentage of the students enrolling in the Tawjihi";
+STUB="السنة الدراسية";
+STUB[en]="Scholastic Year";
+HEADING="الجنس";
+HEADING[en]="Sex";
+VALUES("السنة الدراسية")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES("الجنس")="ذكر","أنثى","كلا الجنسين";
+VALUES[en]("Sex")="Male","Female","Both Sexes";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+3.6 0.4 1.8 
+3.4 0.3 1.7 
+3.5 0.5 1.8 
+4 0.4 2; 

@@ -1,0 +1,43 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="010401";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="نسبة السكان في الفئة العمرية 65 سنة  فاكثر في فلسطين  حسب المنطقة";
+DESCRIPTION[en]="Percentage  of  Population in the age group 65 years and over  in the Palestine by Region";
+TITLE="نسبة السكان في الفئة العمرية 65 سنة  فاكثر في فلسطين  حسب المنطقة";
+TITLE[en]="Percentage  of  Population in the age group 65 years and over  in the Palestine by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة السكان في الفئة العمرية 65 سنة  فاكثر في فلسطين  حسب المنطقة";
+CONTENTS[en]="Percentage  of  Population in the age group 65 years and over  in the Palestine by Region";
+UNITS="نسبة";
+UNITS[en]="Percent";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="تقديرات مبنية على النتائج النهائية للتعداد العام للسكان والمساكن والمنشآت ،2007.";
+SURVEY[en]="Revised Estimates based on the final results of Population, Housing and Establishment Ce"
+"nsus 2007";
+OFFICIAL-STATISTICS=YES;
+DATA=
+2.9 2.9 2.9 2.9 
+3.3 3.3 3.2 3.2 
+2.4 2.4 2.4 2.4; 

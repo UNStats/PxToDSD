@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020601";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل الأسرة لكل 10000 من السكان حسب المنطقة";
+DESCRIPTION[en]="Beds per 10000 person Region";
+TITLE="معدل الأسرة لكل 10000 من السكان حسب المنطقة";
+TITLE[en]="Beds per 10000 person Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الأسرة لكل 10000 من السكان حسب المنطقة";
+CONTENTS[en]="Beds per 10000 person Region";
+UNITS="سرير";
+UNITS[en]="Bed";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+13 12.6 12.5 13.1 
+12.3 11.8 11.8 12.6 
+14.2 13.9 13.6 13.8; 

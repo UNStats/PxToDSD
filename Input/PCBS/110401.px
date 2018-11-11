@@ -1,0 +1,58 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="110401";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="الدخل القومي الاجمالي حسب المنطقة بالأسعار الثابتة: سنة الأساس 2004";
+DESCRIPTION[en]="Gross National Income by Region at Constant Prices: 2004 is the Base Year";
+TITLE="الدخل القومي الاجمالي حسب المنطقة بالأسعار الثابتة: سنة الأساس 2004";
+TITLE[en]="Gross National Income by Region at Constant Prices: 2004 is the Base Year";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="الدخل القومي الاجمالي حسب المنطقة بالأسعار الثابتة: سنة الأساس 2004";
+CONTENTS[en]="Gross National Income by Region at Constant Prices: 2004 is the Base Year";
+UNITS="مليون دولار امريكي";
+UNITS[en]="One Milion Dollar";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza","Palestine";
+VALUES("السنة")="2010","الربع الأول 2011","الربع الثاني 2011","الربع الثالث 2011",
+"الربع الرابع 2011","2011","الربع الأول 2012","الربع الثاني 2012","الربع الثالث 2012",
+"الربع الرابع 2012","2012","الربع الأول 2013","الربع الثاني 2013","الربع الثالث 2013",
+"الربع الرابع 2013","2013","الربع الأول 2014","الربع الثاني 2014","الربع الثالث 2014",
+"الربع الرابع 2014","2014","الربع الاول 2015","الربع الثاني 2015","الربع الثالث 2015",
+"الربع الرابع 2015","2015","الربع الاول 2016","الربع الثاني 2016","الربع الثالث 2016";
+VALUES[en]("Year")="2010","Q1-2011","Q2-2011","Q3-2011","Q4-2011","2011","Q1-2012","Q2-2012",
+"Q3-2012","Q4-2012","2012","Q1-2013","Q2-2013","Q3-2013","Q4-2013","2013","Q1-2014","Q2-2014",
+"Q3-2014","Q4-2014","2014","Q1-2015","Q2-2015","Q3-2015","Q4-2015","2015","Q1-2016","Q2-2016",
+"Q3-2016";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="إحصاءات الحسابات القومية";
+SURVEY[en]="National Accounts Statistics, 2010-2012";
+VALUENOTEX("المنطقة","الضفة الغربية")="البيانات باستثناء ذلك الجزء من محافظة القدس والذي ضمته إسرائيل عنوة بعيد احتلالها للضفة الغربية عام 1967.";
+VALUENOTEX[en]("Region","West Bank")="The Data  excludes those parts of Jerusalem which were annexed  by Israel in 1967.";
+VALUENOTEX("السنة","2010")="تقديرات أولية وهي عرضة للتنقيح والتعديل.";
+VALUENOTEX[en]("Year","2010")="The data is Preliminary and will be revised";
+VALUENOTEX("السنة","2011")="تقديرات أولية وهي عرضة للتنقيح والتعديل.";
+VALUENOTEX[en]("Year","2011")="The data is Preliminary and will be revised";
+VALUENOTEX("السنة","2012")="تقديرات أولية وهي عرضة للتنقيح والتعديل.";
+VALUENOTEX[en]("Year","2012")="The data is Preliminary and will be revised";
+OFFICIAL-STATISTICS=YES;
+DATA=
+4646.5 1312.6 1354.5 1376.5 1431.9 5475.5 1399.9 1469.2 1490.1 1487.7 5846.9 1388.6 1510.5 1516.8 1528.8 5944.7 1580.2 1630.3 1586.7 1641.8 6439 1638 1708.8 1684.1 1692.8 6723.7 1648.6 1711.6 1691.8 
+1442.7 443.9 483.8 456.4 439.6 1823.7 453.2 512.7 506.8 471.9 1944.6 526.6 544.8 531.3 523.1 2125.8 486.3 489.6 337.3 405.2 1718.4 429.6 457.3 448 485.6 1820.5 498 487.1 507.9 
+6089.2 1756.5 1838.3 1832.9 1871.5 7299.2 1853.1 1981.9 1996.9 1959.6 7791.5 1915.2 2055.3 2048.1 2051.9 8070.5 2066.5 2119.9 1924 2047 8157.4 2067.6 2166.1 2132.1 2178.4 8544.2 2146.6 2198.7 2199.7; 

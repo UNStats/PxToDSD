@@ -1,0 +1,49 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="100307";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="التوزيع النسبي للعاملين 15 سنة فأكثر  حسب المنطقة ومكان العمل";
+DESCRIPTION[en]="Percentage Distribution of Employed Persons Aged 15 Years and Above by Work place and Region";
+TITLE="التوزيع النسبي للعاملين 15 سنة فأكثر  حسب المنطقة ومكان العمل";
+TITLE[en]="Percentage Distribution of Employed Persons Aged 15 Years and Above by Work place and Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="التوزيع النسبي للعاملين 15 سنة فأكثر  حسب المنطقة ومكان العمل";
+CONTENTS[en]="Percentage Distribution of Employed Persons Aged 15 Years and Above by Work Place and Region";
+UNITS="نسبة";
+UNITS[en]="Percent";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة","مكان العمل";
+HEADING[en]="Year","Work Place";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2010","2011","2012","الربع الأول 2012","الربع الثاني 2012","الربع الثالث 2012",
+"الربع الرابع 2012","الربع الأول 2013","الربع الثاني 2013","الربع الثالث 2013","الربع الرابع 2013",
+"الربع الأول 2014","الربع الثاني 2014","الربع الثالث 2014","الربع الرابع 2014","2014",
+"الربع الاول 2015";
+VALUES[en]("Year")="2010","2011","2012","Q1 - 2012","Q2 - 2012","Q3 - 2012","Q4 - 2012",
+"Q1 - 2013","Q2 - 2013","Q3 - 2013","Q4 - 2013","Q1 - 2014","Q2-2014","Q3-2014","Q4-2014","2014",
+"Q1-2015";
+VALUES("مكان العمل")="الضفة الغربية","قطاع غزة","اسرائيل والمستوطنات","المجموع";
+VALUES[en]("Work Place")="West Bank","Gaza Strip","Israel and Settlements","Total";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات مسح القوى العاملة";
+SURVEY[en]="Labor Force Survey";
+OFFICIAL-STATISTICS=YES;
+DATA=
+85.8 "-" 14.2 100 86 "-" 14 100 86.2 "-" 13.8 100 86.8 0 13.2 100 86.9 0 13.1 100 85.1 0 14.9 100 89 0 14 100 84.4 0 15.6 100 84.5 0 15.5 100 83.2 0 16.8 100 83.6 0 16.4 100 83.4 "-" 16.6 100 83.7 0 16.3 100 84 0 16 100 84.4 0 15.6 100 83.9 0 16.1 100 83.6 0 16.4 100 
+"-" 100 0 100 "-" 100 0 100 0.1 99.9 0 100 0 100 0 100 0.1 99.9 0 100 0.1 99.9 0 100 0 100 0 100 0.1 99.9 0 100 0 100 0 100 0.1 99.9 0 100 0.2 99.8 0 100 0.1 99.9 "-" 100 0 100 0 100 0 100 0 100 0.1 99.9 0 100 0.1 99.9 0 100 0.1 99.9 0 100 
+63.5 26 10.5 100 60.9 29.1 10 100 60.4 29.9 9.7 100 60.9 29.9 9.2 100 60.5 30.3 9.2 100 59.3 30.3 10.4 100 61 29.1 9.9 100 58.5 30.7 10.8 100 58.3 31 10.7 100 57.8 30.5 11.7 100 59.8 28.5 11.7 100 59.9 28.2 11.9 100 61.1 27 11.9 100 62.4 25.7 11.9 100 60.9 27.8 11.3 100 61.1 27.2 11.7 100 59.6 28.7 11.7 100; 

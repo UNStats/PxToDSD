@@ -1,0 +1,43 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="150101";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="اعداد الثروة الحيوانية حسب نوع الثروة";
+DESCRIPTION[en]="Number of Livestock by Type";
+TITLE="اعداد الثروة الحيوانية حسب نوع الثروة";
+TITLE[en]="Number of Livestock by Type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="اعداد الثروة الحيوانية حسب نوع الثروة";
+CONTENTS[en]="Number of Livestock by Type";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة","النوع";
+HEADING[en]="Year","Type";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2011","2013";
+VALUES[en]("Year")="2010","2011","2013";
+VALUES("النوع")="الابقار","الاغنام","الماعز","خلايا النحل","الدجاج اللاحم (بالألف)",
+"الدجاج البياض (بالألف)";
+VALUES[en]("Type")="Camels","Sheep","Goats","Beehives","Broilers(1000)","Layers(1000)";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+OFFICIAL-STATISTICS=YES;
+DATA=
+33925 567236 219364 38216 31111.4 1545 39625 732399 240136 44278 36547.5 1626.5 33980 730894 215335 46226 31515.4 1776.8 
+24925 505833 207214 29040 23554.9 1223.7 26477 669843 226428 38373 20174 1328.8 25612 670332 204937 39211 23297.2 1425.6 
+9635 61403 12150 9176 7556.5 311.3 13148 62556 13708 5905 16373.5 297.7 8368 60562 10398 7015 8218.2 351.2; 

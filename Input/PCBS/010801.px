@@ -1,0 +1,43 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="010801";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+OFFICIAL-STATISTICS=YES;
+DESCRIPTION="معدل الخصوبة في فلسطين حسب المنطقة";
+DESCRIPTION[en]="Total Fertility Rates  in Palestine by Region";
+TITLE="معدل الخصوبة في فلسطين حسب المنطقة";
+TITLE[en]="Total Fertility Rates  in Palestine by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الخصوبة في فلسطين حسب المنطقة";
+CONTENTS[en]="Total Fertility Rates  in Palestine by Region";
+UNITS="معدل";
+UNITS[en]="Average";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2006","2010";
+VALUES[en]("Year")="2006","2010";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="تقديرات مبنية على النتائج النهائية للتعداد العام للسكان والمساكن والمنشآت ،2007.";
+SURVEY[en]="Revised Estimates based on the final results of Population, Housing and Establishment Ce"
+"nsus 2007";
+DATA=
+4.6 4.4 
+4.2 4 
+5.4 5.2; 

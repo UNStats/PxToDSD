@@ -1,0 +1,32 @@
+CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="031103";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="„⁄œ·  Õ’Ì· ÿ·»… «·’› «·À«„‰ «·√”«”Ì ›Ì „«œ… «·—Ì«÷Ì«  ›Ì «·«Œ »«— «·Ê“«—Ì «·„ÊÕœ Õ”» «·Ã‰”";
+DESCRIPTION[en]="Achievement average of grade 8 in Math in the unified test by sex";
+TITLE="„⁄œ·  Õ’Ì· ÿ·»… «·’› «·À«„‰ «·√”«”Ì ›Ì „«œ… «·—Ì«÷Ì«  ›Ì «·«Œ »«— «·Ê“«—Ì «·„ÊÕœ Õ”» «·Ã‰”";
+TITLE[en]="Achievement average of grade 8 in Math in the unified test by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="„⁄œ·  Õ’Ì· ÿ·»… «·’› «·À«„‰ «·√”«”Ì ›Ì „«œ… «·—Ì«÷Ì«  ›Ì «·«Œ »«— «·Ê“«—Ì «·„ÊÕœ Õ”» «·Ã‰”";
+CONTENTS[en]="Achievement average of grade 8 in Math in the unified test by sex";
+UNITS="„⁄œ·  Õ’Ì·";
+UNITS[en]="Achievement average";
+STUB="«·”‰… «·œ—«”Ì…";
+STUB[en]="Scholastic Year";
+HEADING="«·Ã‰”";
+HEADING[en]="Sex";
+VALUES("«·”‰… «·œ—«”Ì…")="2012/2011","2013/2012","2013/2014";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2013/2014";
+VALUES("«·Ã‰”")="–ﬂ—","√‰ÀÏ","ﬂ·« «·Ã‰”Ì‰";
+VALUES[en]("Sex")="Male","Female","Both Sexes";
+SOURCE="Ê“«—… «· —»Ì… Ê«· ⁄·Ì„ «·⁄«·Ì";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+25 34 29 
+34.3 43.5 39 
+28.1 38.1 33.1; 

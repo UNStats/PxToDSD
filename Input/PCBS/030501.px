@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="030501";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="معدل البقاء حتى الصف الخامس الأساسي حسب الجنس";
+DESCRIPTION[en]="Student survival rate for grade 5 by sex";
+TITLE="معدل البقاء حتى الصف الخامس الأساسي حسب الجنس";
+TITLE[en]="Student survival rate for grade 5 by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل البقاء حتى الصف الخامس الأساسي حسب الجنس";
+CONTENTS[en]="Student survival rate for grade 5 by sex";
+UNITS="معدل البقاء";
+UNITS[en]="Student survival";
+STUB="السنة الدراسية";
+STUB[en]="Scholastic Year";
+HEADING="الجنس";
+HEADING[en]="Sex";
+VALUES("السنة الدراسية")="2012/2011","2013/2012","2013/2014";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2013/2014";
+VALUES("الجنس")="ذكر","أنثى","كلا الجنسين";
+VALUES[en]("Sex")="Male","Female","Both Sexes";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+98.6 98.4 98.5 
+97.7 97.9 97.8 
+98.3 98.3 98.3; 

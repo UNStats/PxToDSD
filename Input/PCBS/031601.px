@@ -1,0 +1,33 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="031601";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="نسبة الطلبة في القدس التي تشرف عليها دولة فلسطين حسب الجنس";
+DESCRIPTION[en]="Percentage of students in Jerusalem supervised by the State of Palestine by sex";
+TITLE="نسبة الطلبة في القدس التي تشرف عليها دولة فلسطين حسب الجنس";
+TITLE[en]="Percentage of students in Jerusalem supervised by the State of Palestine by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الطلبة في القدس التي تشرف عليها دولة فلسطين حسب الجنس";
+CONTENTS[en]="Percentage of students in Jerusalem supervised by the State of Palestine by sex";
+UNITS="نسبة الطلبة في القدس التي تشرف عليها دولة فلسطين";
+UNITS[en]="Percentage of students in Jerusalem supervised by the State of Palestine";
+STUB="السنة الدراسية";
+STUB[en]="Scholastic Year";
+HEADING="الجنس";
+HEADING[en]="Sex";
+VALUES("السنة الدراسية")="2012/2011","2013/2012","2014/2013","2015/2014";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2014/2013","2015/2014";
+VALUES("الجنس")="ذكر","أنثى";
+VALUES[en]("Sex")="Male","Female";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+63.8 62 
+60.9 65.7 
+62.2 65.9 
+67.8 65.7; 

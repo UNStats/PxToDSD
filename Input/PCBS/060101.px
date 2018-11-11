@@ -1,0 +1,40 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+ROUNDING=0;
+MATRIX="060101";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="الإسكان";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="الكثافة السكانية ( فرد/كم2) حسب المنطقة";
+DESCRIPTION[en]="Population Density by Region  (Capita\ km2)";
+TITLE="الكثافة السكانية ( فرد/كم2) حسب المنطقة";
+TITLE[en]="Population Density by Region  (Capita\ km2)";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="الكثافة السكانية ( فرد/كم2) حسب المنطقة";
+CONTENTS[en]="Population Density by Region  (Capita\ km2)";
+UNITS="فرد/كم2";
+UNITS[en]="Capita\ km2";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الضفة الغربية","فلسطين","قطاع غزة";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2011","2012","2013","2014","2015","2016";
+VALUES[en]("Year")="2011","2012","2013","2014","2015","2016";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني، 2013";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+OFFICIAL-STATISTICS=YES;
+DATA=
+456 468 481 493 506 519 
+693 713 734 756 778 800 
+4353 4505 4661 4822 4986 5154; 

@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="021802";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة الولادات التي تجري بإشراف موظفي صحة من ذوي الاختصاص حسب نوع التجمع";
+DESCRIPTION[en]="Percentage of births attended by Skilled Personnel by locality type";
+TITLE="نسبة الولادات التي تجري بإشراف موظفي صحة من ذوي الاختصاص حسب نوع التجمع";
+TITLE[en]="Percentage of births attended by Skilled Personnel by locality type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الولادات التي تجري بإشراف موظفي صحة من ذوي الاختصاص حسب نوع التجمع";
+CONTENTS[en]="Percentage of births attended by Skilled Personnel by locality type";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="نوع التجمع";
+STUB[en]="Locality type";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("نوع التجمع")="حضر","ريف","مخيم";
+VALUES[en]("Locality type")="Urban","Rural","Camps";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+99.2 99.6 
+98.3 99.6 
+99.6 99.3; 

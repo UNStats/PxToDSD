@@ -1,0 +1,33 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+MATRIX="080101";
+SUBJECT-CODE="OIK";
+SUBJECT-AREA="الحكم و الأمن و العدالة";
+SUBJECT-AREA[en]="Justice";
+DESCRIPTION="عدد القضاة لكل 100000 (مائة الف) من السكان حسب المنطقة";
+DESCRIPTION[en]="The number of judges per 100 Thousand  of population by Region";
+TITLE="عدد القضاة لكل 100000 (مائة الف) من السكان حسب المنطقة";
+TITLE[en]="The number of judges per 100 Thousand  of population by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد القضاة لكل 100000 (مائة الف) من السكان حسب المنطقة";
+CONTENTS[en]="The number of judges per 100 Thousand  of population by Region";
+UNITS="عدد القضاة";
+UNITS[en]="Number of judges";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2011","2012","2013";
+VALUES[en]("Year")="2011","2012","2013";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات إحصاءات الجريمة والضحية 1996-2013";
+SURVEY[en]="Data Base of Crime and Victimization Statistics 1996-2013";
+DATA=
+7.6 7.6 7.2 
+2.4 2.1 2 
+5.5 5.4 5.1; 

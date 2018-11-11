@@ -1,0 +1,43 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+MATRIX="050301";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="عدد مستخدمي الإنترنت لكل 100 من السكان حسب الجنس";
+DESCRIPTION[en]="Internet users per 100 population  by Sex";
+TITLE="عدد مستخدمي الإنترنت لكل 100 من السكان حسب الجنس";
+TITLE[en]="Internet users per 100 population  by Sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد مستخدمي الإنترنت لكل 100 من السكان حسب الجنس";
+CONTENTS[en]="Internet users per 100 population  by Sex";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","نوع التجمع";
+HEADING[en]="Region","Sex";
+VALUES("السنة")="2000","2004","2006","2009","2011";
+VALUES[en]("Year")="2000","2004","2006","2009","2011";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("نوع التجمع")="المجموع","ذكر","أنثى";
+VALUES[en]("Sex")="Total","Male","Female";
+VALUENOTEX("السنة","2000")=""الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح وسائل الإعلام 2000"";
+VALUENOTEX[en]("Year","2000")="PCBS_Mass Media Survey 2000 Database";
+VALUENOTEX("السنة","2004")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح الكمبيوتر والانترنت والهاتف النقال";
+VALUENOTEX[en]("Year","2004")="PCBS_Computer, Internet and Mobile Phone Survey, 2004 Database";
+VALUENOTEX("السنة","2006")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات المسح الاسري لتكنولوجيا المعلومات والاتصالات 2006";
+VALUENOTEX[en]("Year","2006")="PCBS_Households Survey on Information and Communications Technology, 2006 Database";
+VALUENOTEX("السنة","2009")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح الثقافة الاسري 2009";
+VALUENOTEX[en]("Year","2009")="PCBS_Households Culture Survey, 2009 Database";
+VALUENOTEX("السنة","2011")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات المسح الاسري لتكنولوجيا المعلومات والاتصالات 2011";
+VALUENOTEX[en]("Year","2011")="PCBS_Households Survey on Information and Communications Technology, 2011 Database";
+DATA=
+5.4 7.9 2.8 5.7 7.7 3.7 4.7 8.4 1 
+11.9 16.2 7.5 12.3 15.9 8.6 11.1 16.7 5.4 
+18.4 23.6 13.1 18.8 23.4 14 17.7 23.8 11.4 
+22.9 27 18.7 23.7 28.4 18.9 21.5 24.8 18.3 
+39.4 44.3 34.3 39.7 44.8 34.4 38.8 43.6 34; 

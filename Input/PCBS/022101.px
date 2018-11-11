@@ -1,0 +1,34 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="022101";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة النساء 15-49 سنة اللواتي انجبن في السنتين السابقتين للمسح وتلقين رعاية أثناء الحمل مرة واحدة على الأقل حسب المنطقة";
+DESCRIPTION[en]="Percentage of Women 15-49 Years During the Last Pregnancy in the Two Years Preceding the Survey Who Received Antenatal Care  at least one time by region";
+TITLE="نسبة النساء 15-49 سنة اللواتي انجبن في السنتين السابقتين للمسح وتلقين رعاية أثناء الحمل مرة واحدة على الأقل حسب المنطقة";
+TITLE[en]="Percentage of Women 15-49 Years During the Last Pregnancy in the Two Years Preceding the Survey Who Received Antenatal Care  at least one time by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة النساء 15-49 سنة اللواتي انجبن في السنتين السابقتين للمسح وتلقين رعاية أثناء الحمل مرة واحدة على الأقل حسب المنطقة";
+CONTENTS[en]="Percentage of Women 15-49 Years During the Last Pregnancy in the Two Years Preceding the Survey Who Received Antenatal Care  at least one time by region";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="المحافظة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المحافظة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="مسح الأسرة الفلسطيني، 2010";
+SURVEY[en]="Palestinian Family Survey, 2010";
+DATA=
+98 99.4 
+97.8 99.3 
+98.2 99.5; 

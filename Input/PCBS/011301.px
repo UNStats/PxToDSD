@@ -1,0 +1,42 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+ROUNDING=0;
+MATRIX="01301";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="أعداد وقوعات الطلاق المسجلة  في فلسطين حسب المنطقة";
+DESCRIPTION[en]="Number of Registered Divorcesin Palestine by Region";
+TITLE="أعداد وقوعات الطلاق المسجلة  في فلسطين حسب المنطقة";
+TITLE[en]="Number of Registered Divorcesin Palestine by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="أعداد وقوعات الطلاق المسجلة  في فلسطين حسب المنطقة";
+CONTENTS[en]="Number of Registered Divorcesin Palestine by Region";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات  الزواج والطلاق";
+SURVEY[en]="Database of Marriage and Divorce Database";
+OFFICIAL-STATISTICS=YES;
+DATA=
+6155 6574 7114 7603 
+3392 3749 4095 4725 
+2763 2825 3019 2878; 

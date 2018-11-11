@@ -1,0 +1,37 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+TABLEID="80501";
+DECIMALS=2;
+SHOWDECIMALS=1;
+MATRIX="80501";
+SUBJECT-CODE="COURT";
+SUBJECT-AREA="الحكم و الأمن و العدالة";
+SUBJECT-AREA[en]="Governance, Security and Justice";
+DESCRIPTION="معدل الجريمة لكل 1000 من السكان حسب المنطقة";
+DESCRIPTION[en]="Crime rate per 1000 of population, BY Region";
+TITLE="معدل الجريمة لكل 1000 من السكان حسب المنطقة";
+TITLE[en]="Crime rate per 1000 of population, BY Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الجريمة لكل 1000 من السكان حسب المنطقة";
+CONTENTS[en]="Crime rate per 1000 of population, BY Region";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2011","2012";
+VALUES[en]("Year")="2011","2012";
+DATABASE="قاعدة بيانات إحصاءات الجريمة والضحية 1996-2013";
+DATABASE[en]="Data Base of Crime and Victimization Statistics 1996-2013";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات إحصاءات الجريمة والضحية 1996-2013";
+SURVEY[en]="Data Base of Crime and Victimization Statistics 1996-2013";
+DATA=
+7.9 6.77 
+".." ".." 
+".." ".."; 

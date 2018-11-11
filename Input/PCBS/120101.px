@@ -1,0 +1,41 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=2;
+SHOWDECIMALS=2;
+ROUNDING=0;
+MATRIX="120101";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="معدل التضخم حسب المنطقة";
+DESCRIPTION[en]="Inflation Rate by Region";
+TITLE="معدل التضخم حسب المنطقة";
+TITLE[en]="Inflation Rate by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل التضخم حسب المنطقة";
+CONTENTS[en]="Inflation Rate by Region";
+UNITS="نسبة";
+UNITS[en]="Rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="القدس 1J","الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="Jerusalem J1","West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2011","2012","2013","2014","2015";
+VALUES[en]("Year")="2011","2012","2013","2014","2015";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+OFFICIAL-STATISTICS=YES;
+DATA=
+4.13 3.23 1.81 3.84 0.33 
+3.54 4.08 3.1 1.2 1.29 
+0.57 0.48 -0.76 2.85 1.77 
+2.88 2.78 1.72 1.73 1.43; 

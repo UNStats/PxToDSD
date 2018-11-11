@@ -1,0 +1,46 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="010202";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+CONFIDENTIAL="010101.px";
+COPYRIGHT=YES;
+DESCRIPTION="نسبة السكان في الفئة العمرية (0-14) سنة في فلسطين  حسب المنطقة و الجنس";
+DESCRIPTION[en]="Percentage  of  Population in the age group (0-14) years in  Palestine by Region and sex";
+TITLE="نسبة السكان في الفئة العمرية (0-14) سنة في فلسطين  حسب المنطقة و الجنس";
+TITLE[en]="Percentage  of  Population in the age group (0-14) years in  Palestine by Region and sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة السكان في الفئة العمرية (0-14) سنة في فلسطين  حسب المنطقة و الجنس";
+CONTENTS[en]="Percentage  of  Population in the age group (0-14) years in  Palestine by Region and sex";
+UNITS="نسبة";
+UNITS[en]="Percent";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة","الجنس";
+HEADING[en]="Year","Sex";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+VALUES("الجنس")="كلا الجنسين","ذكور","إناث";
+VALUES[en]("Sex")="Both Sexes","Males","Females";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="تقديرات مبنية على النتائج النهائية للتعداد العام للسكان والمساكن والمنشآت ،2007.";
+SURVEY[en]="Revised Estimates based on the final results of Population, Housing and Establishment Ce"
+"nsus 2007";
+OFFICIAL-STATISTICS=YES;
+DATA=
+40.8 40.6 41.1 40.4 40.7 40.2 40.1 40.3 39.8 39.7 39.9 39.5 
+39.9 38.7 39.1 38.4 38.6 38.2 38 38.1 37.8 37.6 37.7 37.4 
+44.1 43.8 44.3 43.7 44 43.4 43.4 43.7 43.2 43.2 43.5 42.9; 

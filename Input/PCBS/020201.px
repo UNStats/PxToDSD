@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020201";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل وفيات الأطفال دون سن الخمس سنوات لكل 1000 مولود حي حسب المنطقة";
+DESCRIPTION[en]="Under-Five Mortality Rate per 1000 live birth by region";
+TITLE="معدل وفيات الأطفال دون سن الخمس سنوات لكل 1000 مولود حي حسب المنطقة";
+TITLE[en]="Under-Five Mortality Rate per 1000 live birth by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل وفيات الأطفال دون سن الخمس سنوات لكل 1000 مولود حي حسب المنطقة";
+CONTENTS[en]="Under-Five Mortality Rate per 1000 live birth by region";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2010";
+VALUES[en]("Year")="2010";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+23.4 
+21 
+26.8; 

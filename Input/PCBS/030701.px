@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="030701";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="معدل طالب لكل شعبة حسب المنطقة الجغرافية";
+DESCRIPTION[en]="Students per Class rate by Region";
+TITLE="معدل طالب لكل شعبة حسب المنطقة الجغرافية";
+TITLE[en]="Students per Class rate by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل طالب لكل شعبة حسب المنطقة الجغرافية";
+CONTENTS[en]="Students per Class rate by Region";
+UNITS="معدل طالب لكل شعبة";
+UNITS[en]="Students per Class";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة الدراسية";
+HEADING[en]="Scholastic Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza strip","Palestine";
+VALUES("السنة الدراسية")="2011/2012","2012/2013","2013/2014","2014/2015";
+VALUES[en]("Scholastic Year")="2011/2012","2012/2013","2013/2014","2014/2015";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+27.6 27.3 27 26.6 
+35.8 36 36.3 36.3 
+30.4 30.3 30.2 29.9; 

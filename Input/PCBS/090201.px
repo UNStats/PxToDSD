@@ -1,0 +1,29 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="090201";
+SUBJECT-CODE="-";
+SUBJECT-AREA="--";
+SUBJECT-AREA[en]="--";
+DESCRIPTION="عدد المعتقلين الفلسطينيين";
+DESCRIPTION[en]="Number of Palestinian war prisoners";
+TITLE="عدد المعتقلين الفلسطينيين";
+TITLE[en]="Number of Palestinian war prisoners";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد المعتقلين الفلسطينيين";
+CONTENTS[en]="Number of Palestinian war prisoners";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+VALUES("السنة")="2011","2012";
+VALUES[en]("Year")="2011","2012";
+SOURCE="وزارة شؤون الاسرى والمحررين";
+SOURCE[en]="Ministry of detainees and ex-detainees";
+SURVEY="قاعدة بيانات الوزارة";
+SURVEY[en]="Ministry Database";
+DATA=
+4248 
+4566; 

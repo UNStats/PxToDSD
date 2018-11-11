@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020202";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل وفيات الأطفال دون سن الخمس سنوات لكل 1000 مولود حي حسب نوع التجمع";
+DESCRIPTION[en]="Under-Five Mortality Rate per 1000 live birth by Locality Type";
+TITLE="معدل وفيات الأطفال دون سن الخمس سنوات لكل 1000 مولود حي حسب نوع التجمع";
+TITLE[en]="Under-Five Mortality Rate per 1000 live birth by Locality Type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل وفيات الأطفال دون سن الخمس سنوات لكل 1000 مولود حي حسب نوع التجمع";
+CONTENTS[en]="Under-Five Mortality Rate per 1000 live birth by Locality Type";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="نوع التجمع";
+STUB[en]="Locality type";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("نوع التجمع")="حضر","ريف","مخيم";
+VALUES[en]("Locality type")="Urban","Rural","Camps";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+22.4 21.7 
+25.9 20.1 
+26 23.7; 

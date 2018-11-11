@@ -1,0 +1,53 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=2;
+SHOWDECIMALS=2;
+MATRIX="180201";
+SUBJECT-CODE="GEN";
+SUBJECT-AREA="المرأة والرجل";
+SUBJECT-AREA[en]="Gender";
+DESCRIPTION="نسبة البنات إلى البنين في مرحلة التعليم الثانوي حسب المنطقة";
+DESCRIPTION[en]="Ratios of girls to boys in secondary education by region";
+TITLE="نسبة البنات إلى البنين في مرحلة التعليم الثانوي حسب المنطقة";
+TITLE[en]="Ratios of girls to boys in secondary education by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة البنات إلى البنين في مرحلة التعليم الثانوي حسب المنطقة";
+CONTENTS[en]="Ratios of girls to boys in secondary education by region";
+UNITS="نسبة";
+UNITS[en]="Ratio";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة";
+HEADING[en]="Region";
+VALUES("السنة")="1995/1994","1996/1995","1997/1996","1998/1997","1999/1998","2000/1999",
+"2001/2000","2002/2001","2003/2002","2004/2003","2005/2004","2006/2005","2007/2006","2008/2007",
+"2009/2008","2010/2009","2011/2010","2012/2011";
+VALUES[en]("Year")="1995/1994","1996/1995","1997/1996","1998/1997","1999/1998","2000/1999",
+"2001/2000","2002/2001","2003/2002","2004/2003","2005/2004","2006/2005","2007/2006","2008/2007",
+"2009/2008","2010/2009","2011/2010","2012/2011";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza strip";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY=" قاعدة بيانات مسح التعليم 1995/1994-2012/2011- وزارة التربية والتعليم";
+SURVEY[en]="Education Census Database 1994/1995-2011/2012-Ministry of Education";
+DATA=
+0.84 0.85 0.82 
+0.86 0.9 0.81 
+0.91 0.92 0.88 
+0.94 0.96 0.93 
+1 1.04 0.95 
+1.04 1.09 0.98 
+1.09 1.12 1.04 
+1.09 1.11 1.04 
+1.09 1.12 1.05 
+1.07 1.09 1.03 
+1.07 1.1 1.04 
+1.1 1.13 1.06 
+1.13 1.15 1.09 
+1.13 1.17 1.09 
+1.14 1.19 1.06 
+1.18 1.23 1.11 
+1.18 1.21 1.15 
+1.2 1.23 1.15; 

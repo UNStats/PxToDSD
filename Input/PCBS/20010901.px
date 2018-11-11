@@ -1,0 +1,46 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20010901";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="معدل انتشار حالات الأطفال ناقصي الوزن دون الخامسة من العمر (حاد) حسب المنطقة و نوع التجمع";
+DESCRIPTION[en]="Prevalence of underweight children under-five years of age (severe)  by region and locality type";
+TITLE="معدل انتشار حالات الأطفال ناقصي الوزن دون الخامسة من العمر (حاد) حسب المنطقة و نوع التجمع";
+TITLE[en]="Prevalence of underweight children under-five years of age (severe)  by region and locality type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل انتشار حالات الأطفال ناقصي الوزن دون الخامسة من العمر (حاد) حسب المنطقة و نوع التجمع";
+CONTENTS[en]="Prevalence of underweight children under-five years of age (severe)  by region and locality type";
+UNITS="معدل";
+UNITS[en]="Prevalence";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","نوع التجمع";
+HEADING[en]="Region","Locality Type";
+VALUES("السنة")="2000","2004","2006","2010","2014";
+VALUES[en]("Year")="2000","2004","2006","2010","2014";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("نوع التجمع")="المجموع","حضر","ريف","مخيمات";
+VALUES[en]("Locality Type")="Total","Urban","Rural","Camps";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="";
+SURVEY[en]="Labor Force Survey Database 1995-2010";
+VALUENOTEX("السنة","2000")="الجهاز المركزي للاحصاء الفلسطيني_قواعد بيانات المسوح الصحية والديموغرافية 2004،2000،1996";
+VALUENOTEX[en]("Year","2000")="PCBS_Demographic and Health Surveys 1996, 2000, 2004 Database";
+VALUENOTEX("السنة","2004")="الجهاز المركزي للاحصاء الفلسطيني_قواعد بيانات المسوح الصحية والديموغرافية 2004،2000،1996";
+VALUENOTEX[en]("Year","2004")="PCBS_Demographic and Health Surveys 1996, 2000, 2004 Database";
+VALUENOTEX("السنة","2006")="الجهاز المركزي للاحصاء الفلسطيني_ قاعدة بيانات المسح الفلسطيني لصحة الاسرة";
+VALUENOTEX[en]("Year","2006")="PCBS_Palestinian Family Health Survey 2006 Database";
+VALUENOTEX("السنة","2010")="الجهاز المركزي للاحصاء الفلسطيني_ قاعدة بيانات مسح الأسرة الفلسطيني 2010";
+VALUENOTEX[en]("Year","2010")="PCBS_Palestinian Family Survey 2010 Database";
+DATA=
+0.2 0.1 0.4 0.1 ".." ".." ".." ".." ".." ".." ".." ".." 
+0.7 0.7 0.2 1.2 0.7 ".." ".." ".." 0.7 ".." ".." ".." 
+0.4 0.4 0.4 0.3 0.4 0.5 0.4 0.2 0.3 0.4 0.4 0.3 
+0.7 0.7 0.9 0.5 0.7 0.7 0.9 0.3 0.7 0.7 1.7 0.6 
+0.2 0.2 0.3 0.2 0.3 ".." ".." ".." 0.2 ".." ".." ".."; 

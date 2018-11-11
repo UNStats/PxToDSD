@@ -1,0 +1,38 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20010902";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="معدل انتشار حالات الأطفال ناقصي الوزن دون الخامسة من العمر (حاد) حسب المنطقة و الجنس";
+DESCRIPTION[en]="Prevalence of underweight children under-five years of age (severe) by region and sex";
+TITLE="معدل انتشار حالات الأطفال ناقصي الوزن دون الخامسة من العمر (حاد) حسب المنطقة و الجنس";
+TITLE[en]="Prevalence of underweight children under-five years of age (severe) by region and sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل انتشار حالات الأطفال ناقصي الوزن دون الخامسة من العمر (حاد) حسب المنطقة و الجنس";
+CONTENTS[en]="Prevalence of underweight children under-five years of age (severe) by region and sex";
+UNITS="معدل";
+UNITS[en]="Prevalence";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","الجنس";
+HEADING[en]="Region","Sex";
+VALUES("السنة")="2000","2004","2006","2010","2014";
+VALUES[en]("Year")="2000","2004","2006","2010","2014";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("الجنس")="المجموع","ذكور","إناث";
+VALUES[en]("Sex")="Total","Male","Female";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات مسح القوى العاملة 1995-2011";
+SURVEY[en]="Labor Force Survey Database 1995-2010";
+DATA=
+0.2 0.1 0.3 ".." ".." ".." ".." ".." ".." 
+0.7 0.8 0.5 0.7 ".." ".." 0.7 ".." ".." 
+0.4 0.4 0.3 0.4 0.4 0.4 0.3 0.3 0.4 
+0.7 0.8 0.6 0.7 0.9 0.6 0.7 0.7 0.6 
+0.2 0.3 0.1 0.3 ".." ".." 0.2 ".." ".."; 

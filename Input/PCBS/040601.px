@@ -1,0 +1,34 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="040601";
+SUBJECT-CODE="CUL";
+SUBJECT-AREA="الثقافة";
+SUBJECT-AREA[en]="Culture";
+DESCRIPTION="عدد زوار المسارح العاملة حسب المنطقة";
+DESCRIPTION[en]="Number of Theaters Visitors by Region";
+TITLE="عدد زوار المسارح العاملة حسب المنطقة";
+TITLE[en]="Number of Theaters Visitors by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد زوار المسارح العاملة حسب المنطقة";
+CONTENTS[en]="Number of Theaters Visitors by Region";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني، 2009";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="مسح الثقافة الأسري 2009، تقرير النتائج الرئيسية";
+SURVEY[en]="Household Culture Survey, 2009. Main Findings Report.";
+DATA=
+165002 95903 104937 84741 
+71097 60130 63160 34901 
+93905 35773 41777 49840; 

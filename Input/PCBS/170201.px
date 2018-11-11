@@ -1,0 +1,45 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+ROUNDING=0;
+MATRIX="170201";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="عدد زوار المواقع السياحية حسب نوع الزائر والمحافظة";
+DESCRIPTION[en]="Number of Visitors to Touristic Places by Type of Visitor and Governorate";
+TITLE="عدد زوار المواقع السياحية حسب نوع الزائر والمحافظة";
+TITLE[en]="Number of Visitors to Touristic Places by Type of Visitor and Governorate";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد زوار المواقع السياحية حسب نوع الزائر والمحافظة";
+CONTENTS[en]="Number of Visitors to Touristic Places by Type of Visitor and Governorate";
+UNITS="زائر";
+UNITS[en]="Visitor";
+STUB="نوع الزوار";
+STUB[en]="Type of Visitors";
+HEADING="السنة","المحافظة";
+HEADING[en]="Year","Governorate";
+VALUES("نوع الزوار")="اجنبي","محلي","عرب الداخل","المجموع";
+VALUES[en]("Type of Visitors")="Foreign","Local","Arabs inside","Total";
+VALUES("السنة")="2010","2011","2012","2013","2014";
+VALUES[en]("Year")="2010","2011","2012","2013","2014";
+VALUES("المحافظة")="بيت لحم","نابلس","جنين","اريحا والأغوار","الخليل","رام الله والبيرة","قلقيلية",
+"طولكرم","طوباس","المجموع";
+VALUES[en]("Governorate")="Bethlehem","Nablus","Jinen","Jericho&AL aghwar","Hebron",
+"Ramallah&ALBireh","Qalqilia","Tulkarem","Tubas","Total";
+SOURCE="شرطة السياحة والاثار";
+SOURCE[en]="Tourism and Antiquities Police";
+OFFICIAL-STATISTICS=YES;
+DATA=
+1068364 5403 510 566800 5644 0 133 39 166 ".." 1018330 4310 1805 515540 26450 0 0 60 16 ".." 1166633 6734 4779 516010 28019 0 0 5 74 ".." 1120664 12968 5240 528635 44584 ".." ".." ".." ".." ".." 984089 33418 5725 438411 95812 27673 ".." ".." ".." 1585128 
+95192 546868 497642 390119 59979 280340 382454 406335 990 ".." 101664 439571 434492 382113 111471 189704 299185 568819 12873 ".." 102329 448207 459425 250853 262203 92836 356370 287800 1132 ".." 86687 368556 535923 319423 309610 102515 480080 236500 ".." ".." 73212 460922 472787 299480 320539 104480 469870 321450 ".." 2522740 
+22609 19857 227267 207681 21557 0 7265 115045 111 ".." 27555 3902 162590 214833 89971 0 17675 184000 0 ".." 27160 7461 203354 198395 155909 0 86900 135625 40 ".." 36306 11370 251220 249061 161208 ".." 106000 149470 ".." ".." 38133 3132 248070 248614 174741 40676 103950 129098 ".." 986414 
+".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." ".." 1095434 497472 726582 986505 591092 172829 573820 450548 ".." 5094282; 

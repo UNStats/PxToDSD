@@ -1,0 +1,43 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="011401";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="معدل الوفيات الخام في فلسطين حسب المنطقة";
+DESCRIPTION[en]="Crude Death Rate in Palestine by Region";
+TITLE="معدل الوفيات الخام في فلسطين حسب المنطقة";
+TITLE[en]="Crude Death Rate in Palestine by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الوفيات الخام في فلسطين حسب المنطقة";
+CONTENTS[en]="Crude Death Rate in Palestine by Region";
+UNITS="معدل";
+UNITS[en]="Average";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="تقديرات مبنية على النتائج النهائية للتعداد العام للسكان والمساكن والمنشآت ،2007.";
+SURVEY[en]="Revised Estimates based on the final results of Population, Housing and Establishment Ce"
+"nsus 2007";
+OFFICIAL-STATISTICS=YES;
+DATA=
+4 3.9 3.8 3.7 
+4.1 4 4 3.8 
+3.9 3.8 3.7 3.5; 

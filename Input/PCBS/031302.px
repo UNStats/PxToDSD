@@ -1,0 +1,33 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="031302";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Koulutus";
+DESCRIPTION="معدل عدد الطلبة لكل جهاز حاسوب حسب المرحلة";
+DESCRIPTION[en]="Students per Computer rate by sex";
+TITLE="معدل عدد الطلبة لكل جهاز حاسوب حسب المرحلة";
+TITLE[en]="Students per Computer rate by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل عدد الطلبة لكل جهاز حاسوب حسب المرحلة";
+CONTENTS[en]="Students per Computer rate by sex";
+UNITS="معدل عدد الطلبة لكل جهاز حاسوب";
+UNITS[en]="Students per Computer";
+STUB="السنة الدراسية";
+STUB[en]="Scholastic Year";
+HEADING="المرحلة";
+HEADING[en]="Stage";
+VALUES("السنة الدراسية")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES("المرحلة")="رياض الاطفال","الاساسية","الثانوية","المجموع";
+VALUES[en]("Stage")="Kindergartens","Basic","Secondary","Total";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+".." 44.1 21.6 33 
+".." 37.4 18.9 28.5 
+".." 27.7 15.1 20.7 
+".." 24.4 14.3 19; 

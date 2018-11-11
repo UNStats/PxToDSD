@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="031003";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="معدل تحصيل طلبة الصف الرابع الأساسي في مادة العلوم العامة في الاختبار المعياري الوطني  حسب الجنس";
+DESCRIPTION[en]="Achievement average of grade 4 in Science in the national standard test by sex";
+TITLE="معدل تحصيل طلبة الصف الرابع الأساسي في مادة العلوم العامة في الاختبار المعياري الوطني  حسب الجنس";
+TITLE[en]="Achievement average of grade 4 in Science in the national standard test by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل تحصيل طلبة الصف الرابع الأساسي في مادة العلوم العامة في الاختبار المعياري الوطني  حسب الجنس";
+CONTENTS[en]="Achievement average of grade 4 in Science in the national standard test by sex";
+UNITS="معدل تحصيل";
+UNITS[en]="Achievement average";
+STUB="السنة الدراسية";
+STUB[en]="Scholastic Year";
+HEADING="الجنس";
+HEADING[en]="Sex";
+VALUES("السنة الدراسية")="2009/2010","2011/2012","2013/2014";
+VALUES[en]("Scholastic Year")="2009/2010","2011/2012","2013/2014";
+VALUES("الجنس")="ذكر","أنثى","كلا الجنسين";
+VALUES[en]("Sex")="Male","Female","Both Sexes";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+47 52 48 
+45 49 47 
+45 49 47; 

@@ -1,0 +1,56 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="040501";
+SUBJECT-CODE="11";
+SUBJECT-AREA="11";
+SUBJECT-AREA[en]="99";
+DESCRIPTION="عدد المرافق الثقافية حسب المحافظة والنوع";
+DESCRIPTION[en]="Number of Cultural Institutions by Governorate and Type";
+TITLE="عدد المرافق الثقافية حسب المحافظة والنوع";
+TITLE[en]="Number of Cultural Institutions by Governorate and Type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد المرافق الثقافية حسب المحافظة والنوع";
+CONTENTS[en]="Number of Cultural Institutions by Governorate and Type";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="المحافظة";
+STUB[en]="Governorate";
+HEADING="السنة","النوع";
+HEADING[en]="Year","Type";
+VALUES("المحافظة")="الأراضي الفلسطينية","الضفة الغربية","جنين","طوباس","طولكرم","نابلس","قلقيلية",
+"سلفيت","رام الله والبيرة","أريحا والأغوار","القدس","بيت لحم","الخليل","قطاع غزة","شمال غزة","غزة",
+"دير البلح","خانيونس","رفح";
+VALUES[en]("Governorate")="Palestinian Territory"," West Bank"," Jenin"," Tubas"," Tulkarm",
+" Nablus"," Qalqiliya"," Salfit"," Ramallah & Al-Bireh"," Jericho and Al Aghwar"," Jerusalem",
+" Bethlehem"," Hebron","Gaza Strip"," North Gaza"," Gaza"," Deir Al-Balah"," Khan Yunis"," Rafah";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+VALUES("النوع")="مراكز ثقافية","متاحف","مسارح","دور سينما";
+VALUES[en]("Type")="Cultural","Museums","Theaters","Cinemas";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني، 2009";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="مسح الثقافة الأسري 2009، تقرير النتائج الرئيسية";
+SURVEY[en]="Household Culture Survey, 2009. Main Findings Report.";
+DATA=
+597 14 10 2 646 14 7 2 658 13 8 2 666 20 11 3 
+531 10 7 2 577 9 4 2 574 9 5 2 583 15 8 3 
+67 0 1 0 70 0 1 0 76 0 1 0 77 1 2 0 
+15 0 0 0 15 0 0 0 15 0 0 0 15 0 0 0 
+50 1 1 0 48 1 1 0 48 1 0 0 48 1 0 0 
+8 0 0 0 26 0 0 0 105 0 0 1 103 0 2 1 
+17 0 0 0 18 0 0 0 29 0 0 0 31 1 0 0 
+102 0 0 1 107 0 0 1 18 0 0 0 18 0 0 0 
+40 3 2 1 59 2 0 1 54 3 2 1 54 4 2 2 
+55 2 3 0 56 1 0 0 12 0 0 0 12 0 0 0 
+16 0 0 0 16 0 0 0 64 0 2 0 64 1 2 0 
+73 3 0 0 76 3 0 0 71 3 0 0 77 5 0 0 
+88 1 0 0 86 2 0 0 82 2 0 0 84 2 0 0 
+66 4 3 0 69 5 3 0 84 4 3 0 83 5 3 0 
+7 1 0 0 8 1 0 0 13 1 0 0 13 1 0 0 
+26 1 2 0 27 2 2 0 35 1 2 0 35 1 2 0 
+17 2 0 0 17 2 0 0 16 2 0 0 16 2 0 0 
+8 0 1 0 8 0 1 0 9 0 1 0 9 1 1 0 
+8 0 0 0 9 0 0 0 11 0 0 0 10 0 0 0; 

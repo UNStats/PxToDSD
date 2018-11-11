@@ -1,0 +1,46 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20010302";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="حصة أفقر خمس في الاستهلاك الوطني حسب المنطقة والجنس";
+DESCRIPTION[en]="Share of poorest quintile in national consumption by region and sex";
+TITLE="حصة أفقر خمس في الاستهلاك الوطني حسب المنطقة والجنس";
+TITLE[en]="Share of poorest quintile in national consumption by region and sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="حصة أفقر خمس في الاستهلاك الوطني حسب المنطقة والجنس";
+CONTENTS[en]="Share of poorest quintile in national consumption by region and sex";
+UNITS="حصة";
+UNITS[en]="Share";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","الجنس";
+HEADING[en]="Region","Sex";
+VALUES("السنة")="1996","1997","1998","2004","2005","2006","2007","2009","2010","2011";
+VALUES[en]("Year")="1996","1997","1998","2004","2005","2006","2007","2009","2010","2011";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("الجنس")="المجموع","ذكور","إناث";
+VALUES[en]("Sex")="Total","Male","Female";
+SOURCE="";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="";
+SURVEY[en]="Household Expenditure and Consumption Survey Database_1996-1998,2001,2004-2011";
+NOTEX="في الأعوام 2009-2011 تم التعديل على المنهجية وبالتالي لا مجال للمقارنة مابين هذه الأعوام والأعوام السابقة (والنسب للاعوام 2009-2011 على مستوى الافراد بينما السنوات السابقة على مستوى الأسر)";
+NOTEX[en]="Adjustemnts on poverty methodolgy had been done in the years 2009-2011, so there is no way for comparision between those years and the previous years (2007 and below), (Rates in 2009-2011 years were according to individuals while in previous "
+"years were according to households).";
+DATA=
+10.7 10.8 7.4 6.2 6.3 4.4 24.3 24.6 17.8 
+10.6 10.7 9.5 6.4 6.4 5.5 22.8 22.7 26.6 
+10.7 10.9 7.2 6.1 6.3 3.8 22.7 22.8 21 
+10.6 11 5.1 7.3 7.6 2.8 18.5 18.9 11.4 
+9.2 9.2 9.5 6.1 6.1 6.1 16.8 16.6 23.2 
+10.3 10.6 5.4 5.8 5.8 5 21.7 22.5 6.5 
+9.9 10.2 4.9 4.8 4.9 3.5 24.3 25.3 9 
+10.4 10.7 6.4 5.9 6.2 3.1 22.3 22.5 18.7 
+10.6 10.9 7.1 6 6.2 3.5 23.7 23.9 19.7 
+10.2 11 6.5 6.1 6.3 3.7 21.7 22.4 13.9; 

@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="030601";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="معدل طالب لكل معلم حسب المنطقة الجغرافية";
+DESCRIPTION[en]="Students per teacher rate by region";
+TITLE="معدل طالب لكل معلم حسب المنطقة الجغرافية";
+TITLE[en]="Students per teacher rate by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل طالب لكل معلم حسب المنطقة الجغرافية";
+CONTENTS[en]="Students per teacher rate by region";
+UNITS="معدل طالب لكل معلم";
+UNITS[en]="Students per teacher";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة الدراسية";
+HEADING[en]="Scholastic Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza strip","Palestine";
+VALUES("السنة الدراسية")="2011/2012","2012/2013","2013/2014","2014/2015";
+VALUES[en]("Scholastic Year")="2011/2012","2012/2013","2013/2014","2014/2015";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+19.3 19.9 20 20.1 
+23.8 24.6 23.8 24.7 
+20.9 21.6 21.4 21.8; 

@@ -1,0 +1,55 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="021001";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="التكلفة التقديرية للمحولين للعلاج خارج مراكز وزارة الصحة في فلسطين حسب المحافظة والمنطقة";
+DESCRIPTION[en]="Estimated costs for treatment outside the ministry by Governorate and Region";
+TITLE="التكلفة التقديرية للمحولين للعلاج خارج مراكز وزارة الصحة في فلسطين حسب المحافظة والمنطقة";
+TITLE[en]="Estimated costs for treatment outside the ministry by Governorate and Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="التكلفة التقديرية للمحولين للعلاج خارج مراكز وزارة الصحة في فلسطين حسب المحافظة والمنطقة";
+CONTENTS[en]="Estimated costs for treatment outside the ministry by Governorate and Region";
+UNITS="عدد السكان";
+UNITS[en]="Population";
+STUB="المحافظة";
+STUB[en]="Governorate";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المحافظة")="الأراضي الفلسطينية","الضفة الغربية","جنين","طوباس","طولكرم","نابلس","قلقيلية",
+"سلفيت","رام الله والبيرة","اريحا والاغوار","القدس","بيت لحم","الخليل","غير ذلك الضفة الغربية",
+"قطاع غزة","شمال غزة","غزة","دير البلح","خانيونس","رفح","غير ذلك قطاع غزة";
+VALUES[en]("Governorate")="Palestinian Territory","West Bank","Jenin","Tubas","Tulkarm","Nablus",
+"Qalqiliya","Salfit","Ramallah & Al-Bireh","Jericho and Al Aghwar","Jerusalem","Bethlehem","Hebron",
+"Others Wesbank","Gaza Strip","North Gaza","Gaza","Deir El-Balah","Khan Yunis","Rafah",
+"Others Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+472456181 486781208 524079618 569588180 
+317840530 335293037 369762658 426754668 
+29778252 31264091 36379558 39903891 
+3953085 4330219 4012092 5811952 
+24201215 22637450 25141367 24940272 
+45008011 42756320 51562835 64832107 
+10247600 12698169 13872233 15179746 
+6662611 7897929 6854071 7203402 
+50447341 50190919 56566133 60723886 
+6603340 8799525 7714586 10510029 
+39765148 43578340 40076277 49320732 
+27326030 31216923 37905844 42648221 
+73268796 79525252 89544162 105666980 
+579101 397900 133500 13450 
+154615651 151488171 154316960 142833512 
+1154656 700683 2006239 1502966 
+151919976 149725489 151507125 140776651 
+452245 142360 233690 82242 
+819411 738808 457606 282784 
+234863 180831 108700 188869 
+34500 ".." 3600 ".."; 

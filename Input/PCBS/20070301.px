@@ -1,0 +1,71 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20070301";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="نسبة السكان الذين يمكنهم الحصول باطراد على مصدر محسن للماء حسب المنطقة و نوع التجمع";
+DESCRIPTION[en]="Proportion of population using an improved drinking water source by region and locality type";
+TITLE="نسبة السكان الذين يمكنهم الحصول باطراد على مصدر محسن للماء حسب المنطقة و نوع التجمع";
+TITLE[en]="Proportion of population using an improved drinking water source by region and locality type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة السكان الذين يمكنهم الحصول باطراد على مصدر محسن للماء حسب المنطقة و نوع التجمع";
+CONTENTS[en]="Proportion of population using an improved drinking water source  by region and locality type";
+UNITS="نسبة";
+UNITS[en]="Proportion";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","نوع التجمع";
+HEADING[en]="Region","Locality Type";
+VALUES("السنة")="1995","1997","2000","2002","2003","2004","2005","2006","2008","2009","2010",
+"2011","2012","2013";
+VALUES[en]("Year")="1995","1997","2000","2002","2003","2004","2005","2006","2008","2009","2010",
+"2011","2012","2013";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("نوع التجمع")="المجموع","حضر","ريف","مخيمات";
+VALUES[en]("Locality Type")="Total","Urban","Rural","Camps";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+VALUENOTEX("السنة","1995")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات المسح الديموغرافي 1995";
+VALUENOTEX[en]("Year","1995")="PCBS_Demographic Survey 1995 Database";
+VALUENOTEX("السنة","1997")="الجهاز المركزي للاحصاء الفلسطيني_التعداد العام للسكان والمساكن والمنشات 1997";
+VALUENOTEX[en]("Year","1997")="PCBS_Population, Housing and Establishment Census_1997";
+VALUENOTEX("السنة","2000")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح المسكن وظروف السكن 2000";
+VALUENOTEX[en]("Year","2000")="PCBS_Household Environment Survey Database_2002-2009";
+VALUENOTEX("السنة","2002")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح البيئة المنزلي_2002 - 2006";
+VALUENOTEX[en]("Year","2002")="PCBS_Household Environment Survey Database_2002-2009";
+VALUENOTEX("السنة","2003")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح البيئة المنزلي_2002 - 2006";
+VALUENOTEX[en]("Year","2003")="PCBS_Household Environment Survey Database_2002-2009";
+VALUENOTEX("السنة","2004")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح البيئة المنزلي_2002 - 2006";
+VALUENOTEX[en]("Year","2004")="PCBS_Household Environment Survey Database_2002-2009";
+VALUENOTEX("السنة","2005")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح البيئة المنزلي_2002 - 2006";
+VALUENOTEX[en]("Year","2005")="PCBS_Household Environment Survey Database_2002-2009";
+VALUENOTEX("السنة","2006")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح البيئة المنزلي_2002 - 2006";
+VALUENOTEX[en]("Year","2006")="PCBS_Household Environment Survey Database_2002-2009";
+VALUENOTEX("السنة","2008")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح البيئة المنزلي2008";
+VALUENOTEX[en]("Year","2008")="PCBS_Household Environment Survey Database_2002-2009";
+VALUENOTEX("السنة","2009")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح البيئة المنزلي2009";
+VALUENOTEX[en]("Year","2009")="PCBS_Household Environment Survey Database_2002-2009";
+VALUENOTEX("السنة","2010")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح المسكن وظروف السكن 2010";
+VALUENOTEX[en]("Year","2010")="PCBS_Housing and Housing Condition Survey Database_2010";
+VALUENOTEX("السنة","2011")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح البيئة المنزلي 2011";
+VALUENOTEX[en]("Year","2011")="PCBS_Household Environment Survey Database_2011";
+DATA=
+79.7 ".." ".." ".." 71.4 ".." ".." ".." 96.3 ".." ".." ".." 
+95.8 98 90.2 99.4 94.4 97.8 90.2 99.2 98.2 98.3 89.8 99.4 
+96.2 ".." ".." ".." 94.9 ".." ".." ".." 98.4 ".." ".." ".." 
+93.8 92.9 96.6 91 97.6 ".." ".." ".." 86.5 ".." ".." ".." 
+91.9 ".." ".." ".." 88.1 ".." ".." ".." 99.1 ".." ".." ".." 
+97.9 ".." ".." ".." 97.1 ".." ".." ".." 99.5 ".." ".." ".." 
+95.9 97.4 91 99.7 94.8 97.2 91.1 99.4 98 97.8 89.7 99.8 
+93.8 96 86.3 99.1 91.9 95.5 85.9 100 97.3 96.8 93.8 98.8 
+94.1 96.1 90.3 99.5 94.1 96.5 90.5 100 97 97 84.7 99.3 
+94.1 "." "." "." 94.1 "." "." "." 95.8 "." "." "." 
+94.2 95.7 84.7 99.9 91.2 93 83.8 100 99.9 100 100 99.8 
+93.8 ".." ".." ".." 93.9 ".." ".." ".." 96.6 ".." ".." ".." 
+96.6 97.3 93.2 96.9 95.8 97.2 92.8 92.7 98 97.6 100 100 
+97.5 97.9 96.5 99.7 97.1 97.2 96.4 100 99.9 100 100 99.4; 

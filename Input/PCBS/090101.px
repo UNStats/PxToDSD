@@ -1,0 +1,34 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+MATRIX="090101";
+SUBJECT-CODE="-";
+SUBJECT-AREA="";
+SUBJECT-AREA[en]="--";
+DESCRIPTION="عدد الهويات المقدسية التي تم سحبها من قبل سلطات الاحتلال";
+DESCRIPTION[en]="No. of Jerusalem IDs, which were revoked by the Israeli occupation authorities";
+TITLE="عدد الهويات المقدسية التي تم سحبها من قبل سلطات الاحتلال";
+TITLE[en]="No. of Jerusalem IDs, which were revoked by the Israeli occupation authorities";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد الهويات المقدسية التي تم سحبها من قبل سلطات الاحتلال";
+CONTENTS[en]="No. of Jerusalem IDs, which were revoked by the Israeli occupation authorities";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+VALUES("السنة")="2005","2006","2007","2008","2009","2010","2011","2012";
+VALUES[en]("Year")="2005","2006","2007","2008","2009","2010","2011","2012";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="كتاب القدس الاحصائي السنوي 2013 "رقم 15"";
+SURVEY[en]="Jerusalem Statistical Yearbook 2013 "No. 15"";
+DATA=
+222 
+1363 
+289 
+4672 
+725 
+191 
+101 
+116; 

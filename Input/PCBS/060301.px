@@ -1,0 +1,40 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="060301";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+OFFICIAL-STATISTICS=YES;
+DESCRIPTION="نسبة الأسر المتصلة بشبكة كهرباء عامة حسب  المنطقة";
+DESCRIPTION[en]="Percentage of households that connected to Public electricity network by region";
+TITLE="نسبة الأسر المتصلة بشبكة كهرباء عامة حسب  المنطقة";
+TITLE[en]="Percentage of households that connected to Public electricity network by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الأسر المتصلة بشبكة كهرباء عامة حسب  المنطقة";
+CONTENTS[en]="Percentage of households that connected to Public electricity network by region";
+UNITS="";
+UNITS[en]="Percentage of households";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2010","2011","2012";
+VALUES[en]("Year")="2010","2011","2012";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني، 2013";
+SOURCE[en]="الجهاز المركزي للإحصاء الفلسطيني، 2013";
+DATA=
+99.9 99.8 99.8 
+100 99.8 99.8 
+99.9 99.8 99.8; 

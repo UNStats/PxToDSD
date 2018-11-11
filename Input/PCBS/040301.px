@@ -1,0 +1,34 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="040301";
+SUBJECT-CODE="CUL";
+SUBJECT-AREA="الثقافة";
+SUBJECT-AREA[en]="Culture";
+DESCRIPTION="عدد زوار المتاحف العاملة حسب المنطقة";
+DESCRIPTION[en]="Number of Museums Visitors by Region";
+TITLE="عدد زوار المتاحف العاملة حسب المنطقة";
+TITLE[en]="Number of Museums Visitors by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد زوار المتاحف العاملة حسب المنطقة";
+CONTENTS[en]="Number of Museums Visitors by Region";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني، 2009";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="مسح الثقافة الأسري 2009، تقرير النتائج الرئيسية";
+SURVEY[en]="Household Culture Survey, 2009. Main Findings Report.";
+DATA=
+44810 43493 81250 185284 
+11035 14158 18458 136082 
+33775 29335 62792 49202; 

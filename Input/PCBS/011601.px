@@ -1,0 +1,43 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="011601";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="توقع البقاء على قيد الحياة عند الولادة في فلسطين حسب المنطقة";
+DESCRIPTION[en]="Life Expectancy at Birth  in Palestine by Region";
+TITLE="توقع البقاء على قيد الحياة عند الولادة في فلسطين حسب المنطقة";
+TITLE[en]="Life Expectancy at Birth  in Palestine by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="توقع البقاء على قيد الحياة عند الولادة في فلسطين حسب المنطقة";
+CONTENTS[en]="Life Expectancy at Birth  in Palestine by Region";
+UNITS="معدل";
+UNITS[en]="Average";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="تقديرات مبنية على النتائج النهائية للتعداد العام للسكان والمساكن والمنشآت ،2007.";
+SURVEY[en]="Revised Estimates based on the final results of Population, Housing and Establishment Ce"
+"nsus 2007";
+OFFICIAL-STATISTICS=YES;
+DATA=
+72.4 72.7 72.9 73.2 
+72.8 73.1 73.3 73.6 
+71.8 72.1 72.3 72.6; 

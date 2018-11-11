@@ -1,0 +1,45 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="180501";
+SUBJECT-CODE="GEN";
+SUBJECT-AREA="المرأة والرجل";
+SUBJECT-AREA[en]="Gender";
+DESCRIPTION="نسبة المقاعد التي تشغلها النساء في المجلس التشريعي الفلسطيني";
+DESCRIPTION[en]="Proportion of seats held by women in  the Palestinian Legislative Council";
+TITLE="نسبة المقاعد التي تشغلها النساء في المجلس التشريعي الفلسطيني";
+TITLE[en]="Proportion of seats held by women in  the Palestinian Legislative Council";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة المقاعد التي تشغلها النساء في المجلس التشريعي الفلسطيني";
+CONTENTS[en]="Proportion of seats held by women in  the Palestinian Legislative Council";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="السنة";
+STUB[en]="Year";
+VALUES("السنة")="1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006",
+"2007","2008","2009","2010","2011";
+VALUES[en]("Year")="1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006",
+"2007","2008","2009","2010","2011";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات احصاءات المراة والرجل 2010";
+SURVEY[en]="Gender Statistics Database_2011";
+DATA=
+5.7 
+5.7 
+5.7 
+5.7 
+5.7 
+5.7 
+5.7 
+5.7 
+5.7 
+5.7 
+12.9 
+12.9 
+12.9 
+12.9 
+12.9 
+13.2; 

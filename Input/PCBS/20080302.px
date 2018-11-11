@@ -1,0 +1,45 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20080302";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="عدد مستخدمي الإنترنت لكل 100 من السكان حسب نوع التجمع";
+DESCRIPTION[en]="Internet users per 100 population  by locality type";
+TITLE="عدد مستخدمي الإنترنت لكل 100 من السكان حسب نوع التجمع";
+TITLE[en]="Internet users per 100 population  by locality type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد مستخدمي الإنترنت لكل 100 من السكان حسب نوع التجمع";
+CONTENTS[en]="Internet users per 100 population  by locality type";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","نوع التجمع";
+HEADING[en]="Region","Locality Type";
+VALUES("السنة")="2000","2004","2006","2009","2011","2014";
+VALUES[en]("Year")="2000","2004","2006","2009","2011","2014";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("نوع التجمع")="المجموع","حضر","ريف","مخيمات";
+VALUES[en]("Locality Type")="Total","Urban","Rural","Camps";
+VALUENOTEX("السنة","2000")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح وسائل الإعلام 2000";
+VALUENOTEX[en]("Year","2000")="PCBS_Mass Media Survey 2000 Database";
+VALUENOTEX("السنة","2004")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح الكمبيوتر والانترنت والهاتف النقال";
+VALUENOTEX[en]("Year","2004")="PCBS_Computer, Internet and Mobile Phone Survey, 2004 Database";
+VALUENOTEX("السنة","2006")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات المسح الاسري لتكنولوجيا المعلومات والاتصالات 2006";
+VALUENOTEX[en]("Year","2006")="PCBS_Households Survey on Information and Communications Technology, 2006 Database";
+VALUENOTEX("السنة","2009")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات مسح الثقافة الاسري 2009";
+VALUENOTEX[en]("Year","2009")="PCBS_Households Culture Survey, 2009 Database";
+VALUENOTEX("السنة","2011")="الجهاز المركزي للاحصاء الفلسطيني_قاعدة بيانات المسح الاسري لتكنولوجيا المعلومات والاتصالات 2011";
+VALUENOTEX[en]("Year","2011")="PCBS_Households Survey on Information and Communications Technology, 2011 Database";
+DATA=
+5.4 7.4 2.7 3.9 5.7 9 2.7 2.5 4.7 5.1 2.9 4.2 
+11.9 14.3 6.3 12.2 12.3 16.9 6.5 6.8 11.1 10.2 3.1 14.3 
+18.4 18.6 16.3 21.5 18.8 21.1 16.3 16.7 17.7 15 16.8 23.2 
+22.9 24 18.1 24.1 23.7 25.5 18.2 28.8 21.5 21.9 16.2 21 
+39.4 39.4 35.8 45.1 39.7 41.2 35.1 41.9 38.8 36.9 46.6 47.2 
+53.7 54.6 47.3 57.8 54.5 57.4 46.8 55.5 52.2 50.6 56.4 59.3; 

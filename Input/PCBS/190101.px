@@ -1,0 +1,45 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+ROUNDING=0;
+MATRIX="190101";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="عدد الدول التي لديها تمثيل دبلوماسي في فلسطين حسب  المنطقة ومستوى التمثيل";
+DESCRIPTION[en]="Number of countries which have a diplomatic representation for Palestine";
+TITLE="عدد الدول التي لديها تمثيل دبلوماسي في فلسطين حسب  المنطقة ومستوى التمثيل";
+TITLE[en]="Number of countries which have a diplomatic representation for Palestine";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد الدول التي لديها تمثيل دبلوماسي في فلسطين حسب  المنطقة ومستوى التمثيل";
+CONTENTS[en]="Number of countries which have a diplomatic representation for Palestine";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="مستوى التمثيل";
+HEADING[en]="Diplomatic representation";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+VALUES("مستوى التمثيل")="قنصلية عامة في القدس","مكتب تمثيل دبلوماسي",
+"مكتب ممثلية يخدم الفلسطينيين في دولة مجاورة","قنصلية شرفية","المجموع";
+VALUES[en]("Diplomatic representation")="General consulate in Jerusalem",
+"Diplomatic representative offices",
+"Representative Office serves the Palestinians in the neighboring state","Honorary Consulate",
+"Total";
+SOURCE="وزارة الخارجية";
+SOURCE[en]="Ministry of foreign affairs";
+OFFICIAL-STATISTICS=YES;
+DATA=
+"-" 39 0 7 ".." 
+"-" 39 0 7 ".." 
+"-" 51 29 9 89 
+11 42 31 9 82; 

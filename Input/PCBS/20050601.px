@@ -1,0 +1,39 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+MATRIX="20050601";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="عدم تلبية الحاجة الى تنظيم الأسرة حسب المنطقة ونوع التجمع";
+DESCRIPTION[en]="Unmet need for family planning by  region and locality type";
+TITLE="عدم تلبية الحاجة الى تنظيم الأسرة حسب المنطقة ونوع التجمع";
+TITLE[en]="Unmet need for family planning by  region and locality type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدم تلبية الحاجة الى تنظيم الأسرة حسب المنطقة ونوع التجمع";
+CONTENTS[en]="Unmet need for family planning by  region and locality type";
+UNITS="معدل";
+UNITS[en]="rate";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","نوع التجمع";
+HEADING[en]="Region","Locality Type";
+VALUES("السنة")="2006","2010","2014";
+VALUES[en]("Year")="2006","2010","2014";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("نوع التجمع")="إناث","حضر","ريف","مخيمات";
+VALUES[en]("Locality Type")="Females","Urban","Rural","Camps";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+NOTEX="تم استخدام مجموعة من الرموز في الجداول، ودلالة هذه الرموز كالتالي: (.) التصنيف لا ينطبق، (..) : البيانات غير متوفرة.";
+NOTEX[en]="The special symbols were used in the tables. The representations of these symbols are: (.): Category not applicable, (..): Data not available.";
+VALUENOTEX("السنة","2006")="قاعدة بيانات المسح الفلسطيني لصحة الاسرة  2006";
+VALUENOTEX[en]("Year","2006")="Palestinian Family Health Survey 2006 Database";
+VALUENOTEX("السنة","2010")="قاعدة بيانات المسح الفلسطيني لصحة الاسرة  2010";
+VALUENOTEX[en]("Year","2010")="Palestinian Family Health Survey 2010 Database";
+DATA=
+12.4 11.6 12.6 11.2 ".." ".." ".." ".." ".." ".." ".." ".." 
+15.6 15.4 16.3 16.2 14.9 14.5 15.8 15.1 17 16.8 24.2 17 
+10.9 10.8 10.8 11.7 11 11.1 10.5 12.3 10.7 10.5 13.3 11.4; 

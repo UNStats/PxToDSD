@@ -1,0 +1,44 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="060201";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="الإسكان";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="نسبة الأسر المتصلة بشبكة مياه عامة حسب المنطقة ونوع التجمع";
+DESCRIPTION[en]="Percentage of households that connected to water network by region and locality type";
+TITLE="نسبة الأسر المتصلة بشبكة مياه عامة حسب المنطقة ونوع التجمع";
+TITLE[en]="Percentage of households that connected to water network by region and locality type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الأسر المتصلة بشبكة مياه عامة حسب المنطقة ونوع التجمع";
+CONTENTS[en]="Percentage of households that connected to water network by region and locality type";
+UNITS="نسبة الأسر";
+UNITS[en]="Percentage of households";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة","نوع التجمع";
+HEADING[en]="Year","Locality Type";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2009","2011","2013","2015";
+VALUES[en]("Year")="2009","2011","2013","2015";
+VALUES("نوع التجمع")="حضر","ريف","مخيمات لاجئين","المجموع";
+VALUES[en]("Locality Type")="Urban","Rural","camps","Total";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني، 2013";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="مسح الطاقة المنزلي، النتائج الأساسية";
+SURVEY[en]="Household Energy Survey, Main Results";
+OFFICIAL-STATISTICS=YES;
+DATA=
+87.8 73 94.6 84.5 92.7 78.8 94.6 89.4 95.2 91.1 100 94.5 94.5 89 99.7 93.4 
+96.4 96.7 92.8 95.8 95.6 97.6 100 96.3 100 100 99.4 99.9 91.9 89.1 99.6 93 
+91.1 74.3 93.6 88.4 93.8 79.8 97.7 91.8 97.1 91.6 99.7 96.4 93.5 89 99.6 93.3; 

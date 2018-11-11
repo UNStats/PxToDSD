@@ -1,0 +1,35 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020501";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة الأطفال في عمر سنة واحدة الذين تلقوا مطاعيم محددة حسب المطعوم والمنطقة";
+DESCRIPTION[en]="Percentage of Children Aged 1 year  Who Received Selected Vaccines by Type of vaccine and Region";
+TITLE="نسبة الأطفال في عمر سنة واحدة الذين تلقوا مطاعيم محددة حسب المطعوم والمنطقة";
+TITLE[en]="Percentage of Children Aged 1 year  Who Received Selected Vaccines by Type of vaccine and Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الأطفال في عمر سنة واحدة الذين تلقوا مطاعيم محددة حسب المطعوم والمنطقة";
+CONTENTS[en]="Percentage of Children Aged 1 year  Who Received Selected Vaccines by Type of vaccine and Region";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة","المطعوم";
+HEADING[en]="Year","Type of vaccine";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+VALUES("المطعوم")="السل","الشلل الجرعة الثالثة","الثلاثي الجرعة الثالثة",
+"التهاب الكبد الفيروسي 'ب'";
+VALUES[en]("Type of vaccine")="BCG","OPV  (3rd dose)","DPT  (3rd dose)","HB  (3rd dose)";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+98 100.3 99.8 100 98 97.6 97.1 98.8 100.3 99.6 100.7 45.4 102 100.5 98.9 100 
+98 99.4 98.3 98.4 98 94.9 93.9 94 104.8 102.4 103.3 0.1 103.7 97.5 96.2 100 
+98 101.7 101.4 101.8 98 100.8 100.8 104.3 95.2 96.5 97.8 96 100 104.1 102.2 100; 

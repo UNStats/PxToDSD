@@ -1,0 +1,36 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="022301";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة النساء 15-49 سنة المتزوجات حاليا واللاتي لديهن حاجة غير ملباة إلى وسائل تنظيم الأسرة حسب المنطقة";
+DESCRIPTION[en]="Percentage of Women Aged 15-49 Years Currently Married with an Unmet Need for Family Planning by Region";
+TITLE="نسبة النساء 15-49 سنة المتزوجات حاليا واللاتي لديهن حاجة غير ملباة إلى وسائل تنظيم الأسرة حسب المنطقة";
+TITLE[en]="Percentage of Women Aged 15-49 Years Currently Married with an Unmet Need for Family Planning by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة النساء 15-49 سنة المتزوجات حاليا واللاتي لديهن حاجة غير ملباة إلى وسائل تنظيم الأسرة حسب المنطقة";
+CONTENTS[en]="Percentage of Women Aged 15-49 Years Currently Married with an Unmet Need for Family Planning by Region";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="المحافظة";
+STUB[en]="Region";
+HEADING="السنة","الحاجة غير الملباة لوسائل تنظيم الأسرة";
+HEADING[en]="Year","Unmet Need for Family Planning";
+VALUES("المحافظة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+VALUES("الحاجة غير الملباة لوسائل تنظيم الأسرة")="للمباعدة","للحد من الحمل","المجموع";
+VALUES[en]("Unmet Need for Family Planning")="For spacing","For limiting","Total";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="مسح الأسرة الفلسطيني، 2010";
+SURVEY[en]="Palestinian Family Survey, 2010";
+DATA=
+10.4 5.3 ".." 6.3 4.6 10.9 
+9.9 5 ".." 6.1 4.9 11 
+11.2 5.8 ".." 6.6 4.1 10.1; 

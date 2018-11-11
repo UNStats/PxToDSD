@@ -1,0 +1,40 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="070402";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+OFFICIAL-STATISTICS=YES;
+DESCRIPTION="نسبة فجوة الفقر بين الافراد وفقاً لأنماط الاستهلاك الشهري الحقيقية  حسب المنطقة";
+DESCRIPTION[en]=" Percentage of Poverty Gap Among Individuals according to Monthly Consumption Patterns by Locality Type";
+TITLE="نسبة فجوة الفقر بين الافراد وفقاً لأنماط الاستهلاك الشهري الحقيقية  حسب المنطقة";
+TITLE[en]=" Percentage of Poverty Gap Among Individuals according to Monthly Consumption Patterns by Locality Type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة فجوة الفقر بين الافراد وفقاً لأنماط الاستهلاك الشهري الحقيقية  حسب المنطقة";
+CONTENTS[en]="Percentage of Poverty Gap Among Individuals according to Monthly Consumption Patterns by Locality Type";
+UNITS="نسبة فجوة الفقر بين الافراد";
+UNITS[en]="Poverty Gap";
+STUB="نوع التجمع السكاني";
+STUB[en]="Locality Type";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("نوع التجمع السكاني")="حضر","ريف","مخيمات اللاجئين";
+VALUES[en]("Locality Type")="Urban","Rural","Refugee Camps";
+VALUES("السنة")="2010","2011";
+VALUES[en]("Year")="2010","2011";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+DATA=
+6.7 6.3 
+5.1 3.8 
+7.1 7.4; 

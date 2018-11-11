@@ -1,0 +1,34 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020701";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل الأطباء لكل 1000 من السكان حسب المنطقة";
+DESCRIPTION[en]="Physician per 1000 person by region";
+TITLE="معدل الأطباء لكل 1000 من السكان حسب المنطقة";
+TITLE[en]="Physician per 1000 person by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الأطباء لكل 1000 من السكان حسب المنطقة";
+CONTENTS[en]="Physician per 1000 person by region";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013";
+VALUES[en]("Year")="2011","2012","2013";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات احصاءات الصحة";
+SURVEY[en]="Health statistics database";
+DATA=
+1.7 1.7 1.6 
+1.3 1.3 1.3 
+2.3 2.2 2.1; 

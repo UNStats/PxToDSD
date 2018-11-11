@@ -1,0 +1,48 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+MATRIX="20040301";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="نسبة الأطفال الذين بلغوا سنة واحدة من العمر، الملقحين ضد الحصبة حسب المنطقة ونوع التجمع";
+DESCRIPTION[en]="Proportion of 1 year-old children immunised against measles by region and locality type";
+TITLE="نسبة الأطفال الذين بلغوا سنة واحدة من العمر، الملقحين ضد الحصبة حسب المنطقة ونوع التجمع";
+TITLE[en]="Proportion of 1 year-old children immunised against measles by region and locality type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الأطفال الذين بلغوا سنة واحدة من العمر، الملقحين ضد الحصبة حسب المنطقة ونوع التجمع";
+CONTENTS[en]="Proportion of 1 year-old children immunised against measles by region and locality type";
+UNITS="نسبة";
+UNITS[en]="rate";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","نوع التجمع";
+HEADING[en]="Region","Locality Type";
+VALUES("السنة")="1996","2000","2004","2006","2010","2014";
+VALUES[en]("Year")="1996","2000","2004","2006","2010","2014";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("نوع التجمع")="المجموع","حضر","ريف","مخيمات";
+VALUES[en]("Locality Type")="Total","Urban","Rural","Camps";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+NOTEX="تم استخدام مجموعة من الرموز في الجداول، ودلالة هذه الرموز كالتالي: (.) التصنيف لا ينطبق، (..) : البيانات غير متوفرة.";
+NOTEX[en]="The special symbols were used in the tables. The representations of these symbols are: (.): Category not applicable, (..): Data not available.";
+VALUENOTEX("السنة","1996")="قواعد بيانات المسوح الصحية والديموغرافية 2004،2000،1996";
+VALUENOTEX[en]("Year","1996")="Demographic and Health Surveys 1996, 2000, 2004 Database";
+VALUENOTEX("السنة","2000")="قواعد بيانات المسوح الصحية والديموغرافية 2004،2000،1996";
+VALUENOTEX[en]("Year","2000")="Demographic and Health Surveys 1996, 2000, 2004 Database";
+VALUENOTEX("السنة","2004")="قواعد بيانات المسوح الصحية والديموغرافية 2004،2000،1996";
+VALUENOTEX[en]("Year","2004")="Demographic and Health Surveys 1996, 2000, 2004 Database";
+VALUENOTEX("السنة","2006")="قاعدة بيانات المسح الفلسطيني لصحة الاسرة  2006";
+VALUENOTEX[en]("Year","2006")="Palestinian Family Health Survey 2006 Database";
+VALUENOTEX("السنة","2010")="قاعدة بيانات مسح الأسرة الفلسطيني 2010";
+VALUENOTEX[en]("Year","2010")="Palestinian Family Survey 2010 Database";
+DATA=
+49 ".." ".." ".." 28.7 ".." ".." ".." 93.2 ".." ".." ".." 
+92.7 93 92 95 89.1 ".." ".." ".." 98.2 ".." ".." ".." 
+95.2 93.2 97.8 97.6 92.8 ".." ".." ".." 98.7 ".." ".." ".." 
+96.8 96.1 97.6 99 95.1 92.9 97.3 97.6 99.2 99.2 100 99.5 
+93.2 93.5 93 91.7 91.4 91.1 92.9 88 95.9 96.4 95.2 93.7 
+99.1 98.9 99.7 100 98.9 98.5 99.6 100 99.4 99.2 100 100; 

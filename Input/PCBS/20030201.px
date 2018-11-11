@@ -1,0 +1,57 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=2;
+SHOWDECIMALS=2;
+MATRIX="20030201";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="نسبة البنات إلى البنين في مرحلة التعليم الثانوي";
+DESCRIPTION[en]="Ratios of girls to boys in secondary education";
+TITLE="نسبة البنات إلى البنين في مرحلة التعليم الثانوي";
+TITLE[en]="Ratios of girls to boys in secondary education";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة البنات إلى البنين في مرحلة التعليم الثانوي";
+CONTENTS[en]="Ratios of girls to boys in secondary education";
+UNITS="نسبة";
+UNITS[en]="Ratio";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة";
+HEADING[en]="Region";
+VALUES("السنة")="1994/1995"," 1995/1996"," 1996/1997"," 1997/1998"," 1998/1999"," 1999/2000",
+" 2000/2001"," 2001/2002"," 2002/2003"," 2003/2004"," 2004/2005"," 2005/2006"," 2006/2007",
+" 2007/2008"," 2008/2009"," 2009/2010"," 2010/2011"," 2011/2012","2012/2013","2013/2014";
+VALUES[en]("Year")="1994/1995"," 1995/1996"," 1996/1997"," 1997/1998"," 1998/1999"," 1999/2000",
+" 2000/2001"," 2001/2002"," 2002/2003"," 2003/2004"," 2004/2005"," 2005/2006"," 2006/2007",
+" 2007/2008"," 2008/2009"," 2009/2010"," 2010/2011"," 2011/2012","2012/2013","2013/2014";
+VALUES("المنطقة")="الاراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات مسح التعليم 1995/1994-2011/2010- وزارة التربية والتعليم";
+SURVEY[en]="Education Census Database 1994/1995-2011/2012-Ministry of Education";
+NOTE="تم استخدام مجموعة من الرموز في الجداول، ودلالة هذه الرموز كالتالي: (.) التصنيف لا ينطبق، (..) : البيانات غير متوفرة.";
+NOTE[en]="The special symbols were used in the tables. The representations of these symbols are: (.): Category not applicable, (..): Data not available.";
+DATA=
+0.84 0.85 0.82 
+0.86 0.9 0.81 
+0.91 0.92 0.88 
+0.94 0.96 0.93 
+1 1.04 0.95 
+1.04 1.09 0.98 
+1.09 1.12 1.04 
+1.09 1.11 1.04 
+1.09 1.12 1.05 
+1.07 1.09 1.03 
+1.07 1.1 1.04 
+1.1 1.13 1.06 
+1.13 1.15 1.09 
+1.13 1.17 1.09 
+1.14 1.19 1.06 
+1.18 1.23 1.11 
+1.18 1.21 1.15 
+1.2 1.23 1.15 
+1.22 1.26 1.17 
+1.25 1.29 1.2; 

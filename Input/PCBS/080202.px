@@ -1,0 +1,35 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=2;
+MATRIX="080202";
+SUBJECT-CODE="OIK";
+SUBJECT-AREA="الحكم و الأمن و العدالة";
+SUBJECT-AREA[en]="Justice";
+DESCRIPTION="عدد المحاكم لكل 100 الف من السكان  حسب المنطقة";
+DESCRIPTION[en]="Number of Courts per 100 Thousand  of population";
+TITLE="عدد المحاكم لكل 100 الف من السكان  حسب المنطقة";
+TITLE[en]="Number of Courts per 100 Thousand  of population";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد المحاكم لكل 100 الف من السكان  حسب المنطقة";
+CONTENTS[en]="Number of Courts per 100 Thousand  of population";
+UNITS="عدد المحاكم";
+UNITS[en]="Number of Courts";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة","نوع المحاكم";
+HEADING[en]="Year","Type of courts";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2011","2012","2013";
+VALUES[en]("Year")="2011","2012","2013";
+VALUES("نوع المحاكم")="محاكم الصلح","محاكم البداية","محاكم الاستئناف","المجموع";
+VALUES[en]("Type of courts")="Magistrates courts","Primary courts","Appellate courts","Total";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات إحصاءات الجريمة والضحية 1996-2013";
+SURVEY[en]="Data Base of Crime and Victimization Statistics 1996-2013";
+DATA=
+0.51 0.34 0.09 ".." 0.51 0.34 0.09 ".." 0.49 0.32 0.08 0.89 
+0.31 0.19 0.06 ".." 0.31 0.19 0.06 ".." 0.29 0.18 0.06 0.53 
+0.43 0.28 0.08 ".." 0.43 0.28 0.08 ".." 0.41 0.26 0.07 0.74; 

@@ -1,0 +1,47 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20010202";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="نسبة فجوة الفقرحسب الجنس";
+DESCRIPTION[en]="Poverty gap ratio  by sex";
+TITLE="نسبة فجوة الفقرحسب الجنس";
+TITLE[en]="Poverty gap ratio  by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة فجوة الفقرحسب الجنس";
+CONTENTS[en]="Poverty gap ratio  by sex";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","الجنس";
+HEADING[en]="Region","Sex";
+VALUES("السنة")="1996","1997","1998","2001","2004","2005","2006","2007","2009","2010","2011";
+VALUES[en]("Year")="1996","1997","1998","2001","2004","2005","2006","2007","2009","2010","2011";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("الجنس")="المجموع","ذكور","إناث";
+VALUES[en]("Sex")="Total","Male","Female";
+SOURCE="";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="";
+SURVEY[en]="Household Expenditure and Consumption Survey Database_1996-1998,2001,2004-2011";
+NOTEX="في الأعوام 2009-2011 تم التعديل على المنهجية وبالتالي لا مجال للمقارنة مابين هذه الأعوام والأعوام السابقة (والنسب للاعوام 2009-2011 على مستوى الافراد بينما السنوات السابقة على مستوى الأسر)";
+NOTEX[en]="Adjustemnts on poverty methodolgy had been done in the years 2009-2011, so there is no way for comparision between those years and the previous years (2007 and below), (Rates in 2009-2011 years were according to individuals while in previous "
+"years were according to households).";
+DATA=
+6.2 6.2 7.1 3.8 3.6 5.8 12.3 12.2 14.9 
+6 5.7 9 3.9 3.5 8.3 10.8 10.5 15.7 
+5.5 5.2 7.7 3.7 3.3 7 9.4 9.5 14.2 
+7.6 ".." ".." 4.6 ".." ".." 13.9 ".." ".." 
+6.6 6.6 6.2 4.8 ".." ".." 10.4 ".." ".." 
+8 8.1 7.3 5.8 5.8 4.8 12.5 12.4 14.6 
+8.5 8.2 9.3 5.2 5 7.5 14.8 14.9 13.4 
+9.8 9.9 9.2 5.8 5.7 6.9 17.6 18 12 
+6.3 6.4 6 4.2 4.2 4.6 10.1 10.1 8.8 
+6.4 6.4 7 4.1 4 5.8 10.3 10.3 9.5 
+6 5.8 6.2 3.9 3.7 4.1 9.3 9 9.6; 

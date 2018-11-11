@@ -1,0 +1,47 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="100601";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="التوزيع النسبي للعاملين عمالة غير منظمة 15 سنة فأكثر في فلسطين حسب المنطقة";
+DESCRIPTION[en]="Percentage distribution of unregulated labor workers 15 years and over in Palestine by region";
+TITLE="التوزيع النسبي للعاملين عمالة غير منظمة 15 سنة فأكثر في فلسطين حسب المنطقة";
+TITLE[en]="Percentage distribution of unregulated labor workers 15 years and over in Palestine by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="التوزيع النسبي للعاملين عمالة غير منظمة 15 سنة فأكثر في فلسطين حسب المنطقة";
+CONTENTS[en]="Percentage distribution of unregulated labor workers 15 years and over in Palestine by region";
+UNITS="نسبة";
+UNITS[en]="Percent";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2010","2011","2012","الربع الأول 2012","الربع الثاني 2012","الربع الثالث 2012",
+"الربع الرابع 2012","الربع الأول 2013","الربع الثاني 2013","الربع الثالث 2013","الربع الرابع 2013",
+"الربع الأول 2014","الربع الثاني 2014","الربع الثالث 2014","الربع الرابع 2014","2014",
+"الربع الاول  2015";
+VALUES[en]("Year")="2010","2011","2012","Q1 - 2012","Q2 - 2012","Q3 - 2012","Q4 - 2012",
+"Q1 - 2013","Q2 - 2013","Q3 - 2013","Q4 - 2013","Q1 - 2014","Q2-2014","Q3-2014","Q4-2014","2014",
+"Q1-2015";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات مسح القوى العاملة";
+SURVEY[en]="Labor Force Survey";
+OFFICIAL-STATISTICS=YES;
+DATA=
+36.2 37.7 36.9 36.3 37.6 36 37.6 35.9 37 36.4 37.4 38.6 39 37.4 38.3 38.3 38.1 
+22.7 27.4 27.7 27.3 28.9 27.5 27.1 27.9 29.1 27.9 26.1 26.5 25.1 22.5 25.7 24.9 26.6 
+31.3 34 33.6 33 34.5 32.9 33.8 33 34.1 33.3 33.3 34.2 33.9 31.9 33.7 33.4 33.9; 

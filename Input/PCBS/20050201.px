@@ -1,0 +1,48 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+MATRIX="20050201";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="معدل انتشار وسائل منع الحمل حسب المنطقة ونوع التجمع";
+DESCRIPTION[en]="Contraceptive prevalence rate by  region and locality type";
+TITLE="معدل انتشار وسائل منع الحمل حسب المنطقة ونوع التجمع";
+TITLE[en]="Contraceptive prevalence rate by  region and locality type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل انتشار وسائل منع الحمل حسب المنطقة ونوع التجمع";
+CONTENTS[en]="Contraceptive prevalence rate by  region and locality type";
+UNITS="معدل";
+UNITS[en]="rate";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","نوع التجمع";
+HEADING[en]="Region","Locality Type";
+VALUES("السنة")="1996","2000","2004","2006","2010","2014";
+VALUES[en]("Year")="1996","2000","2004","2006","2010","2014";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("نوع التجمع")="اناث","حضر","ريف","مخيمات";
+VALUES[en]("Locality Type")="Female","Urban","Rural","Camps";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+NOTEX="تم استخدام مجموعة من الرموز في الجداول، ودلالة هذه الرموز كالتالي: (.) التصنيف لا ينطبق، (..) : البيانات غير متوفرة.";
+NOTEX[en]="The special symbols were used in the tables. The representations of these symbols are: (.): Category not applicable, (..): Data not available.";
+VALUENOTEX("السنة","1996")="قواعد بيانات المسوح الصحية والديموغرافية 2004،2000،1996";
+VALUENOTEX[en]("Year","1996")="Demographic and Health Surveys 1996, 2000, 2004 Database";
+VALUENOTEX("السنة","2000")="قواعد بيانات المسوح الصحية والديموغرافية 2004،2000،1996";
+VALUENOTEX[en]("Year","2000")="Demographic and Health Surveys 1996, 2000, 2004 Database";
+VALUENOTEX("السنة","2004")="قواعد بيانات المسوح الصحية والديموغرافية 2004،2000،1996";
+VALUENOTEX[en]("Year","2004")="Demographic and Health Surveys 1996, 2000, 2004 Database";
+VALUENOTEX("السنة","2006")="قاعدة بيانات المسح الفلسطيني لصحة الاسرة  2006";
+VALUENOTEX[en]("Year","2006")="Palestinian Family Health Survey 2006 Database";
+VALUENOTEX("السنة","2010")="قاعدة بيانات مسح الأسرة الفلسطيني 2010";
+VALUENOTEX[en]("Year","2010")="Palestinian Family Survey 2010 Database";
+DATA=
+45.2 ".." ".." ".." 50.7 ".." ".." ".." 33.9 ".." ".." ".." 
+51.4 51.1 52.9 50.1 54.3 ".." ".." ".." 46.1 ".." ".." ".." 
+50.6 50 55.3 44.6 55 ".." ".." ".." 43 ".." ".." ".." 
+50.2 49.3 53.4 46.4 54.9 55.9 54.5 49.8 41.7 40.6 34.6 44.7 
+52.5 52.5 53.7 50.5 55.1 55.3 54.7 54.1 48.2 48.6 37.9 48 
+57.2 56.6 59.8 57.6 59.8 59.6 60.6 59.2 53.4 53 50.9 56.6; 

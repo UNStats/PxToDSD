@@ -1,0 +1,34 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="022001";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل الولادات لدى المراهقات حسب المنطقة";
+DESCRIPTION[en]="The birth rate among adolescents by region";
+TITLE="معدل الولادات لدى المراهقات حسب المنطقة";
+TITLE[en]="The birth rate among adolescents by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الولادات لدى المراهقات حسب المنطقة";
+CONTENTS[en]="The birth rate among adolescents by region";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="المحافظة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المحافظة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="مسح الأسرة الفلسطيني، 2010";
+SURVEY[en]="Palestinian Family Survey, 2010";
+DATA=
+67 48 
+65 35 
+70 66; 

@@ -1,0 +1,56 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="021401";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة الافراد ذوي الإعاقة حسب الجنس والمحافظة";
+DESCRIPTION[en]="Percentage of disabled individuals by sex and governorate";
+TITLE="نسبة الافراد ذوي الإعاقة حسب الجنس والمحافظة";
+TITLE[en]="Percentage of disabled individuals by sex and governorate";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الافراد ذوي الإعاقة حسب الجنس والمحافظة";
+CONTENTS[en]="Percentage of disabled individuals by sex and governorate";
+UNITS="نسبة";
+UNITS[en]="Population";
+STUB="المحافظة";
+STUB[en]="Governorate";
+HEADING="السنة","الجنس";
+HEADING[en]="Year","Sex";
+VALUES("المحافظة")="الأراضي الفلسطينية","الضفة الغربية","جنين","طوباس","طولكرم","نابلس","قلقيلية",
+"سلفيت","رام الله والبيرة","اريحا والاغوار","القدس","بيت لحم","الخليل","قطاع غزة","شمال غزة","غزة",
+"دير البلح","خانيونس","رفح";
+VALUES[en]("Governorate")="Palestinian Territory","West Bank","Jenin","Tubas","Tulkarm","Nablus",
+"Qalqiliya","Salfit","Ramallah & Al-Bireh","Jericho and Al Aghwar","Jerusalem","Bethlehem","Hebron",
+"Gaza Strip","North Gaza","Gaza","Deir El-Balah","Khan Yunis","Rafah";
+VALUES("السنة")="2011";
+VALUES[en]("Year")="2011";
+VALUES("الجنس")="ذكر","أنثى","المجموع";
+VALUES[en]("Sex")="Male","Female","Total";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني ووزارة الشؤون الاجتماعية";
+SOURCE[en]="Palestinian Central Bureau of Statistics and Ministry of Social Affairs";
+SURVEY="مسح الأفراد ذوي الإعاقة، 2011، تقرير النتائج الرئيسية";
+SURVEY[en]="Disabled Individuals Survey, 2011, Main Findings Report";
+DATA=
+2.9 2.5 2.7 
+3.1 2.7 2.9 
+4 4.2 4.1 
+2.8 3.3 3.1 
+3.7 2.7 3.2 
+3.1 2.9 3 
+3.4 3.3 3.4 
+2.2 1.9 2 
+2.4 1.7 2.1 
+3.1 2.5 2.8 
+1.9 1 1.4 
+3.1 2.8 3 
+3.9 3.2 3.6 
+2.4 2.4 2.4 
+2.4 2.4 2.4 
+2.5 2.5 2.5 
+1.9 2.9 2.4 
+2.3 2 2.2 
+2.7 2 2.4; 

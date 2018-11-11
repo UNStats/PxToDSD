@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="031401";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="نسبة المدارس المتصلة بالانترنت حسب المنطقة الجغرافية";
+DESCRIPTION[en]="Percentage of schools that have internet connection by region";
+TITLE="نسبة المدارس المتصلة بالانترنت حسب المنطقة الجغرافية";
+TITLE[en]="Percentage of schools that have internet connection by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة المدارس المتصلة بالانترنت حسب المنطقة الجغرافية";
+CONTENTS[en]="Percentage of schools that have internet connection by region";
+UNITS="نسبة المدارس المتصلة بالانترنت";
+UNITS[en]="Percentage of schools";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة الدراسية";
+HEADING[en]="Scholastic Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza strip","Palestine";
+VALUES("السنة الدراسية")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2013/2014","2014/2015";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+30.4 30.7 69.6 70.5 
+98.5 100 ".." 100 
+47.7 48.1 ".." 77.9; 

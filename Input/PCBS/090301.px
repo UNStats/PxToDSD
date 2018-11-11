@@ -1,0 +1,29 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="090301";
+SUBJECT-CODE="-";
+SUBJECT-AREA="--";
+SUBJECT-AREA[en]="--";
+DESCRIPTION="عدد الشهداء";
+DESCRIPTION[en]="Number of martyrs";
+TITLE="عدد الشهداء";
+TITLE[en]="Number of martyrs";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد الشهداء";
+CONTENTS[en]="Number of martyrs";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+VALUES("السنة")="2011","2012";
+VALUES[en]("Year")="2011","2012";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY=" قاعدة بيانات الشهداء";
+SURVEY[en]="database of Martyrs";
+DATA=
+118 
+306; 

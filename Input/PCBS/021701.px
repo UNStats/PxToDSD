@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="021701";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة الأطفال البالغين من العمر 12-23 شهر، الملقحين ضد الحصبة حسب المنطقة";
+DESCRIPTION[en]="Percentage of children aged 12-23 months who vaccinated against measles by Region";
+TITLE="نسبة الأطفال البالغين من العمر 12-23 شهر، الملقحين ضد الحصبة حسب المنطقة";
+TITLE[en]="Percentage of children aged 12-23 months who vaccinated against measles by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الأطفال البالغين من العمر 12-23 شهر، الملقحين ضد الحصبة حسب المنطقة";
+CONTENTS[en]="Percentage of children aged 12-23 months who vaccinated against measles by Region";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+93.2 97 
+91.4 96.9 
+95.9 97.1; 

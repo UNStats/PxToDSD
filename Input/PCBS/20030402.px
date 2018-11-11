@@ -1,0 +1,52 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+MATRIX="20030402";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="حصة النساء من الوظائف المدفوعة الأجر في القطاع غير الزراعي حسب المنطقة و الجنس";
+DESCRIPTION[en]="Share of women in wage employment in the non-agricultural sector by region and sex";
+TITLE="حصة النساء من الوظائف المدفوعة الأجر في القطاع غير الزراعي حسب المنطقة و الجنس";
+TITLE[en]="Share of women in wage employment in the non-agricultural sector by region and sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="حصة النساء من الوظائف المدفوعة الأجر في القطاع غير الزراعي حسب المنطقة و الجنس";
+CONTENTS[en]="Share of women in wage employment in the non-agricultural sector by region and sex";
+UNITS="حصة";
+UNITS[en]="Percentage";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","الجنس";
+HEADING[en]="Region","Sex";
+VALUES("السنة")="1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006",
+"2007","2008","2009","2010","2011","2012","2013";
+VALUES[en]("Year")="1996","1997","1998","1999","2000","2001","2002","2003","2004","2005","2006",
+"2007","2008","2009","2010","2011","2012","2013";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("الجنس")="إناث";
+VALUES[en]("Sex")="Females";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات مسح القوى العاملة 1995-2011";
+SURVEY[en]="Labor Force Survey Database 1995-2011";
+DATA=
+15.6 16.3 12.2 
+13.5 15.3 9.8 
+12.3 13.9 8.8 
+12.3 13.8 8.7 
+13.6 15.3 9.6 
+16 17.4 12.3 
+17.2 19.8 11 
+17 20.1 10.3 
+18 20.9 11.8 
+16.2 18 12.2 
+17.2 19.2 12.7 
+17.1 19.3 12.3 
+18.1 19.6 14.4 
+18.8 19.8 16.8 
+17.5 18.9 14.1 
+17.4 18.7 14.6 
+16.7 18.1 14 
+16.3 17.4 14.1; 

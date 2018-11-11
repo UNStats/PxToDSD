@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="021901";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة النساء 15-49 سنة المتزوجات ويستخدمن أي وسيلة تنظيم أسرة حسب المنطقة";
+DESCRIPTION[en]="Percentage of Married Women Aged 15-49 Years Old Using any Family Planning Method by Region";
+TITLE="نسبة النساء 15-49 سنة المتزوجات ويستخدمن أي وسيلة تنظيم أسرة حسب المنطقة";
+TITLE[en]="Percentage of Married Women Aged 15-49 Years Old Using any Family Planning Method by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة النساء 15-49 سنة المتزوجات ويستخدمن أي وسيلة تنظيم أسرة حسب المنطقة";
+CONTENTS[en]="Percentage of Married Women Aged 15-49 Years Old Using any Family Planning Method by Region";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+52.5 57.2 
+55.1 59.8 
+48.2 53.4; 

@@ -1,0 +1,31 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020103";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل وفيات الرضع لكل 1000 مولود حي حسب الجنس";
+DESCRIPTION[en]="Infant  Mortality Rate per 1000 live birth by sex";
+TITLE="معدل وفيات الرضع لكل 1000 مولود حي حسب الجنس";
+TITLE[en]="Infant  Mortality Rate per 1000 live birth by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل وفيات الرضع لكل 1000 مولود حي حسب الجنس";
+CONTENTS[en]="Infant  Mortality Rate per 1000 live birth by sex";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="الجنس";
+STUB[en]="Sex";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("الجنس")="ذكور","إناث";
+VALUES[en]("Sex")="Males","Females";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+20.6 19.2 
+17.1 17.2; 

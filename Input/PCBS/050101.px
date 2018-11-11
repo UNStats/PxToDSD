@@ -1,0 +1,48 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="050101";
+SUBJECT-CODE="TTT";
+SUBJECT-AREA="Tiede, teknologia ja tietoyhteiskunta";
+SUBJECT-AREA[en]="Science, Technology and Information Society";
+DESCRIPTION="عدد خطوط الهاتف الثابت لكل 100 نسمة";
+DESCRIPTION[en]="Telephone lines per 100 population";
+TITLE="عدد خطوط الهاتف الثابت لكل 100 نسمة";
+TITLE[en]="Telephone lines per 100 population";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد خطوط الهاتف الثابت لكل 100 نسمة";
+CONTENTS[en]="Telephone lines per 100 population";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة";
+HEADING[en]="Region";
+VALUES("السنة")="1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008",
+"2009","2010","2011";
+VALUES[en]("Year")="1998","1999","2000","2001","2002","2003","2004","2005","2006","2007","2008",
+"2009","2010","2011";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","Westbank","Gaza strip";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات احصاءات النقل والاتصالات في الاراضي الفلسطينية 1998-2011";
+SURVEY[en]="Transportation & Communication Statistics in the Palestinian Territory  Database_199"
+"8-2011";
+DATA=
+6 7 5 
+8 9 6 
+9 10 7 
+8 9 6 
+7 8 6 
+6 6 6 
+8 9 7 
+9 10 8 
+9 10 7 
+10 11 7 
+10 12 7 
+10 12 7 
+10 11 8 
+10 11 8; 

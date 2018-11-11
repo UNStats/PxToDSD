@@ -1,0 +1,47 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20010102";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="نسبة السكان الذين يقل دخلهم اليومي عن خط الفقر الوطني حسب المنطقة والجنس";
+DESCRIPTION[en]="Proportion of population below national poverty line by sex";
+TITLE="نسبة السكان الذين يقل دخلهم اليومي عن خط الفقر الوطني حسب المنطقة والجنس";
+TITLE[en]="Proportion of population below national poverty line by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة السكان الذين يقل دخلهم اليومي عن خط الفقر الوطني حسب المنطقة والجنس";
+CONTENTS[en]="Proportion of population below national poverty line by sex";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","الجنس";
+HEADING[en]="Region","Sex";
+VALUES("السنة")="1996","1997","1998","2001","2004","2005","2006","2007","2009","2010","2011";
+VALUES[en]("Year")="1996","1997","1998","2001","2004","2005","2006","2007","2009","2010","2011";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("الجنس")="المجموع","ذكور","إناث";
+VALUES[en]("Sex")="Total","Male","Female";
+SOURCE="";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="";
+SURVEY[en]="Household Expenditure and Consumption Survey Database_1996-1998,2001,2004-2011";
+NOTEX="في الأعوام 2009-2011 تم التعديل على المنهجية وبالتالي لا مجال للمقارنة مابين هذه الأعوام والأعوام السابقة (والنسب للاعوام 2009-2011 على مستوى الافراد بينما السنوات السابقة على مستوى الأسر)";
+NOTEX[en]="Adjustemnts on poverty methodolgy had been done in the years 2009-2011, so there is no way for comparision between those years and the previous years (2007 and below), (Rates in 2009-2011 years were according to individuals while in previous "
+"years were according to households).";
+DATA=
+23.6 23.4 25.7 16.2 15.6 23.1 41.9 41.5 48 
+22.5 21.8 29.9 15.6 14.5 26.7 38.2 37.3 51.6 
+20.3 19.8 25.6 14.5 13.7 21.7 33 32.7 36.8 
+27.9 ".." ".." ".." ".." ".." ".." ".." ".." 
+25.6 26 21 19.8 20.1 17.1 37.2 37.5 32.8 
+29.5 29.8 25 22.3 22.4 18.1 43.7 44.3 42 
+30.8 30.3 35.6 24 23.4 31.4 50.7 50.9 47.9 
+34.5 34.5 34.5 23.6 22.9 30 55.7 56.6 44.4 
+26.2 26.5 22.5 19.4 19.3 21 38.3 39 25.4 
+25.7 25.5 29.8 18.3 18 23.7 38 37.9 41.9 
+25.8 25.5 26.2 17.8 17.4 18.3 38.8 38.6 39; 

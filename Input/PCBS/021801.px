@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="021801";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة الولادات التي تجري بإشراف موظفي صحة من ذوي الاختصاص حسب المنطقة";
+DESCRIPTION[en]="Percentage of births attended by Skilled Personnel by region";
+TITLE="نسبة الولادات التي تجري بإشراف موظفي صحة من ذوي الاختصاص حسب المنطقة";
+TITLE[en]="Percentage of births attended by Skilled Personnel by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الولادات التي تجري بإشراف موظفي صحة من ذوي الاختصاص حسب المنطقة";
+CONTENTS[en]="Percentage of births attended by Skilled Personnel by region";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+99 99.6 
+98.6 99.6 
+99.7 99.5; 

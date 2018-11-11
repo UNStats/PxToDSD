@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="031301";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="معدل عدد الطلبة لكل جهاز حاسوب حسب المنطقة الجغرافية";
+DESCRIPTION[en]="Students per Computer rate by region";
+TITLE="معدل عدد الطلبة لكل جهاز حاسوب حسب المنطقة الجغرافية";
+TITLE[en]="Students per Computer rate by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل عدد الطلبة لكل جهاز حاسوب حسب المنطقة الجغرافية";
+CONTENTS[en]="Students per Computer rate by region";
+UNITS="معدل عدد الطلبة لكل جهاز حاسوب";
+UNITS[en]="Students per Computer rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة الدراسية";
+HEADING[en]="Scholastic Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza strip","Palestine";
+VALUES("السنة الدراسية")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2013/2014","2014/2015";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+25 23.2 20.7 19 
+57.3 42.4 42.4 42.2 
+32.5 28.5 28.5 24.6; 

@@ -1,0 +1,40 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+ROUNDING=0;
+MATRIX="070301";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="نسبة الأسر غير الآمنه غذائيا حسب المنطقة";
+DESCRIPTION[en]="Percentage of insecure households by Region";
+TITLE="نسبة الأسر غير الآمنه غذائيا حسب المنطقة";
+TITLE[en]="Percentage of insecure households by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الأسر غير الآمنه غذائيا حسب المنطقة";
+CONTENTS[en]="Percentage of insecure households by Region";
+UNITS="نسبة الأسر";
+UNITS[en]="Percentage";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="الجهاز المركزي للإحصاء الفلسطيني";
+OFFICIAL-STATISTICS=YES;
+DATA=
+17 19 19 16 
+44 57 57 47 
+27 34 33 27; 

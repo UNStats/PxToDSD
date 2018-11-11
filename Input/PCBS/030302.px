@@ -1,0 +1,33 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="030302";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Koulutus";
+DESCRIPTION="معدل الالتحاق الصافي حسب المرحلة";
+DESCRIPTION[en]="Net Enrollment rate by stage";
+TITLE="معدل الالتحاق الصافي حسب المرحلة";
+TITLE[en]="Net Enrollment rate by stage";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الالتحاق الصافي حسب المرحلة";
+CONTENTS[en]="Net Enrollment rate by stage";
+UNITS="معدل الالتحاق الصافي";
+UNITS[en]="Net Enrollment rate";
+STUB="السنة الدراسية";
+STUB[en]="Scholastic Year";
+HEADING="المرحلة";
+HEADING[en]="Stage";
+VALUES("السنة الدراسية")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES("المرحلة")="رياض الاطفال","الاساسية","الثانوية","المجموع";
+VALUES[en]("Stage")="Kindergartens","Basic","Secondary","Total";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+40.6 92.4 67.1 80.2 
+44.2 92.2 68.6 80.9 
+47.7 93.6 65.4 89.1 
+52.8 93.8 61.1 88.6; 

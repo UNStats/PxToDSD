@@ -1,0 +1,62 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+ROUNDING=0;
+MATRIX="011302";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="أعداد وقوعات الطلاق المسجلة  في فلسطين  حسب المحافظة";
+DESCRIPTION[en]="Number of Registered Divorces in Palestine by Governorate";
+TITLE="أعداد وقوعات الطلاق المسجلة  في فلسطين  حسب المحافظة";
+TITLE[en]="Number of Registered Divorces in Palestine by Governorate";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="أعداد وقوعات الطلاق المسجلة  في فلسطين  حسب المحافظة";
+CONTENTS[en]="Number of Registered Divorces in Palestine by Governorate";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="المحافظة";
+STUB[en]="Governorate";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المحافظة")="فلسطين","الضفة الغربية","جنين","طوباس","طولكرم","نابلس","قلقيلية","سلفيت",
+"رام الله والبيرة","أريحا والأغوار","القدس","بيت لحم","الخليل","قطاع غزة","شمال غزة","غزة",
+"دير البلح","خانيونس","رفح";
+VALUES[en]("Governorate")="Palestine","West Bank","Jenin","Tubas","Tulkarm","Nablus","Qalqiliya",
+"Salfit","Ramallah & Al-Bireh","Jericho and Al Aghwar","Jerusalem","Bethlehem","Hebron",
+"Gaza Strip","North Gaza","Gaza","Deir El-Balah","Khanyunis","Rafah";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات  الزواج والطلاق";
+SURVEY[en]="Database of Marriage and Divorce Database";
+OFFICIAL-STATISTICS=YES;
+DATA=
+6155 6574 7114 7603 
+3392 3749 4095 4725 
+423 461 428 601 
+61 65 86 97 
+283 324 358 469 
+558 590 614 694 
+141 191 209 220 
+102 114 139 133 
+492 564 720 683 
+89 88 100 125 
+445 492 527 615 
+140 182 149 221 
+658 678 765 867 
+2763 2825 3019 2878 
+548 526 606 550 
+983 1022 1066 1080 
+397 382 460 393 
+506 519 549 494 
+329 376 338 361; 

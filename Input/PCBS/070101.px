@@ -1,0 +1,40 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+ROUNDING=0;
+MATRIX="070101";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+OFFICIAL-STATISTICS=YES;
+DESCRIPTION="نسبة الفقر بين الافراد وفقاً لأنماط الاستهلاك الشهري الحقيقية  حسب المنطقة";
+DESCRIPTION[en]="Poverty Rates Among Individuals According to Monthly Consumption Patterns by Region";
+TITLE="نسبة الفقر بين الافراد وفقاً لأنماط الاستهلاك الشهري الحقيقية  حسب المنطقة";
+TITLE[en]="Poverty Rates Among Individuals According to Monthly Consumption Patterns by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الفقر بين الافراد وفقاً لأنماط الاستهلاك الشهري الحقيقية  حسب المنطقة";
+CONTENTS[en]="Poverty Rates Among Individuals According to Monthly Consumption Patterns by Region";
+UNITS="نسبة الفقر";
+UNITS[en]="Poverty Rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="السنة";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2011";
+VALUES[en]("السنة")="2010","2011";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="الجهاز المركزي للإحصاء الفلسطيني";
+DATA=
+26 26 
+18 18 
+38 39; 

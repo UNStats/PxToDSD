@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="031102";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="معدل معدل تحصيل طلبة الصف السابع الأساسي في مادة اللغة العربية في الاختبار الوزاري الموحد حسب الجنس";
+DESCRIPTION[en]="Achievement average of grade 7 in Arabic language in the unified test by sex";
+TITLE="معدل معدل تحصيل طلبة الصف السابع الأساسي في مادة اللغة العربية في الاختبار الوزاري الموحد حسب الجنس";
+TITLE[en]="Achievement average of grade 7 in Arabic language in the unified test by sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل معدل تحصيل طلبة الصف السابع الأساسي في مادة اللغة العربية في الاختبار الوزاري الموحد حسب الجنس";
+CONTENTS[en]="Achievement average of grade 7 in Arabic language in the unified test by sex";
+UNITS="معدل تحصيل";
+UNITS[en]="Achievement average";
+STUB="السنة الدراسية";
+STUB[en]="Scholastic Year";
+HEADING="الجنس";
+HEADING[en]="Sex";
+VALUES("السنة الدراسية")="2012/2011","2013/2012","2013/2014";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2013/2014";
+VALUES("الجنس")="ذكر","أنثى","كلا الجنسين";
+VALUES[en]("Sex")="Male","Female","Both Sexes";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+45 61 53 
+52.1 67.7 60 
+49.4 66.1 56.9; 

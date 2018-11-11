@@ -1,0 +1,42 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="070103";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+OFFICIAL-STATISTICS=YES;
+DESCRIPTION="نسبة الفقر بين الافراد وفقاً لأنماط الاستهلاك الشهري الحقيقية حسب الجنس والمنطقة";
+DESCRIPTION[en]="Poverty Rates Among Individuals According to Monthly Consumption Patterns by Sex and Region";
+TITLE="نسبة الفقر بين الافراد وفقاً لأنماط الاستهلاك الشهري الحقيقية حسب الجنس والمنطقة";
+TITLE[en]="Poverty Rates Among Individuals According to Monthly Consumption Patterns by Sex and Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الفقر بين الافراد وفقاً لأنماط الاستهلاك الشهري الحقيقية حسب الجنس والمنطقة";
+CONTENTS[en]="Poverty Rates Among Individuals According to Monthly Consumption Patterns by Sex and Region";
+UNITS="نسبة الفقر";
+UNITS[en]="Poverty Rates";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة","الجنس";
+HEADING[en]="Year","Sex";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2011";
+VALUES[en]("Year")="2010","2011";
+VALUES("الجنس")="ذكر","أنثى";
+VALUES[en]("Sex")="Male","Female";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني، 2013";
+SOURCE[en]="الجهاز المركزي للإحصاء الفلسطيني، 2013";
+DATA=
+25.3 26.2 25.5 26.2 
+17.7 18.9 17.4 18.3 
+37.6 38.3 38.6 39; 

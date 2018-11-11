@@ -1,0 +1,62 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+ROUNDING=0;
+MATRIX="011102";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="أعداد عقود الزواج المسجلة في فلسطين حسب المحافظة";
+DESCRIPTION[en]="Number of Registered Marriages in Palestine by Governorate";
+TITLE="أعداد عقود الزواج المسجلة في فلسطين حسب المحافظة";
+TITLE[en]="Number of Registered Marriages in Palestine by Governorate";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="أعداد عقود الزواج المسجلة في فلسطين حسب المحافظة";
+CONTENTS[en]="Number of Registered Marriages in Palestine by Governorate";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="المحافظة";
+STUB[en]="Governorate";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المحافظة")="فلسطين","الضفة الغربية","جنين","طوباس","طولكرم","نابلس","قلقيلية","سلفيت",
+"رام الله والبيرة","أريحا والأغوار","القدس","بيت لحم","الخليل","قطاع غزة","شمال غزة","غزة",
+"دير البلح","خانيونس","رفح";
+VALUES[en]("Governorate")="Palestine","West Bank","Jenin","Tubas","Tulkarm","Nablus","Qalqiliya",
+"Salfit","Ramallah & Al-Bireh","Jericho and Al Aghwar","Jerusalem","Bethlehem","Hebron",
+"Gaza Strip","North Gaza","Gaza","Deir El-Balah","Khanyunis","Rafah";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات  الزواج والطلاق";
+SURVEY[en]="Database of Marriage and Divorce Database";
+OFFICIAL-STATISTICS=YES;
+DATA=
+36284 40292 42698 43732 
+20165 23764 25388 27638 
+2792 2997 3180 3298 
+517 578 604 739 
+1585 1750 1888 2082 
+2803 3414 3558 3857 
+909 982 1018 1113 
+770 866 807 805 
+1957 2832 2836 3089 
+316 334 300 424 
+1397 2191 2896 2931 
+1097 1529 1425 1798 
+6022 6291 6876 7502 
+16119 16528 17310 16094 
+2982 3071 3405 3089 
+6115 5980 6276 5966 
+2149 2190 2394 2160 
+3077 3258 3182 3010 
+1796 2029 2053 1869; 

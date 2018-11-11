@@ -1,0 +1,43 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="030901";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="نسبة المدارس التي  يوجد بها مرشد تربوي حسب المنطقة الجغرافية وجنس المدرسة";
+DESCRIPTION[en]="Percentage of schools that have a counselor by Region and Sex";
+TITLE="نسبة المدارس التي  يوجد بها مرشد تربوي حسب المنطقة الجغرافية وجنس المدرسة";
+TITLE[en]="Percentage of schools that have a counselor by Region and Sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة المدارس التي  يوجد بها مرشد تربوي حسب المنطقة الجغرافية وجنس المدرسة";
+CONTENTS[en]="Percentage of schools that have a counselor by Region and Sex";
+UNITS="نسبة المدارس التي  يوجد بها مرشد تربوي";
+UNITS[en]="Percentage of schools that have a counselor";
+STUB="السنة الدراسية","المنطقة";
+STUB[en]="Scholastic Year","Region";
+HEADING="الجنس";
+HEADING[en]="Sex";
+VALUES("السنة الدراسية")="2011/2012","2012/2013","2013/2014","2014/2015";
+VALUES[en]("Scholastic Year")="2011/2012","2012/2013","2013/2014","2014/2015";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza strip","Palestine";
+VALUES("الجنس")="ذكر","أنثى","مختلطة";
+VALUES[en]("Sex")="Male","Female","Co-education";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+74.9 71.4 54.4 
+".." ".." ".." 
+".." ".." ".." 
+75 70.2 56.9 
+".." ".." ".." 
+".." ".." ".." 
+73.7 71.5 57.3 
+".." ".." ".." 
+".." ".." ".." 
+73.7 71.5 57.3 
+".." ".." ".." 
+".." ".." ".."; 

@@ -1,0 +1,52 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="020901";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="عدد السكان لكل مركز رعاية أولية حسب المحافظة والمنطقة";
+DESCRIPTION[en]="Population per primary health center by Governorate and Region";
+TITLE="عدد السكان لكل مركز رعاية أولية حسب المحافظة والمنطقة";
+TITLE[en]="Population per primary health center by Governorate and Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد السكان لكل مركز رعاية أولية حسب المحافظة والمنطقة";
+CONTENTS[en]="Population per primary health center by Governorate and Region";
+UNITS="عدد السكان";
+UNITS[en]="Population";
+STUB="المحافظة";
+STUB[en]="Governorate";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المحافظة")="الأراضي الفلسطينية","الضفة الغربية","جنين","طوباس","طولكرم","نابلس","قلقيلية",
+"سلفيت","رام الله والبيرة","اريحا والاغوار","القدس","بيت لحم","الخليل","قطاع غزة","شمال غزة","غزة",
+"دير البلح","خانيونس","رفح";
+VALUES[en]("Governorate")="Palestinian Territory","West Bank","Jenin","Tubas","Tulkarm","Nablus",
+"Qalqiliya","Salfit","Ramallah & Al-Bireh","Jericho and Al Aghwar","Jerusalem","Bethlehem","Hebron",
+"Gaza Strip","North Gaza","Gaza","Deir El-Balah","Khan Yunis","Rafah";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+8772 36975 8832 9099 
+6021 5996 5882 6064 
+5857 6089 6118 6071 
+6294 5958 4739 5693 
+5451 5795 5904 5767 
+7910 8187 8188 8469 
+4762 4952 5080 5145 
+3801 3934 4024 4069 
+5745 5588 6178 5834 
+11515 4872 5008 4230 
+3594 6864 5889 6498 
+10216 10642 8308 10023 
+4884 5131 4988 5304 
+28924 30979 32051 32593 
+33706 41086 42754 43601 
+36213 38592 39826 40450 
+15119 15186 15714 15982 
+29644 31585 32593 33102 
+38429 41294 42792 43552; 

@@ -1,0 +1,34 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="021502";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة الأطفال دون الخامسة الذين يعانون بصورة متوسطة أو حادة من نقص الوزن المزمن، المتوسط أو الحاد حسب نوع التجمع";
+DESCRIPTION[en]="Percentage of Children Under Five Years Who are suffer from Severe or Moderate Under-weight by locality Type";
+TITLE="نسبة الأطفال دون الخامسة الذين يعانون بصورة متوسطة أو حادة من نقص الوزن المزمن، المتوسط أو الحاد حسب نوع التجمع";
+TITLE[en]="Percentage of Children Under Five Years Who are suffer from Severe or Moderate Under-weight by locality Type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الأطفال دون الخامسة الذين يعانون بصورة متوسطة أو حادة من نقص الوزن المزمن، المتوسط أو الحاد حسب نوع التجمع";
+CONTENTS[en]="Percentage of Children Under Five Years Who are suffer from Severe or Moderate Under-weight by locality Type";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="نوع التجمع";
+STUB[en]="Locality type";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("نوع التجمع")="حضر","ريف","مخيم";
+VALUES[en]("Locality type")="Urban","Rural","Camps";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="مسح الأسرة الفلسطيني، 2010";
+SURVEY[en]="Palestinian Family Survey, 2010";
+DATA=
+3.7 1.3 
+3.9 1.6 
+3.4 1.4; 

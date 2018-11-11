@@ -1,0 +1,221 @@
+Group0Code	Group0Desc	Group1Code	Group1Desc	Group2Code	Group2Desc	IndicatorCode	IndicatorDesc	TableId
+		'01	Population	'01.01	Projected Palestinian Population  (Mid Year)	01.01.01	Projected Population in  Palestine by Governorate	T010101.px
+		'01	Population	'01.01	Projected Palestinian Population  (Mid Year)	01.01.02	Projected Population in  Palestine by Locality	010102.px
+		'01	Population	'01.01	Projected Palestinian Population  (Mid Year)	01.01.03	Projected Population in  Palestine  by Region and Sex	010103.px
+		'01	Population	'01.02	Percentage of the population Under 15	01.02.01	Percentage  of  Population in the age group (0-14) years in  Palestine by Region	010201.px
+		'01	Population	'01.02	Percentage of the population Under 15	01.02.02	Percentage  of  Population in the age group (0-14) years in  Palestine by Region and sex	010202.px
+		'01	Population	'01.03	Percentage of the population 15-29 years	01.03.01	Percentage  of  Population in the age group (15-29) years in  Palestine by Region 	010301.px
+		'01	Population	'01.03	Percentage of the population 15-29 years	01.03.02	Percentage  of  Population in the age group (15-29) years in  Palestine by Region and sex 	010302.px
+		'01	Population	'01.04	Percentage of the population 65 years above to the total population	01.04.01	Percentage  of  Population in the age group 65 years and over  in the Palestine by Region	010401.px
+		'01	Population	'01.04	Percentage of the population 65 years above to the total population	01.04.02	Percentage  of  Population in the age group  65 years and over in  Palestine by Region and sex	010402.px
+		'01	Population	'01.05	Sex Ratio	01.05.01	 Sex Ratio in  Palestine by Region	010501.px
+		'01	Population	'01.06	Population Growth Rate	01.06.01	The Estimated  Population Growth Rate in  Palestine by Region	010601.px
+		'01	Population	'01.07	Average Household Size	01.07.01	 Average of Household Size in  Palestine by Region	010701.px
+		'01	Population	'01.08	Total Fertility Rates 	01.08.01	 Total Fertility Rates  in Palestine by Region	010801.px
+		'01	Population	'01.09	Crude Divorce Rate (CDR)	01.09.01	 Crude Divorce Rate in Palestine by Region	010901.px
+		'01	Population	'01.09	Crude Divorce Rate (CDR)	01.09.02	Crude Divorce Rate in Palestine by Governorate	010902.px
+		'01	Population	'01.10	Crude Marriage Rate (CMR)	01.10.01	 Crude Marriage Rate in Palestine by Region	011001.px
+		'01	Population	'01.10	Crude Marriage Rate (CMR)	01.10.02	Crude Marriage Rate in Palestine by Governorate	011002.px
+		'01	Population	'01.11	Registered marriages 	01.11.01	 Number of Registered Marriagesin  Palestine by Region	011101.px
+		'01	Population	'01.11	Registered marriages 	01.11.02	Number of Registered Marriages in Palestine by Governorate	011102.px
+		'01	Population	'01.12	 Median Age  at First Marriage	01.12.01	 Median Age in the Palestine at First Marriage by Sex and Governorate by Region and sex	011201.px
+		'01	Population	'01.12	 Median Age  at First Marriage	01.12.02	Median Age in thePalestine at First Marriage by Sex and Governorate	011202.px
+		'01	Population	'01.13	Registered divorces	01.13.01	Number of Registered Divorcesin Palestine by Region	011301.px
+		'01	Population	'01.13	Registered divorces	01.13.02	Number of Registered Divorces in Palestine by Governorate	011302.px
+		'01	Population	'01.14	Crude Death Rate	01.14.01	Crude Death Rate in Palestine by Region	011401.px
+		'01	Population	'01.15	  Crude Birth Rate	01.15.01	  Crude Birth Rate in Palestine by Region	011501.px
+		'01	Population	'01.16	 Life Expectancy at Birth	01.16.01	 Life Expectancy at Birth  in Palestine by Region	011601.px
+		'01	Population	'01.16	 Life Expectancy at Birth	01.16.02	Life Expectancy at Birth  in Palestine by Region and Sex	011602.px
+		'01	Population	'01.17	Dependency Ratio	01.17.01	Dependency Ratio  in Palestine by Region	011701.px
+		'02	Health	'02.01	Infant  Mortality Rate per 1000 live birth	02.01.01	Infant  Mortality Rate per 1000 live birth by region	020101.px
+		'02	Health	'02.01	Infant  Mortality Rate per 1000 live birth	02.01.02	Infant  Mortality Rate per 1000 live birth by Locality type	020102.px
+		'02	Health	'02.01	Infant  Mortality Rate per 1000 live birth	02.01.03	Infant  Mortality Rate per 1000 live birth by sex	020103.px
+		'02	Health	'02.02	Under-Five Mortality Rate per 1000 live birth	02.02.01	Under-Five Mortality Rate per 1000 live birth by region	020201.px
+		'02	Health	'02.02	Under-Five Mortality Rate per 1000 live birth	02.02.02	Under-Five Mortality Rate per 1000 live birth by Locality Type	020202.px
+		'02	Health	'02.02	Under-Five Mortality Rate per 1000 live birth	02.02.03	Under-Five Mortality Rate per 1000 live birth by Sex	020203.px
+		'02	Health	'02.03	Percentage of Low-birth weight 	02.03.01	Low-birth weight (Below 2500 grams ), by Region	020301.px
+		'02	Health	'02.04	Anemia among children	02.04.01	Anemia among children (12-15) month, by Region	020401.px
+		'02	Health	'02.05	Percentage of Children Aged 1 year  Who Received Selected Vaccines	02.05.01	Percentage of Children Aged 1 year  Who Received Selected Vaccines by Type of vaccine and Region	020501.px
+		'02	Health	'02.06	Beds Rates	02.06.01	Beds per 10000 person Region	020601.px
+		'02	Health	'02.06	Beds Rates	02.06.02	Beds per 10000 person by governorate and Region	020602.px
+		'02	Health	'02.07	Physician Rates	02.07.01	Physician per 1000 person by region	020701.px
+		'02	Health	'02.08	Nurses Rates	02.08.01	Nurses per 1000 person by region 	020801.px
+		'02	Health	'02.09	primary health centers 	02.09.01	Population per primary health center by Governorate and Region	020901.px
+		'02	Health	'02.10	Estimated costs for treatment outside the ministry 	02.10.01	Estimated costs for treatment outside the ministry by Governorate and Region	021001.px
+		'02	Health	'02.13	Persons with Chronic Disease (cancer, diabetes)	02.13.01	Percentage of Persons 18 Years and Over who Reported Having Selected Chronic Diseases (Diabetes, Cancer) and Receiving Treatment by Region	021301.px
+		'02	Health	'02.14	 Percentage of disabled individuals	02.14.01	 Percentage of disabled individuals by sex and governorate	021401.px
+		'02	Health	'02.15	Percentage of Children Under Five Years Who are suffer from Under-weight (Severe or Moderate)	02.15.01	Percentage of Children Under Five Years Who are suffer from Severe or Moderate Under-weight by Region	021501.px
+		'02	Health	'02.15	Percentage of Children Under Five Years Who are suffer from Under-weight (Severe or Moderate)	02.15.02	Percentage of Children Under Five Years Who are suffer from Severe or Moderate Under-weight by locality Type	021502.px
+		'02	Health	'02.15	Percentage of Children Under Five Years Who are suffer from Under-weight (Severe or Moderate)	02.15.03	Percentage of Children Under Five Years Who are suffer from Severe or Moderate Under-weight by Sex 	021503.px
+		'02	Health	'02.16	Percentage of Children Under Five Years Who are suffer from Under-weight (Severe)	02.16.01	Percentage of Children Under Five Years Who are suffer from Severe Under-weight by Region	021601.px
+		'02	Health	'02.16	Percentage of Children Under Five Years Who are suffer from Under-weight (Severe)	02.16.02	Percentage of Children Under Five Years Who are suffer from Severe  Under-weight by locality Type	021602.px
+		'02	Health	'02.16	Percentage of Children Under Five Years Who are suffer from Under-weight (Severe)	02.16.03	Percentage of Children Under Five Years Who are suffer from Severe Under-weight by Sex	021603.px
+		'02	Health	'02.17	Contraceptive prevalence rate	02.17.01	Percentage of children aged 12-23 months who vaccinated against measles by Region	021701.px
+		'02	Health	'02.17	Contraceptive prevalence rate	02.17.02	Percentage of children aged 12-23 months who vaccinated against measles by Locality type	021702.px
+		'02	Health	'02.18	Percentage of births attended by Skilled Personnel	02.18.01	Percentage of births attended by Skilled Personnel by region	021801.px
+		'02	Health	'02.18	Percentage of births attended by Skilled Personnel	02.18.02	Percentage of births attended by Skilled Personnel by locality type	021802.px
+		'02	Health	'02.19	Contraceptive prevalence rate	02.19.01	Percentage of Married Women Aged 15-49 Years Old Using any Family Planning Method by Region	021901.px
+		'02	Health	'02.19	Contraceptive prevalence rate	02.19.02	 Percentage of Married Women Aged 15-49 Years Old Using any Family Planning Method by Locality type	021902.px
+		'02	Health	'02.20	The birth rate among adolescents 	02.20.01	The birth rate among adolescents by region 	022001.px
+		'02	Health	'02.21	Percentage of Women 15-49 Years Who Received Antenatal Care  at least one time 	02.21.01	Percentage of Women 15-49 Years During the Last Pregnancy in the Two Years Preceding the Survey Who Received Antenatal Care  at least one time by region	022101.px
+		'02	Health	'02.21	Percentage of Women 15-49 Years Who Received Antenatal Care  at least one time 	02.21.02	Percentage of Women 15-49 Years During the Last Pregnancy in the Two Years Preceding the Survey Who Received Antenatal Care  at least one time by Locality Type 	022102.px
+		'02	Health	'02.22	Percentage of Women 15-49 Years Who Received Antenatal Care  (at Least 4 Visits) 	02.22.01	 Percentage of Women 15-49 Years Who Received Antenatal Care During their Last Pregnancy (at Least 4 Visits) by Region	022201.px
+		'02	Health	'02.23	 Percentage of Women Aged 15-49 Years Currently Married with an Unmet Need for Family Planning	02.23.01	 Percentage of Women Aged 15-49 Years Currently Married with an Unmet Need for Family Planning by Region	022301.px
+		'03	Education	'03.01	Gross Intake rate	03.01.01	Gross Intake rate by region and sex	030101.px
+		'03	Education	'03.02	Gross Enrollment rate	03.02.01	Gross Enrollment rate by Region and Sex	030201.px
+		'03	Education	'03.02	Gross Enrollment rate	03.02.02	Gross Enrollment rate by stage	030202.px
+		'03	Education	'03.03	Net Enrollment rate	03.03.01	Net Enrollment rate by Region and Sex	030301.px
+		'03	Education	'03.03	Net Enrollment rate	03.03.02	Net Enrollment rate by stage	030302.px
+		'03	Education	'03.04	Transition Rate from basic stage to secondary stage	03.04.01	Transition Rate from basic stage to secondary stage by sex	030401.px
+		'03	Education	'03.05	Student survival rate	03.05.01	Student survival rate for grade 5 by sex	030501.px
+		'03	Education	'03.05	Student survival rate	03.05.02	Student survival rate for grade 10 sex	030502.px
+		'03	Education	'03.06	Students per teacher rate	03.06.01	Students per teacher rate by region	030601.px
+		'03	Education	'03.07	Students per Class rate	03.07.01	Students per Class rate by Region	030701.px
+		'03	Education	'03.08	Percentage of students those attend at evening schools	03.08.01	Percentage of students those attend at evening schools by Region and Sex of school	030801.px
+		'03	Education	'03.09	Percentage of schools that have a counselor	03.09.01	Percentage of schools that have a counselor by Region and Sex	030901.px
+		'03	Education	'03.10	Achievement average of  students in the national standard test	03.10.01	Achievement average of grade 4 in Arabic language in the national standard test by sex	031001.px
+		'03	Education	'03.10	Achievement average of  students in the national standard test	03.10.02	Achievement average of grade 4 in Math in the national standard test by sex	031002.px
+		'03	Education	'03.10	Achievement average of  students in the national standard test	03.10.03	Achievement average of grade 4 in Science in the national standard test by sex	031003.px
+		'03	Education	'03.10	Achievement average of  students in the national standard test	03.10.04	Achievement average of grade 10 in Arabic language in the national standard test by sex	031004.px
+		'03	Education	'03.10	Achievement average of  students in the national standard test	03.10.05	Achievement average of grade 10 in Math in the national standard test by sex	031005.px
+		'03	Education	'03.10	Achievement average of  students in the national standard test	03.10.06	Achievement average of grade 10 in Science in the national standard test by sex	031006.px
+		'03	Education	'03.11	Achievement average in the unified test	03.11.01	Achievement average of grade 4 in Math in the unified test by sex	031101.px
+		'03	Education	'03.11	Achievement average in the unified test	03.11.02	Achievement average of grade 7 in Arabic language in the unified test by sex	031102.px
+		'03	Education	'03.11	Achievement average in the unified test	03.11.03	Achievement average of grade 8 in Math in the unified test by sex	031103.px
+		'03	Education	'03.11	Achievement average in the unified test	03.11.04	Achievement average of grade 9 in Science in the unified test by sex	031104.px
+		'03	Education	'03.12	Achievement average of grade 8 in International test TIMMS	03.12.01	Achievement average of grade 8 in Math in International test TIMMS by sex	031201.px
+		'03	Education	'03.12	Achievement average of grade 8 in International test TIMMS	03.12.02	Achievement average of grade 8 in Science in International test TIMMS by sex	031202.px
+		'03	Education	'03.13	Students per Computer rate	03.13.01	Students per Computer rate by region	031301.px
+		'03	Education	'03.13	Students per Computer rate	03.13.02	Students per Computer rate by sex	031302.px
+		'03	Education	'03.14	Percentage of schools that have internet connection	03.14.01	Percentage of schools that have internet connection by sex	031401.px
+		'03	Education	'03.15	Percentage of the students enrolling in the Tawjihi Vocational stream exam  	03.15.01	Percentage of the students enrolling in the Tawjihi Vocational stream exam by sex	031501.px
+		'03	Education	'03.16	Percentage of students in Jerusalem supervised by the State of Palestine	03.16.01	Percentage of students in Jerusalem supervised by the State of Palestine by sex	031601.px
+		'03	Education	'03.18	Percentage of Persons have Associate Diploma Certificate and Above	03.18.01	Percentage of Persons (15 Years and above) who have Associate Diploma Certificate and above by Region and Sex	031801.px
+		'03	Education	'03.19	Literacy Rate	03.19.01	Literacy Rate by Region, Age Group and Sex	031901.px
+		'04	Culture	'04.02	Percentage of Persons (10 Years and Over) Who Read Books 	04.02.01	Percentage of Persons (10 Years and Over) Who Read Books by Region, Governorate and Sex	040201.px
+		'04	Culture	'04.03	Number of Museums Visitors	04.03.01	Number of Museums Visitors by Region	040301.px
+		'04	Culture	'04.05	Number of Cultural Institutions	04.05.01	Number of Cultural Institutions by Governorate and Type 	040501.px
+		'04	Culture	'04.06	Number of Theaters Visitors	04.06.01	Number of Theaters Visitors by Region	040601.px
+		'05	Information Technology	'05.01	number of Telephone lines	05.01.01	Telephone lines per 100 population 	050101.px
+		'05	Information Technology	'05.02	number of Cellular subscribers	05.02.01	Cellular subscribers per 100 population	050201.px
+		'05	Information Technology	'05.03	Number of Internet users	05.03.01	Internet users per 100 population  by Sex	050301.px
+		'05	Information Technology	'05.03	Number of Internet users	05.03.02	Internet users per 100 population  by locality type	050302.px
+		'06	Housing and building indicators	'06.01	Population Density	06.01.01	Population Density by region 	060101.px
+		'06	Housing and building indicators	'06.02	percentage of households that connected to public water network	06.02.01	percentage of households that connected to public water network by region and locality type	060201.px
+		'06	Housing and building indicators	'06.03	percentage of households that connected to public electricity network	06.03.01	percentage of households that connected to public electricity network by region 	060301.px
+		'06	Housing and building indicators	'06.04	percentage of households that connected to wastewater network	06.04.01	percentage of households that connected to wastewater network by region and locality type	060401.px
+		'07	Poverty and standerds of living indicators	'07.01	Poverty Rate Among Individuals	07.01.01	Poverty Rates Among Individuals According to Monthly Consumption Patterns by Region	070101.px
+		'07	Poverty and standerds of living indicators	'07.01	Poverty Rate Among Individuals	07.01.02	Poverty Rates Among Individuals According to Monthly Consumption Patterns by Locality Type	070102.px
+		'07	Poverty and standerds of living indicators	'07.01	Poverty Rate Among Individuals	07.01.03	Poverty Rates Among Individuals According to Monthly Consumption Patterns by Sex and Region	070103.px
+		'07	Poverty and standerds of living indicators	'07.01	Poverty Rate Among Individuals	07.01.04	Poverty Rates Among Individuals According to Real Monthly Income by Region	070104.px
+		'07	Poverty and standerds of living indicators	'07.01	Poverty Rate Among Individuals	07.01.05	Poverty Rates Among Individuals According to Real Monthly Income by Locality Type	070105.px
+		'07	Poverty and standerds of living indicators	'07.01	Poverty Rate Among Individuals	07.01.06	Poverty Rates Among Individuals According to Real Monthly Income by Sex and Region	070106.px
+		'07	Poverty and standerds of living indicators	'07.02	Average Monthly Consumption Per Capita	07.02.01	Average Monthly Consumption Per Capita in (JD) in Palestine by Governorate	070201.px
+		'07	Poverty and standerds of living indicators	'07.02	Average Monthly Consumption Per Capita	07.02.02	Average Monthly Consumption Per Capita in (JD) in Palestine by Locality Type	070202.px
+		'07	Poverty and standerds of living indicators	'07.03	Percentage of food insecure households	07.03.01	Percentage of food insecure households	070301.px
+		'07	Poverty and standerds of living indicators	'07.04	Percentage of Poverty Gap Among Individuals	07.04.01	Percentage of Poverty Gap Among Individuals according to Monthly Consumption Patterns by Region	070401.px
+		'07	Poverty and standerds of living indicators	'07.04	Percentage of Poverty Gap Among Individuals	07.04.02	Percentage of Poverty Gap Among Individuals according to Monthly Consumption Patterns by  locality type	070402.px
+		'07	Poverty and standerds of living indicators	'07.05	Share of Poorest 20% in National Consumption	07.05.01	Share of Poorest 20% in National Consumption by Region	070501.px
+		'08	Governance, Security and Justice	'08.01	Number of Judges	08.01.01	The number of judges per 100 Thousand  of population by Region	080101.px
+		'08	Governance, Security and Justice	'08.01	Number of Judges	08.01.02	The number of judges by sex and Region	080102.px
+		'08	Governance, Security and Justice	'08.02	Courts 	08.02.01	The number of courts by Governorate and  type of courts	080201.px
+		'08	Governance, Security and Justice	'08.02	Courts 	08.02.02	 Number of Courts per 100 Thousand  of population	080202.px
+		'08	Governance, Security and Justice	'08.03	Courts  Cases	08.03.01	The cases in Palestine Courts by Court type, Region and case	080301.px
+		'08	Governance, Security and Justice	'08.03	Courts  Cases	08.03.02	The cases Per Judge by Region, Court type and case	080302.px
+		'08	Governance, Security and Justice	'08.04	Implemented (executions) cases	08.04.01	Implemented (executions) Decided cases by Prosecution	080401.px
+		'08	Governance, Security and Justice	'08.05	National Crime Rate	08.05.01	National Crime Rate per 1000 of population by region	080501.px
+		'09	Israeli violation and annexation wall	'09.01	No. of Jerusalem IDs, which were revoked by the Israeli occupation authorities	09.01.01	No. of Jerusalem IDs, which were revoked by the Israeli occupation authorities	090101.px
+		'09	Israeli violation and annexation wall	'09.02	Number of Palestinian war prisoners	09.02.01	Number of Palestinian war prisoners	090201.px
+		'09	Israeli violation and annexation wall	'09.03	Number of martyrs	09.03.01	Number of martyrs	090301.px
+		'09	Israeli violation and annexation wall	'09.04	The number of houses that were demolished	09.04.01	The number of houses that were demolished in Palestine as an un-licensing	090401.px
+		'09	Israeli violation and annexation wall	'09.05	Number of Israeli settlements	09.05.01	Number of Israeli settlements in the West Bank	090501.px
+		'09	Israeli violation and annexation wall	'09.06	Number of Israeli Settlers 	09.06.01	Number of Israeli Settlers in the West Bank	090601.px
+		'10	Labour 	'10.01	Labour Force Participation Rate	10.01.01	Labour Force Participation Rate of Persons Aged 15 Years and Over in Palestine by Governorate , Region and Sex	100101.px
+		'10	Labour 	'10.01	Labour Force Participation Rate	10.01.02	Labour Force Participation Rate of Persons Aged 15 Years and Over in Palestine by Governorate , Region and Educational Qualification	100102.px
+		'10	Labour 	'10.02	Unemployment Rate	10.02.01	Unemployment rate among participants in the Labour Force Aged 15 Years and Over in Palestine by Governorate , Region and Sex	100201.px
+		'10	Labour 	'10.02	Unemployment Rate	10.02.02	Unemployment rate among participants in the Labour Force Aged 15 Years and Over in Palestine by Governorate  Region and Educational Qualification	100202.px
+		'10	Labour 	'10.02	Unemployment Rate	10.02.03	Unemployment rate among participants in the Labour Force Aged 15 Years and Over in Palestine by Governorate  Region and Age Group	100203.px
+		'10	Labour 	'10.02	Unemployment Rate	10.02.04	Unemployment rate among participants in the Labour Force   who hold  Associated Diploma and above  in Palestine by Years of graduation, Governorate and Region	100204.px
+		'10	Labour 	'10.03	Percentage  of employed persons 	10.03.01	Percentage of Employed Persons Aged 15 Years and Above in Palestine by Governorate , Region and Sex	100301.px
+		'10	Labour 	'10.03	Percentage  of employed persons 	10.03.02	Percentage of employed persons by region and education level	100302.px
+		'10	Labour 	'10.03	Percentage  of employed persons 	10.03.03	Percentage Distribution of Employed Persons Aged 15 Years and Above in Palestine  by  Educational Qualification and Sex	100303.px
+		'10	Labour 	'10.03	Percentage  of employed persons 	10.03.04	Percentage Distribution of Employed Persons Aged 15 Years and Above in Palestine by Economic Activity and Governorate 	100304.px
+		'10	Labour 	'10.03	Percentage  of employed persons 	10.03.05	Percentage of Employed Persons Aged 15 Years and Above by Age Group and Region	100305.px
+		'10	Labour 	'10.03	Percentage  of employed persons 	10.03.06	Percentage Distribution of Employed Persons Aged 15 Years and Above by Age Group and Region	100306.px
+		'10	Labour 	'10.03	Percentage  of employed persons 	10.03.07	Percentage Distribution of Employed Persons Aged 15 Years and Above by Age Group and Region	100307.px
+		'10	Labour 	'10.03	Percentage  of employed persons 	10.03.08	Percentage Distribution of Employed Persons Aged 15 Years and Above by Employment Status and Governorate 	100308.px
+		'10	Labour 	'10.04	Average Daily Wage in NIS for wage employees 	10.04.01	Average Daily Wage in NIS for Wage Employees in Palestine by Sex, Governorate and Region	100401.px
+		'10	Labour 	'10.04	Average Daily Wage in NIS for wage employees 	10.04.02	Average Daily Wage in NIS for Wage Employees in Palestine by Educational Qualification, Governorate and Region	100402.px
+		'10	Labour 	'10.05	Informal Employment	10.05.01	Percentage Distribution of Informal Employment Persons Aged 15 Years and Above by Economic Activity , Sex and  Region	100501.px
+		'10	Labour 	'10.06	Employment-to-population ratio 	10.06.01	Percentage distribution of unregulated labor workers 15 years and over in Palestine by region	100601.px
+		'10	Labour 	'10.07	Proportion of own-account and contributing family workers in total employment	10.07.01	Proportion of own-account and contributing family workers in total employment by Region	100701.px
+		'10	Labour 	'10.08	Share of women in paid jobs in the non-agricultural sector	10.08.01	Share of women in paid jobs in the non-agricultural sector by Region	100801.px
+		'11	National Accounts	'11.01	Value of Gross Domestic Product  (GDP)	11.01.01	Gross Value Added by region and economic activity	110101.px
+		'11	National Accounts	'11.02	GDP per capita at constant prices	11.02.01	GDP Per Capital by Region at Constant Prices: 2004 is The Base Year	110201.px
+		'11	National Accounts	'11.03	Growth Rate of Gross Domestic Product prices instead Growth Rate of Gross Domestic Product 	11.03.01	Economic Growth by Region and Economic Activity at Constant Prices 	110301.px
+		'11	National Accounts	'11.04	Gross National Income (GNI) 	11.04.01	Gross National Income by Region at Constant Pricse	110401.px
+		'11	National Accounts	'11.05	 Gross National Income per capita 	11.05.01	Gross National Income Per Capital by Region at Constant Prices 	110501.px
+		'11	National Accounts	'11.06	Net Current Transfers	11.06.01	Net Current Transfers from Abroad by Region at Constant Prices: 2004 is the Base Year	110601.px
+		'11	National Accounts	'11.07	GDP Growth Per Worker 	11.07.01	GDP Growth Per Worker by Region	110701.px
+		'12	Prices and Indices	'12.01	Inflation Rate	12.01.01	Inflation Rate by Region	120101.px
+		'12	Prices and Indices	'12.02	Consumer Price Index	12.02.01	Consumer Price Index Numbers by Major Groups of Expenditure and Region	120201.px
+		'12	Prices and Indices	'12.02	Consumer Price Index	12.02.02	Consumer Price Index Numbers by Month and Region	120202.px
+		'13	Capital Indicators	'13.01	Capital of new companies registered in the Palestinian territory, local 	13.01.01	The value of local capital for new companies registered in the Ministry of National Economy in the West Bank by  capital group and Governorate	130101.px
+		'13	Capital Indicators	'13.02	Capital of new companies registered in the Palestinian territory, foreign  in west bank and capital segment	13.02.01	The value of  foreign capital for new companies registered in the Ministry of National Economy in the West Bank by  capital group and Governorate	130201.px
+		'14	Government Finance	'14.01	Budget deficit	14.01.01	Budget deficit by type	140101.px
+		'15	Agriculture 	'15.01	Number of Livestock	15.01.01	Number of Livestock by Type	150101.px
+		'15	Agriculture 	'15.02	The amount of water utilized for agricultural purposes	15.02.01	The amount of water utilized for agricultural purposes	150201.px
+		'15	Agriculture 	'15.03	Percent of Forests and Wooded Land Area in Palestine	15.03.01	Percent of Forests and Wooded Land Area in Palestine by Region	150301.px
+		'16	Environment	'16.01	CO2 emissions per capita	16.01.01	CO2 emissions per capita in Palestine	160101.px
+		'17	Tourisim indicators	'17.02	Number of Visitors to touristic places	17.02.01	 Number of Visitors by type of visitor and Governorate	170201.px
+		'18	Gender	'18.01	Ratios of girls to boys in basic education	18.01.01	 Ratios of girls to boys in basic education by region	180101.px
+		'18	Gender	'18.02	Ratios of girls to boys in secondary education	18.02.01	Ratios of girls to boys in secondary education by region	180201.px
+		'18	Gender	'18.03	Ratios of girls to boys in tertiary education	18.03.01	Ratios of girls to boys in tertiary education by region	180301.px
+		'18	Gender	'18.04	Share of women in wage employment in the non-agricultural sector	18.04.01	Share of women in wage employment in the non-agricultural sector by locality Type and Region	180401.px
+		'18	Gender	'18.05	Proportion of seats held by women in national parliament	18.05.01	Proportion of seats held by women in  the Palestinian Legislative Council	180501.px
+		'19	International Cooperation	'19.01	number of countries which have a deplomatic representation for Palestine	19.01.01	Number of countries which have a diplomatic representation for Palestine	190101.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.01	Proportion of population below national poverty line	20.01.01.01	Proportion of population below national poverty line by locality type	20010101.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.01	Proportion of population below national poverty line	20.01.01.02	Proportion of population below national poverty line by sex	20010102.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.02	Poverty gap ratio 	20.01.02.01	Poverty gap ratio by locality type	20010201.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.02	Poverty gap ratio 	20.01.02.02	Poverty gap ratio  by sex	20010202.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.03	Share of poorest quintile in national consumption 	20.01.03.01	Share of poorest quintile in national consumption by region and locality type	20010301.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.03	Share of poorest quintile in national consumption 	20.01.03.02	Share of poorest quintile in national consumption by region and sex	20010302.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.04	Growth rate of GDP per person employed	20.01.04.01	Growth rate of GDP per person employed	20010401.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.05	Employment-to-population ratio	20.01.05.01	Employment-to-population ratio by region and locality type	20010501.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.05	Employment-to-population ratio	20.01.05.02	Employment-to-population ratio by region and sex	20010502.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.07	Proportion of own-account and contributing family workers in total employment 	20.01.07.01	Proportion of own-account and contributing family workers in total employment  by region and locality type	20010701.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.07	Proportion of own-account and contributing family workers in total employment 	20.01.07.02	Proportion of own-account and contributing family workers in total employment  by region and sex	20010702.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.08	Prevalence of underweight children under-five years of age (moderate)	20.01.08.01	Prevalence of underweight children under-five years of age (moderate)  by region and locality type	20010801.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.08	Prevalence of underweight children under-five years of age (moderate)	20.01.08.02	Prevalence of underweight children under-five years of age (moderate)  by region and sex	20010802.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.09	Prevalence of underweight children under-five years of age (severe)	20.01.09.01	Prevalence of underweight children under-five years of age (severe)  by region and locality type	20010901.px
+20	Millennium Development Goals (MDGs)	'20.01	Goal 1: Eradicate poverty and hunger	'20.01.09	Prevalence of underweight children under-five years of age (severe)	20.0109.02	Prevalence of underweight children under-five years of age (severe) by region and sex	20010902.px
+20	Millennium Development Goals (MDGs)	'20.02	Goal 2: Achieve universal primary education	'20.02.01	Net enrolment ratio in basic education	20.02.01.01	Net enrolment ratio in basic education by region and sex	20020101.px
+20	Millennium Development Goals (MDGs)	'20.02	Goal 2: Achieve universal primary education	'20.02.02	Proportion of pupils starting grade 1 who reach last grade of  primary 	20.02.02.01	Proportion of pupils starting grade 1 who reach last grade of  primary	20020201.px
+20	Millennium Development Goals (MDGs)	'20.02	Goal 2: Achieve universal primary education	'20.02.03	Literacy rate of 15-24 year-olds, women and men	20.02.03.01	Literacy rate of 15-24 year-olds, women and men by region and locality type	20020301.px
+20	Millennium Development Goals (MDGs)	'20.02	Goal 2: Achieve universal primary education	'20.02.03	Literacy rate of 15-24 year-olds, women and men	20.02.03.02	Literacy rate of 15-24 year-olds, women and men by region and sex	20020302.px
+20	Millennium Development Goals (MDGs)	'20.03	Goal 3: Promote gender equality and empower women	'20.03.01	Ratios of girls to boys in basic education	20.03.01.01	Ratios of girls to boys in basic education	20030101.px
+20	Millennium Development Goals (MDGs)	'20.03	Goal 3: Promote gender equality and empower women	'20.03.02	Ratios of girls to boys in secondary education	20.03.02.01	Ratios of girls to boys in secondary education	20030201.px
+20	Millennium Development Goals (MDGs)	'20.03	Goal 3: Promote gender equality and empower women	'20.03.03	Ratios of girls to boys in tertiary education	20.03.03.01	Ratios of girls to boys in tertiary education	20030301.px
+20	Millennium Development Goals (MDGs)	'20.03	Goal 3: Promote gender equality and empower women	'20.03.04	Share of women in wage employment in the non-agricultural sector	20.03.04.01	Share of women in wage employment in the non-agricultural sector by region and locality type	20030401.px
+20	Millennium Development Goals (MDGs)	'20.03	Goal 3: Promote gender equality and empower women	'20.03.04	Share of women in wage employment in the non-agricultural sector	20.03.04.02	Share of women in wage employment in the non-agricultural sector by region and sex	20030402.px
+20	Millennium Development Goals (MDGs)	'20.03	Goal 3: Promote gender equality and empower women	'20.03.05	Proportion of seats held by women in national parliament	20.03.05.01	Proportion of seats held by women in national parliament	20030501.px
+20	Millennium Development Goals (MDGs)	'20.04	Goal 4: Reduce child mortality	'20.04.01	Under-five mortality rat	20.04.01.01	Under-five mortality rate by region and locality type	20040101.px
+20	Millennium Development Goals (MDGs)	'20.04	Goal 4: Reduce child mortality	'20.04.01	Under-five mortality rat	20.04.01.02	Under-five mortality rate by region and sex	20040102.px
+20	Millennium Development Goals (MDGs)	'20.04	Goal 4: Reduce child mortality	'20.04.02	Infant mortality rate	20.04.02.01	Infant mortality rate by region and locality type	20040201.px
+20	Millennium Development Goals (MDGs)	'20.04	Goal 4: Reduce child mortality	'20.04.02	Infant mortality rate	20.04.02.02	Infant mortality rate by region and sex	20040202.px
+20	Millennium Development Goals (MDGs)	'20.04	Goal 4: Reduce child mortality	'20.04.03	Proportion of 1 year-old children immunised against measles	20.04.03.01	Proportion of 1 year-old children immunised against measles by region and locality type	20040301.px
+20	Millennium Development Goals (MDGs)	'20.04	Goal 4: Reduce child mortality	'20.04.03	Proportion of 1 year-old children immunised against measles	20.04.03.02	Proportion of 1 year-old children immunised against measles by region and sex	20040302.px
+20	Millennium Development Goals (MDGs)	'20.05	Goal 5: Improve maternal health	'20.05.01	Proportion of births attended by skilled health personnel	20.05.01.01	Proportion of births attended by skilled health personnel by region and locality type	20050101.ps
+20	Millennium Development Goals (MDGs)	'20.05	Goal 5: Improve maternal health	'20.05.02	Contraceptive prevalence rate 	20.05.02.01	Contraceptive prevalence rate by  region and locality type	20050201.px
+20	Millennium Development Goals (MDGs)	'20.05	Goal 5: Improve maternal health	'20.05.03	Adolescent birth rate	20.05.03.01	Adolescent birth rate by  region and locality type	20050301.px
+20	Millennium Development Goals (MDGs)	'20.05	Goal 5: Improve maternal health	'20.05.04	Antenatal care coverage (at least one visit)	20.05.04.01	Antenatal care coverage (at least one visit) by  region and locality type	20050401.px
+20	Millennium Development Goals (MDGs)	'20.05	Goal 5: Improve maternal health	'20.05.05	Antenatal care coverage (at least four visits)	20.05.05.01	Antenatal care coverage (at least four visits) by  region and locality type	20050501.px
+20	Millennium Development Goals (MDGs)	'20.05	Goal 5: Improve maternal health	'20.05.06	Unmet need for family planning	20.05.06.01	 Unmet need for family planning by  region and locality type	20050601.px
+20	Millennium Development Goals (MDGs)	'20.07	Goal 7: Ensure environmental sustainability	'20.07.01	Proportion of land area covered by forest	20.07.01.01	Proportion of land area covered by forest by region	20070101.px
+20	Millennium Development Goals (MDGs)	'20.07	Goal 7: Ensure environmental sustainability	'20.07.02	CO2 emissions per capita	20.07.02.01	CO2 emissions per capita	20070201.px
+20	Millennium Development Goals (MDGs)	'20.07	Goal 7: Ensure environmental sustainability	'20.07.03	Proportion of population using an improved drinking water source	20.07.03.01	Proportion of population using an improved drinking water source by region and locality type	20070301.px
+20	Millennium Development Goals (MDGs)	'20.07	Goal 7: Ensure environmental sustainability	'20.07.04	Proportion of population using an improved sanitation facility	20.07.04.01	Proportion of population using an improved sanitation facility by region and locality type	20070401.px
+20	Millennium Development Goals (MDGs)	'20.08	Goal 8: Develop a global partnership for development	'20.08.01	Telephone lines per 100 population 	20.08.01.01	Telephone lines per 100 population	20080101.px
+20	Millennium Development Goals (MDGs)	'20.08	Goal 8: Develop a global partnership for development	'20.08.02	Cellular subscribers per 100 population	20.08.02.01	Cellular subscribers per 100 population	20080201.px
+20	Millennium Development Goals (MDGs)	'20.08	Goal 8: Develop a global partnership for development	'20.08.03	Internet users per 100 population	20.08.03.01	Internet users per 100 population  by Sex	20080301.px
+20	Millennium Development Goals (MDGs)	'20.08	Goal 8: Develop a global partnership for development	'20.08.03	Internet users per 100 population	20.08.03.02	Internet users per 100 population  by locality type	20080302.px

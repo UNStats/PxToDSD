@@ -1,0 +1,34 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020801";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل الممرضين لكل 1000 من السكان حسب المنطقة";
+DESCRIPTION[en]="Nurses per 1000 person by region";
+TITLE="معدل الممرضين لكل 1000 من السكان حسب المنطقة";
+TITLE[en]="Nurses per 1000 person by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الممرضين لكل 1000 من السكان حسب المنطقة";
+CONTENTS[en]="Nurses per 1000 person by region";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2013";
+VALUES[en]("Year")="2011","2013";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات احصاءات الصحة";
+SURVEY[en]="Health statistics database";
+DATA=
+2.8 3 
+2 2.1 
+4.1 4.5; 

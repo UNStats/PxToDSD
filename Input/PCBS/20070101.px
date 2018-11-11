@@ -1,0 +1,46 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=2;
+MATRIX="20070101";
+SUBJECT-CODE="MAA";
+SUBJECT-AREA="Maa-, metsä- ja kalatalous";
+SUBJECT-AREA[en]="Agriculture, Forestry and Fishery";
+DESCRIPTION="نسبة مساحة الأراضي المكسوة بالغابات حسب المنطقة";
+DESCRIPTION[en]="Proportion of land area covered by forest by region";
+TITLE="نسبة مساحة الأراضي المكسوة بالغابات حسب المنطقة";
+TITLE[en]="Proportion of land area covered by forest by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة مساحة الأراضي المكسوة بالغابات حسب المنطقة";
+CONTENTS[en]="Proportion of land area covered by forest by region";
+UNITS="نسبة";
+UNITS[en]="Proportion";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة";
+HEADING[en]="Region";
+VALUES("السنة")="1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009",
+"2010","2011","2012";
+VALUES[en]("Year")="1999","2000","2001","2002","2003","2004","2005","2006","2007","2008","2009",
+"2010","2011","2012";
+VALUES("المنطقة")="الاراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات استخدامات الاراضي في الاراضي الفلسطينية 1999-2011";
+SURVEY[en]="Land Use Statistics in the Palestinian Territory 1999-2011 Database";
+DATA=
+1.51 1.55 0.88 
+1.51 1.55 0.88 
+1.52 1.57 0.88 
+1.52 1.57 0.88 
+1.52 1.57 0.88 
+1.52 1.57 0.88 
+1.52 1.57 0.88 
+1.52 1.57 0.88 
+1.57 1.61 0.88 
+1.57 1.61 0.88 
+1.57 1.61 0.88 
+1.63 1.68 0.88 
+1.63 1.68 0.88 
+1.68 1.74 0.88; 

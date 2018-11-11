@@ -1,0 +1,36 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="031801";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="نسبة الأفراد (15 سنة فاكثر) الحاصلين على دبلوم متوسط فأعلى حسب المنطقة والجنس";
+DESCRIPTION[en]="Percentage of Persons (15 Years and above) who have Associate Diploma Certificate and above by Region and Sex";
+TITLE="نسبة الأفراد (15 سنة فاكثر) الحاصلين على دبلوم متوسط فأعلى حسب المنطقة والجنس";
+TITLE[en]="Percentage of Persons (15 Years and above) who have Associate Diploma Certificate and above by Region and Sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة الأفراد (15 سنة فاكثر) الحاصلين على دبلوم متوسط فأعلى حسب المنطقة والجنس";
+CONTENTS[en]="Percentage of Persons (15 Years and above) who have Associate Diploma Certificate and above by Region and Sex";
+UNITS="نسبة الأفراد (15 سنة فاكثر) الحاصلين على دبلوم متوسط فأعلى";
+UNITS[en]="Percentage of Persons (15 Years and above) who have Associate Diploma Certificate and above";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة","الجنس";
+HEADING[en]="Year","Sex";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza strip","Palestine";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+VALUES("الجنس")="ذكر","أنثى","المجموع";
+VALUES[en]("Sex")="Male","Female","Total";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات مسح القوى العاملة";
+SURVEY[en]="Labour Force Survey Database";
+DATA=
+15.3 14.8 15 15.5 15.6 15.6 15 15.6 15.3 15.3 16.2 15.8 
+19.7 15.8 17.7 20.7 17.8 19.3 21.5 18.7 20.1 21.6 19.7 20.7 
+16.9 15.1 16.1 17.4 16.4 16.9 17.3 16.8 17.1 17.6 17.5 17.6; 

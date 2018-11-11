@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020101";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل وفيات الرضع لكل 1000 مولود حي حسب المنطقة";
+DESCRIPTION[en]="Infant  Mortality Rate per 1000 live birth by region";
+TITLE="معدل وفيات الرضع لكل 1000 مولود حي حسب المنطقة";
+TITLE[en]="Infant  Mortality Rate per 1000 live birth by region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل وفيات الرضع لكل 1000 مولود حي حسب المنطقة";
+CONTENTS[en]="Infant  Mortality Rate per 1000 live birth by region";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+18.9 18.2 
+18.1 17.1 
+20.1 19.6; 

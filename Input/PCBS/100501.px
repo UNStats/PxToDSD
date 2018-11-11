@@ -1,0 +1,68 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="100501";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="التوزيع النسبي للعاملين عمالة غير منظمة  15 سنة فأكثر في فلسطين حسب الجنس والنشاط الاقتصادي والمنطقة";
+DESCRIPTION[en]="Percentage Distribution of Informal Employment Persons Aged 15 Years and Above by Economic Activity , Sex and  Region";
+TITLE="التوزيع النسبي للعاملين عمالة غير منظمة  15 سنة فأكثر في فلسطين حسب الجنس والنشاط الاقتصادي والمنطقة";
+TITLE[en]="Percentage Distribution of Informal Employment Persons Aged 15 Years and Above by Economic Activity , Sex and  Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="التوزيع النسبي للعاملين عمالة غير منظمة  15 سنة فأكثر في فلسطين حسب الجنس والنشاط الاقتصادي والمنطقة";
+CONTENTS[en]="Percentage Distribution of Informal Employment Persons Aged 15 Years and Above by Economic Activity , Sex and  Region";
+UNITS="نسبة";
+UNITS[en]="Percent";
+STUB="الجنس","النشاط الإقتصادي";
+STUB[en]="Sex","Economic Activity";
+HEADING="السنة","المنطقة";
+HEADING[en]="Year","Region";
+VALUES("الجنس")="كلا  الجنسين","ذكور","إناث";
+VALUES[en]("Sex")="Both Sexes","Males","Females";
+VALUES("النشاط الإقتصادي")="الزراعة والصيد والحراجة وصيد الأسماك",
+"التعدين والمحاجر والصناعة التحويلية","البناء والتشييد","التجارة والمطاعم والفنادق",
+"النقل والتخزين والاتصالات","الخدمات والفروع الأخرى","المجموع";
+VALUES[en]("Economic Activity")="Agriculture, fishing and forestry",
+"Mining, quarrying and manufacturing","Construction","Commerce, restaurants and hotels",
+"Transportation, Storage & Communication","Services and other branches","Total";
+VALUES("السنة")="2012","2013","2014";
+VALUES[en]("Year")="2012","2013","2014";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات مسح القوى العاملة";
+SURVEY[en]="Labor Force Survey";
+OFFICIAL-STATISTICS=YES;
+DATA=
+20.6 16 19.4 20.5 16.2 19.1 19.8 17.9 19.2 
+18.6 9.6 16.1 21.4 8.9 17.3 21.4 8.5 17.8 
+25.6 14.6 22.6 18.7 13.1 16.9 19.6 3.8 15.2 
+22 31.4 24.5 24.6 32.9 27.3 25.2 35.4 28.1 
+2.9 10.7 5 3.1 9.8 5.3 2.4 8.9 4.2 
+10.4 17.6 12.3 11.7 19.1 14.1 11.6 25.5 15.5 
+".." ".." ".." 100 100 100 100 100 100 
+15.3 13 14.6 15.6 12.8 14.6 15.7 11.7 14.6 
+19.1 10.4 16.6 21.8 9.7 17.5 21.8 10 18.4 
+31.4 16.4 27.1 23.9 14.9 20.8 25.1 4.8 19.3 
+23.9 34.3 26.9 28.1 35.9 30.9 27.6 41.4 31.6 
+3.4 12 5.9 3.6 11 6.3 2.9 10.8 5.1 
+6.9 13.9 8.9 7 15.7 9.9 6.9 21.3 11 
+".." ".." ".." 100 100 100 100 100 100 
+44 40.2 43.3 37.7 40 38.2 36.1 33.5 43.8 
+16.3 3.2 13.9 20 2.6 16.2 15.6 20 2.2 
+0.2 0.3 0.3 0.3 0 0.2 0.7 0.9 0 
+13.4 8.5 12.5 12.1 11.6 12 15.3 17 10.2 
+0.8 0.3 0.7 1.2 0.8 1.1 0.8 0.7 1 
+25.3 47.5 29.3 28.7 45 32.3 31.5 27.9 42.8 
+".." ".." ".." 100 100 100 100 100 100; 

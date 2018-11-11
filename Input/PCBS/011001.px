@@ -1,0 +1,42 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="011001";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="معدلات الزواج الخام في فلسطين حسب المنطقة";
+DESCRIPTION[en]="Crude Marriage Rate in Palestine by Region";
+TITLE="معدلات الزواج الخام في فلسطين حسب المنطقة";
+TITLE[en]="Crude Marriage Rate in Palestine by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدلات الزواج الخام في فلسطين حسب المنطقة";
+CONTENTS[en]="Crude Marriage Rate in Palestine by Region";
+UNITS="معدل";
+UNITS[en]="Average";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات  الزواج والطلاق";
+SURVEY[en]="Database of Marriage and Divorce Database";
+OFFICIAL-STATISTICS=YES;
+DATA=
+8.7 9.4 9.7 9.6 
+7.8 9 9.3 9.9 
+10.1 10.1 10.2 9.1; 

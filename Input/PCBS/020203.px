@@ -1,0 +1,31 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020203";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل وفيات الأطفال دون سن الخمس سنوات لكل 1000 مولود حي حسب الجنس";
+DESCRIPTION[en]="Under-Five Mortality Rate per 1000 live birth by Sex";
+TITLE="معدل وفيات الأطفال دون سن الخمس سنوات لكل 1000 مولود حي حسب الجنس";
+TITLE[en]="Under-Five Mortality Rate per 1000 live birth by Sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل وفيات الأطفال دون سن الخمس سنوات لكل 1000 مولود حي حسب الجنس";
+CONTENTS[en]="Under-Five Mortality Rate per 1000 live birth by Sex";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="الجنس";
+STUB[en]="Sex";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("الجنس")="ذكور","إناث";
+VALUES[en]("Sex")="Males","Females";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+26.6 22.5 
+20.1 20.9; 

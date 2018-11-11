@@ -1,0 +1,29 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="090401";
+SUBJECT-CODE="-";
+SUBJECT-AREA="--";
+SUBJECT-AREA[en]="--";
+DESCRIPTION="عدد المنازل التي هدمت في الاراضي الفلسطينية بسبب عدم الترخيص";
+DESCRIPTION[en]="The number of houses that were demolished in Palestine as an un-licensing";
+TITLE="عدد المنازل التي هدمت في الاراضي الفلسطينية بسبب عدم الترخيص";
+TITLE[en]="The number of houses that were demolished in Palestine as an un-licensing";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد المنازل التي هدمت في الاراضي الفلسطينية بسبب عدم الترخيص";
+CONTENTS[en]="The number of houses that were demolished in Palestine as an un-licensing";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+VALUES("السنة")="2011","2012";
+VALUES[en]("Year")="2011","2012";
+SOURCE="بتسيلم - مركز المعلومات الإسرائيلي لحقوق الإنسان في الأراضي المحتلة";
+SOURCE[en]="B'Tselem - The Israeli Information Center for Human Rights in the Occupied Territories";
+LINK="http://www.btselem.org/";
+LINK[en]="http://www.btselem.org/";
+DATA=
+179 
+116; 

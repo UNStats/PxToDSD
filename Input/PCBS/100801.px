@@ -1,0 +1,47 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="10801";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+COPYRIGHT=YES;
+DESCRIPTION="حصة النساء من الوظائف المدفوعة الأجر في القطاع غير الزراعي حسب المنطقة";
+DESCRIPTION[en]="Share of women in paid jobs in the non-agricultural sector by Region";
+TITLE="حصة النساء من الوظائف المدفوعة الأجر في القطاع غير الزراعي حسب المنطقة";
+TITLE[en]="Share of women in paid jobs in the non-agricultural sector by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="حصة النساء من الوظائف المدفوعة الأجر في القطاع غير الزراعي حسب المنطقة";
+CONTENTS[en]="Share of women in paid jobs in the non-agricultural sector by Region";
+UNITS="نسبة";
+UNITS[en]="Percent";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza Strip","Palestine";
+VALUES("السنة")="2010","2011","2012","الربع الأول 2012","الربع الثاني 2012","الربع الثالث 2012",
+"الربع الرابع 2012","الربع الأول 2013","الربع الثاني 2013","الربع الثالث 2013","الربع الرابع 2013",
+"الربع الأول 2014","الربع الثاني 2014","الربع الثالث 2014","الربع الرابع 2014","2014",
+"الربع الاول 2015";
+VALUES[en]("Year")="2010","2011","2012","Q1 - 2012","Q2 - 2012","Q3 - 2012","Q4 - 2012",
+"Q1 - 2013","Q2 - 2013","Q3 - 2013","Q4 - 2013","Q1 - 2014","Q2-2014","Q3-2014","Q4-2014","2014",
+"Q1-2015";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات مسح القوى العاملة";
+SURVEY[en]="Labor Force Survey";
+OFFICIAL-STATISTICS=YES;
+DATA=
+18.9 18.7 18.1 19.5 17.6 16.9 18.3 18.2 16.8 16.8 18 17.2 16.9 16.8 18 17.2 18 
+14.1 14.6 14 15.4 14.1 12.1 14.3 14.8 14 12.8 14.7 15.5 14.7 16.2 16.9 15.8 17.4 
+17.5 17.4 16.7 18.1 16.5 15.3 17 17.1 15.8 15.5 17 16.7 16.2 16.7 17.6 16.8 17.8; 

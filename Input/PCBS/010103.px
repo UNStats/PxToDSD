@@ -1,0 +1,46 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=0;
+SHOWDECIMALS=0;
+ROUNDING=0;
+MATRIX="010103";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Asuminen";
+CONFIDENTIAL="010101.px";
+COPYRIGHT=YES;
+DESCRIPTION="عدد السكان المقدر في فلسطين منتصف العام حسب المنطقة والجنس";
+DESCRIPTION[en]="Projected Population in  Palestine  by Region and Sex";
+TITLE="عدد السكان المقدر في فلسطين منتصف العام حسب المنطقة والجنس";
+TITLE[en]="Projected Population in  Palestine  by Region and Sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد السكان المقدر في فلسطين منتصف العام حسب المنطقة والجنس";
+CONTENTS[en]="Projected Population in  Palestine  by Region and Sex";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة","الجنس";
+HEADING[en]="Year","Sex";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+VALUES("الجنس")="كلا الجنسين","ذكور","إناث";
+VALUES[en]("Sex")="Both Sexes","Males","Females";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="تقديرات مبنية على النتائج النهائية للتعداد العام للسكان والمساكن والمنشآت ،2007.";
+SURVEY[en]="Revised Estimates based on the final results of Population, Housing and Establishment Ce"
+"nsus 2007";
+OFFICIAL-STATISTICS=YES;
+DATA=
+4168860 2116782 2052078 4293313 2180386 2112927 4420549 2245400 2175149 4550368 2311721 2238647 
+2580168 1310234 1269934 2649020 1345414 1303606 2719112 1381217 1337895 2790331 1417591 1372740 
+1588692 806548 782144 1644293 834972 809321 1701437 864183 837254 1760037 894130 865907; 

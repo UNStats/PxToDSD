@@ -1,0 +1,62 @@
+﻿CHARSET="ANSI";
+AXIS-VERSION="1.0";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+CREATION-DATE="20130905 00:00";
+NEXT-UPDATE="20140905 00:00";
+DECIMALS=1;
+SHOWDECIMALS=1;
+ROUNDING=0;
+MATRIX="010902";
+AGGREGALLOWED=YES;
+AUTOPEN=NO;
+SUBJECT-CODE="ASU";
+SUBJECT-AREA="Asuminen";
+SUBJECT-AREA[en]="Housing";
+COPYRIGHT=YES;
+DESCRIPTION="معدلات الطلاق الخام في فلسطين حسب المحافظة";
+DESCRIPTION[en]="Crude Divorce Rate in Palestine by Governorate";
+TITLE="معدلات الطلاق الخام في فلسطين حسب المحافظة";
+TITLE[en]="Crude Divorce Rate in Palestine by Governorate";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدلات الطلاق الخام في فلسطين حسب المحافظة";
+CONTENTS[en]="Crude Divorce Rate in Palestine by Governorate";
+UNITS="معدل";
+UNITS[en]="Average";
+STUB="المحافظة";
+STUB[en]="Governorate";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المحافظة")="فلسطين","الضفة الغربية","جنين","طوباس","طولكرم","نابلس","قلقيلية","سلفيت",
+"رام الله والبيرة","أريحا والأغوار","القدس","بيت لحم","الخليل","قطاع غزة","شمال غزة","غزة",
+"دير البلح","خانيونس","رفح";
+VALUES[en]("Governorate")="Palestine","West Bank","Jenin","Tubas","Tulkarm","Nablus","Qalqiliya",
+"Salfit","Ramallah & Al-Bireh","Jericho and Al Aghwar","Jerusalem","Bethlehem","Hebron",
+"Gaza Strip","North Gaza","Gaza","Deir El-Balah","Khanyunis","Rafah";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات  الزواج والطلاق";
+SURVEY[en]="Database of Marriage and Divorce Database";
+OFFICIAL-STATISTICS=YES;
+DATA=
+1.5 1.5 1.6 1.7 
+1.3 1.4 1.5 1.7 
+1.5 1.6 1.4 2 
+1.1 1.1 1.4 1.5 
+1.7 1.9 2 2.6 
+1.6 1.7 1.7 1.9 
+1.4 1.9 2 2 
+1.6 1.7 2.1 1.9 
+1.6 1.8 2.2 2 
+1.9 1.8 2 2.5 
+1.1 1.2 1.3 1.5 
+0.7 0.9 0.7 1 
+1.1 1.1 1.2 1.3 
+1.7 1.7 1.8 1.6 
+1.8 1.6 1.8 1.6 
+1.8 1.8 1.8 1.8 
+1.7 1.6 1.9 1.5 
+1.7 1.7 1.7 1.5 
+1.7 1.9 1.6 1.7; 

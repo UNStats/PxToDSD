@@ -1,0 +1,48 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20080201";
+SUBJECT-CODE="TTT";
+SUBJECT-AREA="Tiede, teknologia ja tietoyhteiskunta";
+SUBJECT-AREA[en]="Science, Technology and Information Society";
+DESCRIPTION="خطوط الهاتف الجوال لكل 100 نسمة";
+DESCRIPTION[en]="Cellular subscribers per 100 population";
+TITLE="خطوط الهاتف الجوال لكل 100 نسمة";
+TITLE[en]="Cellular subscribers per 100 population";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="خطوط الهاتف الجوال لكل 100 نسمة";
+CONTENTS[en]="Cellular subscribers per 100 population";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة";
+HEADING[en]="Region";
+VALUES("السنة")="2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010",
+"2011","2012","2013";
+VALUES[en]("Year")="2000","2001","2002","2003","2004","2005","2006","2007","2008","2009","2010",
+"2011","2012","2013";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","Westbank","Gaza strip";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات احصاءات النقل والاتصالات في الاراضي الفلسطينية 1998-2011";
+SURVEY[en]="Transportation & Communication Statistics in the Palestinian Territory  Database_199"
+"8-2011";
+DATA=
+2.6 ".." ".." 
+5.2 ".." ".." 
+7.1 5.7 9.5 
+7.1 ".." ".." 
+11.8 8.6 18.8 
+14.8 12.3 19.2 
+21 ".." ".." 
+27.1 ".." ".." 
+33.9 ".." ".." 
+45.4 ".." ".." 
+64.3 ".." ".." 
+68.2 ".." ".." 
+73.2 ".." ".." 
+72.9 ".." ".."; 

@@ -1,0 +1,52 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020602";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="معدل الأسرة لكل 10000 من السكان حسب المحافظة والمنطقة";
+DESCRIPTION[en]="Beds per 10000 person by governorate and Region";
+TITLE="معدل الأسرة لكل 10000 من السكان حسب المحافظة والمنطقة";
+TITLE[en]="Beds per 10000 person by governorate and Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الأسرة لكل 10000 من السكان حسب المحافظة والمنطقة";
+CONTENTS[en]="Beds per 10000 person by governorate and Region";
+UNITS="سرير";
+UNITS[en]="Bed";
+STUB="المحافظة";
+STUB[en]="Governorate";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المحافظة")="الضفة الغربية","جنين","طوباس","طولكرم","نابلس","قلقيلية","سلفيت",
+"رام الله والبيرة","أريحا والأغوار","القدس","بيت لحم","الخليل","قطاع غزة","شمال غزة","غزة",
+"دير البلح","خانيونس","رفح","فلسطين";
+VALUES[en]("Governorate")="West Bank","Jenin","Tubas","Tulkarm","Nablus","Qalqilia","Salfit",
+"Ramallah","Jericho","Jerusalem","Bethlehem","Hebron","Gaza Strip","North Gaza","Gaza",
+"Deir al Balah","Khan Younis","Rafah","Palestine";
+VALUES("السنة")="2011","2012","2013","2014";
+VALUES[en]("Year")="2011","2012","2013","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+12.3 11.8 11.8 12.6 
+6.2 6.2 7.1 7.1 
+0 0 0 5.9 
+8.8 8.5 8.9 8.8 
+14.9 14.6 14.4 15.8 
+13.3 11.4 11.3 11.2 
+7.7 7.5 7.3 7.2 
+10.4 10.5 10.5 13 
+11.6 11.1 10.8 10.6 
+17.8 16 15.8 16 
+28.6 27.5 26.8 27.4 
+8.3 8.4 8.7 8.8 
+14.2 13.9 13.6 13.8 
+9.8 8.7 8.6 9.1 
+21.2 19.8 18.6 19.3 
+4.5 5.4 5.8 6.7 
+19.1 20.5 20.3 20.1 
+5.1 5.4 6.6 5.1 
+13 12.6 12.5 13.1; 

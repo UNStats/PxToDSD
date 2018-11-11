@@ -1,0 +1,51 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20020201";
+SUBJECT-CODE="KAN";
+SUBJECT-AREA="Kansantalous";
+SUBJECT-AREA[en]="National Accounts";
+DESCRIPTION="نسبة التلاميذ الذين يباشرون الدراسة في الصف الأول ويبلغون الصف الأخير من التعليم الابتدائي";
+DESCRIPTION[en]="Proportion of pupils starting grade 1 who reach last grade of  primary";
+TITLE="نسبة التلاميذ الذين يباشرون الدراسة في الصف الأول ويبلغون الصف الأخير من التعليم الابتدائي";
+TITLE[en]="Proportion of pupils starting grade 1 who reach last grade of  primary";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة التلاميذ الذين يباشرون الدراسة في الصف الأول ويبلغون الصف الأخير من التعليم الابتدائي";
+CONTENTS[en]="Proportion of pupils starting grade 1 who reach last grade of  primary";
+UNITS="نسبة";
+UNITS[en]="Proportion";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة";
+HEADING[en]="Region";
+VALUES("السنة")="2001/2000","2002/2001","2003/2002","2004/2003","2005/2004","2006/2005",
+"2007/2006","2008/2007","2009/2008","2010/2009","2011/2010","2012/2011","2012/2013","2013/2014";
+VALUES[en]("Year")="2001/2000","2002/2001","2003/2002","2004/2003","2005/2004","2006/2005",
+"2007/2006","2008/2007","2009/2008","2010/2009","2011/2010","2012/2011","2012/2013","2013/2014";
+VALUES("المنطقة")="الاراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات مسح التعليم 1995/1994-2011/2010- وزارة التربية والتعليم";
+SURVEY[en]="Education Census Database 1994/1995-2011/2012-Ministry of Education";
+NOTE="تم استخدام مجموعة من الرموز في الجداول، ودلالة هذه الرموز كالتالي: (.) التصنيف لا ينطبق، (..) : البيانات غير متوفرة.";
+NOTE[en]="The special symbols were used in the tables. The representations of these symbols are: (.): Category not applicable, (..): Data not available.";
+VALUENOTEX[en]("Region","Palestine")="The Data excluding those parts of Jerusalem which were annexed by Israel in 1967";
+VALUENOTEX[en]("Region","West Bank")="The Data excluding those parts of Jerusalem which were annexed by Israel in 1967";
+DATA=
+98.3 98.3 98.3 
+97.5 ".." ".." 
+97.2 95.6 99.6 
+99.3 99.1 99.6 
+99.4 99 99.5 
+99.4 99 99.5 
+99.4 99 99.5 
+99.4 99 99.5 
+99.4 99 99.5 
+99.4 99 99.5 
+99.4 99 99.5 
+99.4 99 99.5 
+99.4 99.1 99.5 
+99.1 98.8 99.4; 

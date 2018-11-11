@@ -1,0 +1,55 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+MATRIX="080201";
+SUBJECT-CODE="OIK";
+SUBJECT-AREA="الحكم و الأمن و العدالة";
+SUBJECT-AREA[en]="Justice";
+DESCRIPTION="عدد المحاكم حسب المحافظة ونوع المحكمة";
+DESCRIPTION[en]="The number of courts by Governorate and  type of courts";
+TITLE="عدد المحاكم حسب المحافظة ونوع المحكمة";
+TITLE[en]="The number of courts by Governorate and  type of courts";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد المحاكم حسب المحافظة ونوع المحكمة";
+CONTENTS[en]="The number of courts by Governorate and  type of courts";
+UNITS="عدد المحاكم";
+UNITS[en]="Number of Courts";
+STUB="المحافظة";
+STUB[en]="Governorate";
+HEADING="السنة","نوع المحاكم";
+HEADING[en]="Year","Type of courts";
+VALUES("المحافظة")="جنين","طوباس","قلقيلية","طولكرم","نابلس","سلفيت","رام الله والبيرة","أريحا",
+"القدس","بيت لحم","الخليل","الضفة الغربية","شمال غزة","غزة","دير البلح","خانيونس","رفح","قطاع غزة",
+"فلسطين";
+VALUES[en]("Governorate")="Jenin","Tubas","Qalqilya","Tulkarm","Nablus","Salfit",
+"Ramallah & Al-Bireh","Jericho & AL- Aghwar","Jerusalem","Bethlehem","Hebron","West Bank",
+"North Gaza","Gaza","Dir El Balah","Khan younis","Rafah","Total Gaza Strip","Palestine";
+VALUES("السنة")="2011","2012","2013";
+VALUES[en]("Year")="2011","2012","2013";
+VALUES("نوع المحاكم")="محاكم الصلح","محاكم البداية","محاكم الاستئناف","المجموع";
+VALUES[en]("Type of courts")="Magistrates courts","Primary courts","Appellate courts","Total";
+SOURCE="الجهاز المركزي للإحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات إحصاءات الجريمة والضحية 1996-2013";
+SURVEY[en]="Data Base of Crime and Victimization Statistics 1996-2013";
+DATA=
+1 1 0 ".." 1 1 0 ".." 1 1 0 2 
+1 0 0 ".." 1 0 0 ".." 1 0 0 1 
+1 1 0 ".." 1 1 0 ".." 1 1 0 2 
+1 1 0 ".." 1 1 0 ".." 1 1 0 2 
+1 1 0 ".." 1 1 0 ".." 1 1 0 2 
+1 0 0 ".." 1 0 0 ".." 1 0 0 1 
+1 1 1 ".." 1 1 1 ".." 1 1 1 3 
+1 1 0 ".." 1 1 0 ".." 1 1 0 2 
+0 0 1 ".." 0 0 1 ".." 0 0 1 1 
+1 1 0 ".." 1 1 0 ".." 1 1 0 2 
+3 1 0 ".." 3 1 0 ".." 3 1 0 4 
+12 8 2 ".." 12 8 2 ".." 12 8 2 22 
+1 0 0 ".." 1 0 0 ".." 1 0 0 1 
+1 2 1 ".." 1 2 1 ".." 1 2 1 4 
+1 0 0 ".." 1 0 0 ".." 1 0 0 1 
+1 1 0 ".." 1 1 0 ".." 1 1 0 2 
+1 0 0 ".." 1 0 0 ".." 1 0 0 1 
+5 3 1 ".." 5 3 1 ".." 5 3 1 9 
+17 11 3 ".." 17 11 3 ".." 17 11 3 31; 

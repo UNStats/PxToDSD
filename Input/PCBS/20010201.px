@@ -1,0 +1,49 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="20010201";
+SUBJECT-CODE="-";
+SUBJECT-AREA="-";
+SUBJECT-AREA[en]="-";
+DESCRIPTION="نسبة فجوة الفقرحسب المنطقة ونوع التجمع";
+DESCRIPTION[en]="Poverty gap ratio by locality type";
+TITLE="نسبة فجوة الفقرحسب المنطقة ونوع التجمع";
+TITLE[en]="Poverty gap ratio by locality type";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة فجوة الفقرحسب المنطقة ونوع التجمع";
+CONTENTS[en]="Poverty gap ratio by locality type";
+UNITS="نسبة";
+UNITS[en]="Percentage";
+STUB="السنة";
+STUB[en]="Year";
+HEADING="المنطقة","نوع التجمع";
+HEADING[en]="Region","Locality Type";
+VALUES("السنة")="1996","1997","1998","2001","2004","2005","2006","2007","2009","2010","2011";
+VALUES[en]("Year")="1996","1997","1998","2001","2004","2005","2006","2007","2009","2010","2011";
+VALUES("المنطقة")="فلسطين","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestine","West Bank","Gaza Strip";
+VALUES("نوع التجمع")="المجموع","حضر","ريف","مخيمات";
+VALUES[en]("Locality Type")="Total","Urban","Rural","Camps";
+SOURCE="";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="";
+SURVEY[en]="Household Expenditure and Consumption Survey Database_1996-1998,2001,2004-2011";
+NOTEX="في الأعوام 2009-2011 تم التعديل على المنهجية وبالتالي لا مجال للمقارنة مابين هذه الأعوام والأعوام السابقة (والنسب للاعوام 2009-2011 على مستوى الافراد بينما السنوات السابقة على مستوى الأسر)";
+NOTEX[en]="Adjustemnts on poverty methodolgy had been done in the years 2009-2011, so there is no way for comparision between those years and the previous years (2007 and below), (Rates in 2009-2011 years were according to individuals while in previous "
+"years were according to households).";
+NOTE="";
+NOTE[en]="";
+DATA=
+6.2 5.3 5.5 11.2 3.8 2.8 4.3 4.3 12.3 9.9 15 14.1 
+6 5.5 5.2 9.2 3.9 3 4.5 3 10.8 9.4 11.6 12 
+5.5 4.8 4.6 9.3 3.7 2.5 4.2 5.4 9.4 8.6 8.2 10.8 
+7.6 ".." ".." ".." 4.6 ".." ".." ".." 13.9 ".." ".." ".." 
+6.6 5.3 6.3 11.4 4.8 ".." ".." ".." 10.4 ".." ".." ".." 
+8 6.7 9.1 10.9 5.8 4.2 7.4 6.9 12.5 11.3 44.1 13.2 
+8.5 7.9 7.5 11.2 5.2 4.1 5.8 11.3 14.8 12.2 57.2 12.9 
+9.8 8.8 8.7 15.6 5.8 4.8 6 13.8 17.6 15.7 47.8 16.2 
+6.3 6.3 6.5 6.3 4.2 3.9 4.5 6.9 10.1 9.9 33.8 5.8 
+6.4 6.7 5.1 7.1 4.1 4.3 3.6 4.5 10.3 10 26 8.7 
+6 6.3 3.8 7.4 3.9 4.2 3 5.3 9.3 9.2 15.5 8.7; 

@@ -1,0 +1,29 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=0;
+SHOWDECIMALS=0;
+MATRIX="090601";
+SUBJECT-CODE="-";
+SUBJECT-AREA="--";
+SUBJECT-AREA[en]="--";
+DESCRIPTION="عدد المستعمرين الاسرائيليين في الضفة الغربية";
+DESCRIPTION[en]="Number of Israeli Settlers in the West Bank";
+TITLE="عدد المستعمرين الاسرائيليين في الضفة الغربية";
+TITLE[en]="Number of Israeli Settlers in the West Bank";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="عدد المستعمرين الاسرائيليين في الضفة الغربية";
+CONTENTS[en]="Number of Israeli Settlers in the West Bank";
+UNITS="عدد";
+UNITS[en]="Number";
+STUB="السنة";
+STUB[en]="Year";
+VALUES("السنة")="2011","2012";
+VALUES[en]("Year")="2011","2012";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="قاعدة بيانات المستعمرات";
+SURVEY[en]="Database of settlements";
+DATA=
+536932 
+563546; 

@@ -1,0 +1,43 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="030201";
+SUBJECT-CODE="KOU";
+SUBJECT-AREA="Koulutus";
+SUBJECT-AREA[en]="Education";
+DESCRIPTION="معدل الالتحاق الاجمالي حسب المنطقة الجغرافية والجنس";
+DESCRIPTION[en]="Gross Enrollment rate by Region and Sex";
+TITLE="معدل الالتحاق الاجمالي حسب المنطقة الجغرافية والجنس";
+TITLE[en]="Gross Enrollment rate by Region and Sex";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="معدل الالتحاق الاجمالي حسب المنطقة الجغرافية والجنس";
+CONTENTS[en]="Gross Enrollment rate by Region and Sex";
+UNITS="معدل الالتحاق الاجمالي";
+UNITS[en]="Gross Enrollment rate";
+STUB="السنة الدراسية","المنطقة";
+STUB[en]="Scholastic Year","Region";
+HEADING="الجنس";
+HEADING[en]="Sex";
+VALUES("السنة الدراسية")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES[en]("Scholastic Year")="2012/2011","2013/2012","2013/2014","2014/2015";
+VALUES("المنطقة")="الضفة الغربية","قطاع غزة","فلسطين";
+VALUES[en]("Region")="West Bank","Gaza strip","Palestine";
+VALUES("الجنس")="ذكر","أنثى","كلا الجنسين";
+VALUES[en]("Sex")="Male","Female","Both Sexes";
+SOURCE="وزارة التربية والتعليم العالي";
+SOURCE[en]="Palestinian Ministry of Education";
+DATA=
+88.3 96.1 92.1 
+89 92.3 90.6 
+88.6 94.6 91.5 
+89.6 94.7 92.1 
+89 92.3 90.6 
+89.3 93.7 91.5 
+89.3 94.9 92 
+88.5 92.4 90.4 
+89 93.9 91.4 
+89.3 94.8 92 
+89.2 93.4 91.3 
+89.2 94.3 91.7; 

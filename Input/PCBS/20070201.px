@@ -1,0 +1,31 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=2;
+SHOWDECIMALS=2;
+MATRIX="20070201";
+SUBJECT-CODE="ENV";
+SUBJECT-AREA="";
+SUBJECT-AREA[en]="Enviornment";
+DESCRIPTION="نصيب الفرد من انبعاثات غاز ثاني أكسيد الكربون";
+DESCRIPTION[en]="CO2 emissions per capita";
+TITLE="نصيب الفرد من انبعاثات غاز ثاني أكسيد الكربون";
+TITLE[en]="CO2 emissions per capita";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نصيب الفرد من انبعاثات غاز ثاني أكسيد الكربون";
+CONTENTS[en]="CO2 emissions per capita";
+UNITS="الطن المكافيء";
+UNITS[en]="Equivalent ton";
+STUB="السنة";
+STUB[en]="Year";
+VALUES("السنة")="2002","2003","2010","2011";
+VALUES[en]("Year")="2002","2003","2010","2011";
+SOURCE="الجهاز المركزي للاحصاء الفلسطيني";
+SOURCE[en]="Palestinian Central Bureau of Statistics";
+SURVEY="التقرير المنهجي لحساب المنبعثات 2010";
+SURVEY[en]="Emissions Calculations Methodological Report 2010";
+DATA=
+1.09 
+1.21 
+1.03 
+1.04; 

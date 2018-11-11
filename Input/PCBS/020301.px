@@ -1,0 +1,32 @@
+﻿CHARSET="ANSI";
+LANGUAGE="ar";
+LANGUAGES="ar","en";
+DECIMALS=1;
+SHOWDECIMALS=1;
+MATRIX="020301";
+SUBJECT-CODE="TER";
+SUBJECT-AREA="Terveys";
+SUBJECT-AREA[en]="Health";
+DESCRIPTION="نسبة المواليد الذين يزنون أقل من الطبيعي (أقل من 2500غرام ) عند الولادة حسب المنطقة";
+DESCRIPTION[en]="Low-birth weight (Below 2500 grams ), by Region";
+TITLE="نسبة المواليد الذين يزنون أقل من الطبيعي (أقل من 2500غرام ) عند الولادة حسب المنطقة";
+TITLE[en]="Low-birth weight (Below 2500 grams ), by Region";
+DESCRIPTIONDEFAULT=YES;
+CONTENTS="نسبة المواليد الذين يزنون أقل من الطبيعي (أقل من 2500غرام ) عند الولادة حسب المنطقة";
+CONTENTS[en]="Low-birth weight (Below 2500 grams ), by Region";
+UNITS="معدل";
+UNITS[en]="Rate";
+STUB="المنطقة";
+STUB[en]="Region";
+HEADING="السنة";
+HEADING[en]="Year";
+VALUES("المنطقة")="الأراضي الفلسطينية","الضفة الغربية","قطاع غزة";
+VALUES[en]("Region")="Palestinian Territory","West Bank","Gaza Strip";
+VALUES("السنة")="2010","2014";
+VALUES[en]("Year")="2010","2014";
+SOURCE="وزارة الصحة الفلسطينية";
+SOURCE[en]="Palestinian National Health";
+DATA=
+9.1 8.3 
+8.9 8.4 
+9.3 8.3; 
